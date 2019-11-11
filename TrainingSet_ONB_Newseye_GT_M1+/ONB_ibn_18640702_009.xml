@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+   <Metadata>
+      <Creator>University of Innsbruck</Creator>
+      <Created>2018-11-29T10:47:54.087+01:00</Created>
+      <LastChange>2019-02-01T11:38:07.318+01:00</LastChange>
+      <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+      <TranskribusMetadata docId="126495"
+                           pageId="4785008"
+                           pageNr="35"
+                           tsid="7883240"
+                           status="GT"
+                           userId="206"
+                           imgUrl="https://files.transkribus.eu/Get?id=PYUMOZLRQHCUZYZEYQGHPJAA&amp;fileType=view"
+                           xmlUrl="https://files.transkribus.eu/Get?id=ZTZAKXTQLIQMHCVFSCEXZTKL"
+                           imageId="2199538"/>
+   </Metadata>
+   <Page imageFilename="ONB_ibn_18640702_009.tif"
+         imageWidth="1536"
+         imageHeight="2321">
+      <PrintSpace>
+         <Coords points="20,7 1536,7 1536,2321 20,2321"/>
+      </PrintSpace>
+      <ReadingOrder>
+         <OrderedGroup id="ro_1567004083275" caption="Regions reading order">
+            <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            <RegionRefIndexed index="3" regionRef="r_3_2"/>
+            <RegionRefIndexed index="4" regionRef="region_1545890141260_50"/>
+            <RegionRefIndexed index="5" regionRef="r_7_1"/>
+            <RegionRefIndexed index="6" regionRef="r_7_2"/>
+            <RegionRefIndexed index="7" regionRef="r_7_3"/>
+            <RegionRefIndexed index="8" regionRef="r_7_4"/>
+            <RegionRefIndexed index="10" regionRef="region_1545891607175_52"/>
+            <RegionRefIndexed index="11" regionRef="r_9_1"/>
+            <RegionRefIndexed index="12" regionRef="r_9_2"/>
+            <RegionRefIndexed index="13" regionRef="r_9_3"/>
+            <RegionRefIndexed index="14" regionRef="r_9_4"/>
+            <RegionRefIndexed index="15" regionRef="r_9_5"/>
+            <RegionRefIndexed index="16" regionRef="r_9_6"/>
+            <RegionRefIndexed index="17" regionRef="r_9_7"/>
+            <RegionRefIndexed index="18" regionRef="r_10_1"/>
+            <RegionRefIndexed index="19" regionRef="r_10_2"/>
+            <RegionRefIndexed index="20" regionRef="r_10_3"/>
+            <RegionRefIndexed index="21" regionRef="r_10_4"/>
+            <RegionRefIndexed index="22" regionRef="r_10_5"/>
+            <RegionRefIndexed index="23" regionRef="r_11_1"/>
+         </OrderedGroup>
+      </ReadingOrder>
+      <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+         <Coords points="77,10 1293,10 1293,81 77,81"/>
+         <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <Coords points="78,11 1292,11 1292,80 78,80"/>
+            <Baseline points="76,48 354,53 416,55 509,56 789,61 1062,68 1162,69 1204,70 1244,74 1294,72"/>
+            <TextEquiv>
+               <Unicode>Extrabeilage zu den Innsbrucker Nachrichten Nr. 148.</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Extrabeilage zu den Innsbrucker Nachrichten Nr. 148.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+         <Coords points="90,105 1408,105 1408,295 90,295"/>
+      </GraphicRegion>
+      <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+         <Coords points="549,195 951,195 951,258 549,258"/>
+         <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <Coords points="550,196 950,196 950,257 550,257"/>
+            <Baseline points="548,237 656,243 717,245 950,250"/>
+            <TextEquiv>
+               <Unicode>Alle 3 Wochen</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="18.0" bold="true"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Alle 3 Wochen</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+         <Coords points="271,254 1219,254 1222,319 274,319"/>
+         <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <Coords points="272,255 1218,255 1221,320 275,320"/>
+            <Baseline points="272,296 338,297 654,304 741,305 844,310 993,312 1217,317"/>
+            <TextEquiv>
+               <Unicode>eine Gewinn-Ziehung der vom Staate garantirten</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="14.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>eine Gewinn-Ziehung der vom Staate garantirten</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion id="region_1545890141260_50" custom="readingOrder {index:4;}">
+         <Coords points="268,321 1206,321 1206,500 268,500"/>
+         <TextLine id="line_1545890153261_51" custom="readingOrder {index:0;}">
+            <Coords points="289,414 1198,415 1198,477 286,462"/>
+            <Baseline points="289,456 1195,473"/>
+            <TextEquiv>
+               <Unicode>Geld=Versoofung.</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Geld=Versoofung.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_7_1" custom="readingOrder {index:5;}">
+         <Coords points="148,498 1328,498 1328,706 148,706"/>
+         <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <Coords points="235,499 1327,499 1327,568 235,568"/>
+            <Baseline points="236,533 446,536 521,540 603,540 783,544 917,545 1106,548 1257,550 1327,550"/>
+            <TextEquiv>
+               <Unicode>Originalloose für alle Ziehungen, (keine Promessen), womit die</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
+            <Coords points="151,543 1324,543 1324,610 151,610"/>
+            <Baseline points="148,576 342,581 418,585 564,587 728,589 868,593 1014,595 1169,597 1320,597"/>
+            <TextEquiv>
+               <Unicode>Haupttreffer von 200,000, 100,000, 50,000, 30,000, 25,000 20,000,</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
+            <Coords points="153,591 1322,591 1322,656 153,656"/>
+            <Baseline points="153,623 256,627 408,631 549,633 593,635 719,636 755,637 898,639 1067,644 1194,646 1321,646"/>
+            <TextEquiv>
+               <Unicode>15,000, 12,000, 10,000 2c. binnen 4 Monate gewonnen werden müssen,</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
+            <Coords points="149,637 1324,637 1324,705 149,705"/>
+            <Baseline points="148,670 206,673 276,675 372,678 501,680 683,683 768,686 850,686 900,689 950,689 1055,692 1119,693 1262,694 1324,695"/>
+            <TextEquiv>
+               <Unicode>sind bei einer kleinen Anzahlung von nur fl. 5. direkt zu beziehen bei</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Originalloose für alle Ziehungen, (keine Promessen), womit die
+Haupttreffer von 200,000, 100,000, 50,000, 30,000, 25,000 20,000,
+15,000, 12,000, 10,000 2c. binnen 4 Monate gewonnen werden müssen,
+sind bei einer kleinen Anzahlung von nur fl. 5. direkt zu beziehen bei</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_7_2" custom="readingOrder {index:6;}">
+         <Coords points="275,697 1196,697 1196,789 275,789"/>
+         <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <Coords points="276,698 1195,698 1195,788 276,788"/>
+            <Baseline points="276,757 346,756 1195,771"/>
+            <TextEquiv>
+               <Unicode>L. Steindecker=Schlesinger,</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="24.0" bold="true"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>L. Steindecker=Schlesinger,</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_7_3" custom="readingOrder {index:7;}">
+         <Coords points="199,768 1268,768 1268,836 199,836"/>
+         <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <Coords points="200,769 1267,769 1267,835 200,835"/>
+            <Baseline points="200,804 319,803 411,807 764,814 842,816 1110,824 1159,825 1267,829"/>
+            <TextEquiv>
+               <Unicode>Bank= und Wechsel=Geschäft in Frankfurt a. M.</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Bank= und Wechsel=Geschäft in Frankfurt a. M.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_7_4" custom="readingOrder {index:8;}">
+         <Coords points="530,833 923,833 923,883 530,883"/>
+         <TextLine id="tl_10"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="531,834 922,834 922,882 531,882"/>
+            <Baseline points="527,868 627,868 704,868 810,872 922,875"/>
+            <TextEquiv>
+               <Unicode>Pläne und Listen gratis</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Pläne und Listen gratis</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <GraphicRegion id="r_8" custom="readingOrder {index:9;}">
+         <Coords points="123,820 1394,820 1394,982 123,982"/>
+      </GraphicRegion>
+      <TextRegion id="region_1545891607175_52" custom="readingOrder {index:10;}">
+         <Coords points="1267,841 1339,841 1339,904 1267,904"/>
+         <TextLine id="line_1545891619691_53" custom="readingOrder {index:0;}">
+            <Coords points="1279,838 1325,848 1327,854 1324,847 1324,897 1299,896 1296,889 1275,888"/>
+            <Baseline points="1275,883 1299,885 1302,892 1324,892"/>
+            <TextEquiv>
+               <Unicode>16</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>16</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_1" custom="readingOrder {index:11;}">
+         <Coords points="531,978 908,978 908,1052 531,1052"/>
+         <TextLine id="tl_11"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="532,979 907,979 907,1051 532,1051"/>
+            <Baseline points="529,1032 904,1038"/>
+            <TextEquiv>
+               <Unicode>Anzeige.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="26.0" bold="true" italic="true"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Anzeige.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_2" custom="readingOrder {index:12;}">
+         <Coords points="135,1044 886,1044 886,1101 135,1101"/>
+         <TextLine id="tl_12"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="136,1045 885,1045 885,1100 136,1100"/>
+            <Baseline points="134,1075 163,1078 256,1078 435,1081 509,1083 632,1087 684,1088 884,1092"/>
+            <TextEquiv>
+               <Unicode>Auf Martini d. Is. kommt zu verpachten:</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Auf Martini d. Is. kommt zu verpachten:</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_3" custom="readingOrder {index:13;}">
+         <Coords points="48,1085 1399,1085 1399,1208 48,1208"/>
+         <TextLine id="tl_13"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="137,1086 1398,1086 1398,1159 137,1159"/>
+            <Baseline points="136,1121 150,1122 279,1129 542,1132 614,1136 675,1138 910,1140 1055,1143 1119,1144 1179,1146 1291,1149 1397,1150"/>
+            <TextEquiv>
+               <Unicode>1) Der Wirthshof in Stams, wozu gehören bei 15 Jauch Bau¬</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="tl_14"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:1;}">
+            <Coords points="49,1139 1397,1139 1397,1207 49,1207"/>
+            <Baseline points="45,1167 132,1170 212,1171 260,1173 283,1181 394,1175 487,1175 562,1179 779,1183 937,1187 1009,1189 1084,1189 1396,1200"/>
+            <TextEquiv>
+               <Unicode>grund, bei 17½ Jauch ein= und zweimähdiges Wiesfeld und eine Wirthsgerechtsame.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>1) Der Wirthshof in Stams, wozu gehören bei 15 Jauch Bau¬
+grund, bei 17½ Jauch ein= und zweimähdiges Wiesfeld und eine Wirthsgerechtsame.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_4" custom="readingOrder {index:14;}">
+         <Coords points="46,1180 1397,1180 1397,1302 46,1302"/>
+         <TextLine id="tl_15"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="129,1181 1396,1181 1396,1256 129,1256"/>
+            <Baseline points="126,1215 151,1219 271,1223 521,1227 592,1230 647,1230 885,1234 1040,1237 1102,1239 1197,1240 1394,1244"/>
+            <TextEquiv>
+               <Unicode>2) Der Stuttenhof in Tratzberg mit ungefähr 17 Jauch Baugrund,</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="tl_16"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:1;}">
+            <Coords points="47,1232 1394,1232 1394,1301 47,1301"/>
+            <Baseline points="44,1263 253,1267 405,1270 482,1273 626,1277 808,1280 961,1283 1040,1284 1082,1287 1221,1289 1392,1291"/>
+            <TextEquiv>
+               <Unicode>zweimähdiges Wiesfeld, 10 Jauch einmähdiges Wiesfeld und 8 Jauch Streumoos.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>2) Der Stuttenhof in Tratzberg mit ungefähr 17 Jauch Baugrund,
+zweimähdiges Wiesfeld, 10 Jauch einmähdiges Wiesfeld und 8 Jauch Streumoos.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_5" custom="readingOrder {index:15;}">
+         <Coords points="42,1279 1395,1279 1395,1452 42,1452"/>
+         <TextLine id="tl_17"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="129,1280 1392,1280 1392,1354 129,1354"/>
+            <Baseline points="126,1314 354,1317 477,1321 550,1322 612,1325 730,1326 767,1327 831,1329 888,1330 918,1330 1075,1336 1133,1339 1391,1340"/>
+            <TextEquiv>
+               <Unicode>Pachtliebhaber wollen sich bis Jakobi d. Is. bei der gräfl. v. Enzenberg=</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="tl_18"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:1;}">
+            <Coords points="46,1324 1394,1324 1394,1400 46,1400"/>
+            <Baseline points="46,1361 387,1367 721,1375 820,1378 900,1380 1141,1382 1253,1384 1317,1388 1393,1387"/>
+            <TextEquiv>
+               <Unicode>Tannenberg'schen Güter=Inspektion in Schwaz melden, und die Be¬</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="tl_19"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:2;}">
+            <Coords points="43,1375 1389,1375 1389,1451 43,1451"/>
+            <Baseline points="44,1408 202,1411 337,1413 722,1421 1367,1435 1372,1442 1389,1445"/>
+            <TextEquiv>
+               <Unicode>dingungen daselbst einsehen. 12</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Pachtliebhaber wollen sich bis Jakobi d. Is. bei der gräfl. v. Enzenberg=
+Tannenberg'schen Güter=Inspektion in Schwaz melden, und die Be¬
+dingungen daselbst einsehen. 12</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_6" custom="readingOrder {index:16;}">
+         <Coords points="452,1444 982,1444 982,1528 452,1528"/>
+         <TextLine id="tl_20"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="453,1445 981,1445 981,1527 453,1527"/>
+            <Baseline points="449,1506 978,1511"/>
+            <TextEquiv>
+               <Unicode>Haus=Verkauf.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="24.0" bold="true"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Haus=Verkauf.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_9_7" custom="readingOrder {index:17;}">
+         <Coords points="37,1508 1388,1508 1388,1716 37,1716"/>
+         <TextLine id="tl_21"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="124,1509 1387,1509 1387,1577 124,1577"/>
+            <Baseline points="120,1542 169,1542 259,1544 327,1545 544,1549 698,1552 901,1555 952,1555 1020,1559 1062,1559 1168,1562 1274,1563 1388,1564"/>
+            <TextEquiv>
+               <Unicode>In einer der frequentesten Straßen Innsbrucks ist ein 4 Stock hohes Haus</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_22"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:1;}">
+            <Coords points="41,1553 1387,1553 1387,1621 41,1621"/>
+            <Baseline points="41,1587 90,1587 291,1590 415,1592 562,1596 637,1598 744,1600 909,1603 1049,1606 1127,1607 1184,1609 1295,1611 1387,1611"/>
+            <TextEquiv>
+               <Unicode>mit ebenerdigem großen Gewölbe, zu jedem Geschäfte geeignet und im besten bau¬</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_23"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:2;}">
+            <Coords points="39,1600 1387,1600 1387,1668 39,1668"/>
+            <Baseline points="39,1632 126,1633 280,1636 402,1638 537,1643 757,1648 811,1648 977,1652 1060,1653 1136,1653 1275,1656 1386,1661"/>
+            <TextEquiv>
+               <Unicode>lichen Zustande, unter billigen Bedingnissen zu verkaufen oder auf mehrere Jahre</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_24"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:3;}">
+            <Coords points="38,1646 1383,1646 1383,1715 38,1715"/>
+            <Baseline points="36,1678 71,1680 260,1684 451,1688 598,1690 724,1694 786,1694 969,1699 1071,1699 1221,1703 1362,1706 1369,1713 1382,1715"/>
+            <TextEquiv>
+               <Unicode>zu verpachten. Auskunft hierüber ertheilt die Expedition dieses Blattes. 33</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>In einer der frequentesten Straßen Innsbrucks ist ein 4 Stock hohes Haus
+mit ebenerdigem großen Gewölbe, zu jedem Geschäfte geeignet und im besten bau¬
+lichen Zustande, unter billigen Bedingnissen zu verkaufen oder auf mehrere Jahre
+zu verpachten. Auskunft hierüber ertheilt die Expedition dieses Blattes. 33</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_10_1" custom="readingOrder {index:18;}">
+         <Coords points="410,1713 1009,1713 1009,1796 410,1796"/>
+         <TextLine id="tl_25"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="411,1714 1008,1714 1008,1795 411,1795"/>
+            <Baseline points="412,1774 1007,1783"/>
+            <TextEquiv>
+               <Unicode>Versteigerungs=Edikt.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="21.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Versteigerungs=Edikt.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_10_2" custom="readingOrder {index:19;}">
+         <Coords points="32,1778 1382,1778 1382,2031 32,2031"/>
+         <TextLine id="tl_26"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="118,1779 1381,1779 1381,1846 118,1846"/>
+            <Baseline points="115,1812 157,1813 328,1815 441,1817 494,1817 584,1821 625,1822 705,1822 786,1824 925,1827 976,1829 1046,1829 1311,1835 1381,1836"/>
+            <TextEquiv>
+               <Unicode>Am Mittwoch, den 6. Juli 9 Uhr früh werden in der Exekutionssache des</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_27"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:1;}">
+            <Coords points="35,1825 1380,1825 1380,1893 35,1893"/>
+            <Baseline points="34,1856 116,1858 311,1863 389,1866 503,1866 607,1869 670,1868 834,1871 1039,1878 1186,1879 1296,1882 1380,1884"/>
+            <TextEquiv>
+               <Unicode>Jakob Kirchebner von Pradl gegen die ehemalige Auskocherin Elisabeth Meir hier</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_28"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:2;}">
+            <Coords points="34,1872 1378,1872 1378,1940 34,1940"/>
+            <Baseline points="32,1904 93,1905 171,1908 202,1908 258,1911 331,1912 520,1915 710,1918 787,1920 845,1921 893,1923 992,1925 1161,1927 1301,1929 1378,1929"/>
+            <TextEquiv>
+               <Unicode>pct. 190 fl in dem ehemaligen Strashause hier im 2. Stock rückwärts mehrere ver¬</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_29"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:3;}">
+            <Coords points="35,1920 1377,1920 1377,1987 35,1987"/>
+            <Baseline points="32,1954 163,1957 321,1958 404,1959 947,1969 1058,1973 1190,1975 1377,1979"/>
+            <TextEquiv>
+               <Unicode>schiedene Zimmer= und Kücheneinrichtungs=Gegenstände, dann Betten, Matratzen</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextLine id="tl_30"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:4;}">
+            <Coords points="33,1967 1060,1967 1060,2030 33,2030"/>
+            <Baseline points="33,2002 91,2002 227,2004 330,2007 462,2007 564,2010 742,2013 922,2018 1060,2019"/>
+            <TextEquiv>
+               <Unicode>und Wäsche gegen sogleich baare Bezahlung versteigert werden.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="11.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Am Mittwoch, den 6. Juli 9 Uhr früh werden in der Exekutionssache des
+Jakob Kirchebner von Pradl gegen die ehemalige Auskocherin Elisabeth Meir hier
+pct. 190 fl in dem ehemaligen Strashause hier im 2. Stock rückwärts mehrere ver¬
+schiedene Zimmer= und Kücheneinrichtungs=Gegenstände, dann Betten, Matratzen
+und Wäsche gegen sogleich baare Bezahlung versteigert werden.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_10_3" custom="readingOrder {index:20;}">
+         <Coords points="112,2015 674,2015 674,2065 112,2065"/>
+         <TextLine id="tl_31"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="113,2016 673,2016 673,2064 113,2064"/>
+            <Baseline points="112,2049 142,2049 390,2053 460,2054 561,2057 672,2059"/>
+            <TextEquiv>
+               <Unicode>Innsbruck am 28. Juni 1864.</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Innsbruck am 28. Juni 1864.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_10_4" custom="readingOrder {index:21;}">
+         <Coords points="481,2064 911,2064 911,2132 481,2132"/>
+         <TextLine id="tl_32"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="482,2065 910,2065 910,2131 482,2131"/>
+            <Baseline points="482,2109 512,2109 698,2114 909,2117"/>
+            <TextEquiv>
+               <Unicode>Dr. Franz Rapp,</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>Dr. Franz Rapp,</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_10_5" custom="readingOrder {index:22;}">
+         <Coords points="371,2116 1029,2116 1029,2173 371,2173"/>
+         <TextLine id="tl_33"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="372,2117 1028,2117 1028,2172 372,2172"/>
+            <Baseline points="372,2151 392,2151 434,2152 548,2155 617,2155 687,2157 1027,2163"/>
+            <TextEquiv>
+               <Unicode>k. k. Notar als del. Gerichts=Kommissär.</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="16.0"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>k. k. Notar als del. Gerichts=Kommissär.</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <TextRegion type="paragraph" id="r_11_1" custom="readingOrder {index:23;}">
+         <Coords points="1337,2135 1372,2135 1372,2177 1337,2177"/>
+         <TextLine id="tl_34"
+                   primaryLanguage="German"
+                   custom="readingOrder {index:0;}">
+            <Coords points="1338,2136 1371,2136 1371,2176 1338,2176"/>
+            <Baseline points="1338,2169 1370,2176"/>
+            <TextEquiv>
+               <Unicode>23</Unicode>
+            </TextEquiv>
+            <TextStyle fontFamily="Arial" fontSize="15.0" bold="true"/>
+         </TextLine>
+         <TextEquiv>
+            <Unicode>23</Unicode>
+         </TextEquiv>
+      </TextRegion>
+      <SeparatorRegion id="r_12" custom="readingOrder {index:24;}">
+         <Coords points="76,59 1100,59 1100,86 76,86"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_13" custom="readingOrder {index:25;}">
+         <Coords points="251,1426 354,1426 354,1429 251,1429"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_14" custom="readingOrder {index:26;}">
+         <Coords points="500,1431 601,1431 601,1435 500,1435"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_15" custom="readingOrder {index:27;}">
+         <Coords points="858,1438 955,1438 955,1442 858,1442"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_16" custom="readingOrder {index:28;}">
+         <Coords points="1066,1442 1382,1442 1382,1453 1066,1453"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_17" custom="readingOrder {index:29;}">
+         <Coords points="43,1693 701,1693 701,1710 43,1710"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_18" custom="readingOrder {index:30;}">
+         <Coords points="715,1707 1380,1707 1380,1725 715,1725"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_19" custom="readingOrder {index:31;}">
+         <Coords points="93,174 117,174 117,488 93,488"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_20" custom="readingOrder {index:32;}">
+         <Coords points="1531,700 1536,700 1536,962 1531,962"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_21" custom="readingOrder {index:33;}">
+         <Coords points="1517,962 1536,962 1536,1786 1517,1786"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_22" custom="readingOrder {index:34;}">
+         <Coords points="1508,1785 1536,1785 1536,2321 1508,2321"/>
+      </SeparatorRegion>
+      <SeparatorRegion id="r_23" custom="readingOrder {index:35;}">
+         <Coords points="562,1432 574,1432 574,1433 562,1433"/>
+      </SeparatorRegion>
+      <GraphicRegion id="r_24" custom="readingOrder {index:36;}">
+         <Coords points="793,718 851,718 851,755 793,755"/>
+      </GraphicRegion>
+   </Page>
+</PcGts>
