@@ -29,6 +29,10 @@ It is still possible to get level 1 transcriptions by simple search and replace 
 
 The initial enhancements were added by [UB Mannheim](https://www.bib.uni-mannheim.de/) who
 also fixed some transcription errors in the data.
+See https://github.com/tesseract-ocr/tesstrain/wiki/AustrianNewspapers for a report about
+the model training at UB Mannheim.
+
+New contributions (issues, pull requests) and reports about successful trainings are welcome.
 
 ## Overview of content
 
