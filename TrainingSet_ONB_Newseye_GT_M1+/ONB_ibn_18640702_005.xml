@@ -1,523 +1,441 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-   <Metadata>
-      <Creator>University of Innsbruck</Creator>
-      <Created>2018-11-29T10:47:50.728+01:00</Created>
-      <LastChange>2019-02-01T11:38:01.667+01:00</LastChange>
-      <Comments>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>University of Innsbruck</Creator>
+    <Created>2018-11-29T10:47:50.728+01:00</Created>
+    <LastChange>2019-02-01T11:38:01.667+01:00</LastChange>
+    <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-      <TranskribusMetadata docId="126495"
-                           pageId="4785005"
-                           pageNr="32"
-                           tsid="7883235"
-                           status="GT"
-                           userId="206"
-                           imgUrl="https://files.transkribus.eu/Get?id=OZQXRUDZSPXVGBCWOFUZDGCI&amp;fileType=view"
-                           xmlUrl="https://files.transkribus.eu/Get?id=MIZXLXGZJZNDFAKYVDJQQLMH"
-                           imageId="2199526"/>
-   </Metadata>
-   <Page imageFilename="ONB_ibn_18640702_005.tif"
-         imageWidth="1536"
-         imageHeight="2275">
-      <PrintSpace>
-         <Coords points="0,32 1449,32 1449,2275 0,2275"/>
-      </PrintSpace>
-      <ReadingOrder>
-         <OrderedGroup id="ro_1567004082683" caption="Regions reading order">
-            <RegionRefIndexed index="0" regionRef="r_1_1"/>
-            <RegionRefIndexed index="1" regionRef="r_1_2"/>
-            <RegionRefIndexed index="2" regionRef="r_1_3"/>
-         </OrderedGroup>
-      </ReadingOrder>
-      <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
-         <Coords points="73,35 1430,35 1430,1183 73,1183"/>
-         <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
-            <Coords points="155,36 1416,36 1416,96 155,96"/>
-            <Baseline points="152,83 210,84 280,85 372,84 419,82 446,83 569,79 662,79 803,79 922,75 1004,75 1061,73 1192,73 1264,72 1417,69"/>
-            <TextEquiv>
-               <Unicode>Am 28. Juni ist in Prag Herr Johann Wania, der als Direktor der Kladnoer</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
-            <Coords points="74,84 1416,84 1416,146 74,146"/>
-            <Baseline points="72,135 231,133 327,133 458,131 655,129 712,128 808,126 899,125 997,123 1077,121 1250,120 1416,115"/>
-            <TextEquiv>
-               <Unicode>Bergwerke einen weithin begründeten Ruf genoß, in Folge einer Operation gestorben.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
-            <Coords points="74,131 1417,131 1417,192 74,192"/>
-            <Baseline points="74,184 117,183 196,181 270,181 391,177 474,177 566,174 685,174 830,173 991,170 1089,169 1154,167 1258,167 1417,164"/>
-            <TextEquiv>
-               <Unicode>Er war ein Mann von etwa fünfzig Jahren. Wania hatte sich vom einfachen</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
-            <Coords points="75,180 1416,180 1416,241 75,241"/>
-            <Baseline points="74,229 225,229 294,229 387,226 454,227 695,222 803,220 962,217 1092,216 1149,216 1297,213 1416,210"/>
-            <TextEquiv>
-               <Unicode>Bergmann zu einer der anerkanntesten Autoritäten des Landes im Bergbau empor⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
-            <Coords points="76,226 1418,226 1418,289 76,289"/>
-            <Baseline points="74,278 268,275 383,276 444,272 533,273 601,270 782,268 917,270 1015,266 1217,262 1290,263 1418,260"/>
-            <TextEquiv>
-               <Unicode>geschwungen und zwar ganz als Autodidakt. Sohn eines Bergsteigers aus Felabka</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
-            <Coords points="75,275 1419,275 1419,338 75,338"/>
-            <Baseline points="75,327 117,327 288,327 407,323 567,321 758,315 882,316 964,314 1037,314 1151,311 1222,311 1295,309 1418,304"/>
-            <TextEquiv>
-               <Unicode>bei Horowic. daher geborner Bergmann, dabei von der Natur mit viel Unter⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
-            <Coords points="76,322 1418,322 1418,384 76,384"/>
-            <Baseline points="76,375 298,371 432,368 516,369 566,368 631,366 806,365 971,362 1035,361 1195,358 1418,353"/>
-            <TextEquiv>
-               <Unicode>nehmungsgeist begabt, war er der eigentliche Entdecker der Kladnoer Kohlenwerke.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
-            <Coords points="77,369 1419,369 1419,431 77,431"/>
-            <Baseline points="77,422 117,421 210,420 322,419 405,417 496,415 615,415 665,414 732,413 895,410 1023,407 1119,408 1221,406 1419,399"/>
-            <TextEquiv>
-               <Unicode>Er hatte nämlich im März 1845 in der Kladnoer Gegend, von deren wahrschein⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
-            <Coords points="76,416 1421,416 1421,479 76,479"/>
-            <Baseline points="76,469 168,468 434,464 529,464 634,461 705,461 814,459 912,457 1028,454 1074,455 1157,452 1250,452 1420,449"/>
-            <TextEquiv>
-               <Unicode>lichem Kohlenreichthum schon längst eine dunkle Sage ging, mit noch einem Gefährten</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_10"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:9;}">
-            <Coords points="78,464 1421,464 1421,526 78,526"/>
-            <Baseline points="78,516 118,515 238,514 334,512 397,511 526,511 742,508 852,506 906,506 991,505 1077,503 1201,501 1274,497 1421,496"/>
-            <TextEquiv>
-               <Unicode>auf eigene Faust auf Kohlen eingeschlagen. Als sie etwa zehn Klafter tief gegraben</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_11"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:10;}">
-            <Coords points="78,510 1422,510 1422,573 78,573"/>
-            <Baseline points="77,564 173,563 257,562 380,561 486,558 618,556 753,555 834,554 990,551 1063,550 1173,547 1334,544 1422,543"/>
-            <TextEquiv>
-               <Unicode>hatten und immer nichts fanden, verlor sein Gefährte den Muth, Wania aber</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_12"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:11;}">
-            <Coords points="79,558 1422,558 1422,620 79,620"/>
-            <Baseline points="75,611 173,611 251,609 329,608 417,607 468,605 596,605 693,603 742,603 825,601 960,600 1049,597 1210,594 1287,593 1350,591 1421,590"/>
-            <TextEquiv>
-               <Unicode>harrte aus und stehe da, kaum hatte er zwei Klafter tiefer gegraben, so stieß er</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_13"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:12;}">
-            <Coords points="79,605 1421,605 1421,669 79,669"/>
-            <Baseline points="79,659 128,658 194,657 336,655 423,655 591,652 808,650 924,648 1011,647 1155,643 1235,642 1325,640 1421,635"/>
-            <TextEquiv>
-               <Unicode>auf ein mehrere Fuß mächtiges Kohlenlager. Nun aber entstand eine neue Ver⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_14"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:13;}">
-            <Coords points="80,654 1424,654 1424,716 80,716"/>
-            <Baseline points="81,707 213,704 250,704 321,703 410,702 460,701 562,700 642,700 750,698 839,697 895,696 987,695 1128,691 1209,691 1335,688 1424,687"/>
-            <TextEquiv>
-               <Unicode>legenheit; ohne Geld ließ sich diese Kohle nicht zu Tage fördern, und Wania hatte</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_15"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:14;}">
-            <Coords points="80,702 1425,702 1425,764 80,764"/>
-            <Baseline points="78,755 135,754 224,752 329,752 467,749 543,749 604,748 685,747 822,745 895,743 1116,739 1175,739 1266,736 1424,735"/>
-            <TextEquiv>
-               <Unicode>kein Geld. Er wandte sich an den Besitzer der Sophieninsel in Prag, Herrn</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_16"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:15;}">
-            <Coords points="82,750 1424,750 1424,812 82,812"/>
-            <Baseline points="82,802 195,801 407,797 481,798 654,795 716,794 932,791 1011,789 1142,788 1221,785 1282,784 1358,783 1424,780"/>
-            <TextEquiv>
-               <Unicode>Wenzel Nowotny, dieser übernahm die Kohlengrube und Wania trat bei ihm als</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_17"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:16;}">
-            <Coords points="81,796 1426,796 1426,859 81,859"/>
-            <Baseline points="81,850 253,847 326,846 414,845 551,844 901,839 1081,834 1165,832 1212,834 1357,830 1426,829"/>
-            <TextEquiv>
-               <Unicode>Bergsteiger ein. Es wurden Förderungsmaschinen angeschafft und so entstand der</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_18"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:17;}">
-            <Coords points="83,843 1426,843 1426,906 83,906"/>
-            <Baseline points="83,897 135,896 253,891 332,894 655,889 776,888 886,887 949,885 1075,883 1227,879 1348,878 1425,876"/>
-            <TextEquiv>
-               <Unicode>St. Josef= und Katharina=Schacht. Bald traten die Herren Adalbert Lanna und</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_19"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:18;}">
-            <Coords points="84,890 1426,890 1426,954 84,954"/>
-            <Baseline points="84,945 227,942 332,941 405,939 538,940 619,938 817,934 904,933 972,933 1090,929 1150,926 1222,925 1427,922"/>
-            <TextEquiv>
-               <Unicode>Gebrüder Klein mit Nowotny in Kompagnie und der Grund zu den großartigen</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_20"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:19;}">
-            <Coords points="83,939 1426,939 1426,1001 83,1001"/>
-            <Baseline points="83,991 226,989 468,985 561,986 688,983 840,981 919,979 1060,977 1243,974 1347,972 1426,971"/>
-            <TextEquiv>
-               <Unicode>Kladnoer Etablissements war gelegt. Wania aber, dessen praktischen Sinn und</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_21"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:20;}">
-            <Coords points="83,985 1427,985 1427,1048 83,1048"/>
-            <Baseline points="83,1038 319,1035 432,1034 499,1034 631,1032 740,1030 860,1029 1027,1024 1129,1023 1194,1022 1321,1018 1426,1018"/>
-            <TextEquiv>
-               <Unicode>bergmännisches Genie die Besitzer dieser Werke erkannten, und der durch eifriges</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_22"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:21;}">
-            <Coords points="86,1033 1426,1033 1426,1096 86,1096"/>
-            <Baseline points="86,1087 301,1084 367,1084 627,1080 776,1079 852,1078 928,1075 1048,1073 1139,1070 1355,1066 1429,1062"/>
-            <TextEquiv>
-               <Unicode>Selbststudium die wissenschaftliche Bildung, die ihm gefehlt hatte, nachzuholen be⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_23"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:22;}">
-            <Coords points="84,1081 1429,1081 1429,1145 84,1145"/>
-            <Baseline points="83,1134 163,1133 248,1131 390,1129 434,1130 546,1128 606,1127 738,1124 813,1125 862,1124 1078,1120 1151,1119 1310,1116 1429,1113"/>
-            <TextEquiv>
-               <Unicode>strebt war, stieg von Stufe zu Stufe, bis er Oberdirektor der Kladnoer Berg⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_24"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:23;}">
-            <Coords points="85,1146 297,1146 297,1182 85,1182"/>
-            <Baseline points="85,1182 171,1180 297,1179"/>
-            <TextEquiv>
-               <Unicode>werke wurde.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Am 28. Juni ist in Prag Herr Johann Wania, der als Direktor der Kladnoer
-Bergwerke einen weithin begründeten Ruf genoß, in Folge einer Operation gestorben.
-Er war ein Mann von etwa fünfzig Jahren. Wania hatte sich vom einfachen
-Bergmann zu einer der anerkanntesten Autoritäten des Landes im Bergbau empor⸗
-geschwungen und zwar ganz als Autodidakt. Sohn eines Bergsteigers aus Felabka
+    <TranskribusMetadata docId="126495" pageId="4785005" pageNr="32" tsid="7883235" status="GT" userId="206" imgUrl="https://files.transkribus.eu/Get?id=OZQXRUDZSPXVGBCWOFUZDGCI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MIZXLXGZJZNDFAKYVDJQQLMH" imageId="2199526"/>
+  </Metadata>
+  <Page imageFilename="ONB_ibn_18640702_005.tif" imageWidth="1536" imageHeight="2275">
+    <PrintSpace>
+      <Coords points="0,32 1449,32 1449,2275 0,2275"/>
+    </PrintSpace>
+    <ReadingOrder>
+      <OrderedGroup id="ro_1567004082683" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r_1_1"/>
+        <RegionRefIndexed index="1" regionRef="r_1_2"/>
+        <RegionRefIndexed index="2" regionRef="r_1_3"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="73,35 1430,35 1430,1183 73,1183"/>
+      <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="155,36 1416,36 1416,96 155,96"/>
+        <Baseline points="152,83 210,84 280,85 372,84 419,82 446,83 569,79 662,79 803,79 922,75 1004,75 1061,73 1192,73 1264,72 1417,69"/>
+        <TextEquiv>
+          <Unicode>Am 28. Juni iſt in Prag Herr Johann Wania, der als Direktor der Kladnoer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="74,84 1416,84 1416,146 74,146"/>
+        <Baseline points="72,135 231,133 327,133 458,131 655,129 712,128 808,126 899,125 997,123 1077,121 1250,120 1416,115"/>
+        <TextEquiv>
+          <Unicode>Bergwerke einen weithin begründeten Ruf genoß, in Folge einer Operation geſtorben.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="74,131 1417,131 1417,192 74,192"/>
+        <Baseline points="74,184 117,183 196,181 270,181 391,177 474,177 566,174 685,174 830,173 991,170 1089,169 1154,167 1258,167 1417,164"/>
+        <TextEquiv>
+          <Unicode>Er war ein Mann von etwa fünfzig Jahren. Wania hatte ſich vom einfachen</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="75,180 1416,180 1416,241 75,241"/>
+        <Baseline points="74,229 225,229 294,229 387,226 454,227 695,222 803,220 962,217 1092,216 1149,216 1297,213 1416,210"/>
+        <TextEquiv>
+          <Unicode>Bergmann zu einer der anerkannteſten Autoritäten des Landes im Bergbau empor⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="76,226 1418,226 1418,289 76,289"/>
+        <Baseline points="74,278 268,275 383,276 444,272 533,273 601,270 782,268 917,270 1015,266 1217,262 1290,263 1418,260"/>
+        <TextEquiv>
+          <Unicode>geſchwungen und zwar ganz als Autodidakt. Sohn eines Bergſteigers aus Felabka</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="75,275 1419,275 1419,338 75,338"/>
+        <Baseline points="75,327 117,327 288,327 407,323 567,321 758,315 882,316 964,314 1037,314 1151,311 1222,311 1295,309 1418,304"/>
+        <TextEquiv>
+          <Unicode>bei Horowic. daher geborner Bergmann, dabei von der Natur mit viel Unter⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="76,322 1418,322 1418,384 76,384"/>
+        <Baseline points="76,375 298,371 432,368 516,369 566,368 631,366 806,365 971,362 1035,361 1195,358 1418,353"/>
+        <TextEquiv>
+          <Unicode>nehmungsgeiſt begabt, war er der eigentliche Entdecker der Kladnoer Kohlenwerke.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="77,369 1419,369 1419,431 77,431"/>
+        <Baseline points="77,422 117,421 210,420 322,419 405,417 496,415 615,415 665,414 732,413 895,410 1023,407 1119,408 1221,406 1419,399"/>
+        <TextEquiv>
+          <Unicode>Er hatte nämlich im März 1845 in der Kladnoer Gegend, von deren wahrſchein⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+        <Coords points="76,416 1421,416 1421,479 76,479"/>
+        <Baseline points="76,469 168,468 434,464 529,464 634,461 705,461 814,459 912,457 1028,454 1074,455 1157,452 1250,452 1420,449"/>
+        <TextEquiv>
+          <Unicode>lichem Kohlenreichthum ſchon längſt eine dunkle Sage ging, mit noch einem Gefährten</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+        <Coords points="78,464 1421,464 1421,526 78,526"/>
+        <Baseline points="78,516 118,515 238,514 334,512 397,511 526,511 742,508 852,506 906,506 991,505 1077,503 1201,501 1274,497 1421,496"/>
+        <TextEquiv>
+          <Unicode>auf eigene Fauſt auf Kohlen eingeſchlagen. Als ſie etwa zehn Klafter tief gegraben</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+        <Coords points="78,510 1422,510 1422,573 78,573"/>
+        <Baseline points="77,564 173,563 257,562 380,561 486,558 618,556 753,555 834,554 990,551 1063,550 1173,547 1334,544 1422,543"/>
+        <TextEquiv>
+          <Unicode>hatten und immer nichts fanden, verlor ſein Gefährte den Muth, Wania aber</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+        <Coords points="79,558 1422,558 1422,620 79,620"/>
+        <Baseline points="75,611 173,611 251,609 329,608 417,607 468,605 596,605 693,603 742,603 825,601 960,600 1049,597 1210,594 1287,593 1350,591 1421,590"/>
+        <TextEquiv>
+          <Unicode>harrte aus und ſtehe da, kaum hatte er zwei Klafter tiefer gegraben, ſo ſtieß er</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+        <Coords points="79,605 1421,605 1421,669 79,669"/>
+        <Baseline points="79,659 128,658 194,657 336,655 423,655 591,652 808,650 924,648 1011,647 1155,643 1235,642 1325,640 1421,635"/>
+        <TextEquiv>
+          <Unicode>auf ein mehrere Fuß mächtiges Kohlenlager. Nun aber entſtand eine neue Ver⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+        <Coords points="80,654 1424,654 1424,716 80,716"/>
+        <Baseline points="81,707 213,704 250,704 321,703 410,702 460,701 562,700 642,700 750,698 839,697 895,696 987,695 1128,691 1209,691 1335,688 1424,687"/>
+        <TextEquiv>
+          <Unicode>legenheit; ohne Geld ließ ſich dieſe Kohle nicht zu Tage fördern, und Wania hatte</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+        <Coords points="80,702 1425,702 1425,764 80,764"/>
+        <Baseline points="78,755 135,754 224,752 329,752 467,749 543,749 604,748 685,747 822,745 895,743 1116,739 1175,739 1266,736 1424,735"/>
+        <TextEquiv>
+          <Unicode>kein Geld. Er wandte ſich an den Beſitzer der Sophieninſel in Prag, Herrn</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+        <Coords points="82,750 1424,750 1424,812 82,812"/>
+        <Baseline points="82,802 195,801 407,797 481,798 654,795 716,794 932,791 1011,789 1142,788 1221,785 1282,784 1358,783 1424,780"/>
+        <TextEquiv>
+          <Unicode>Wenzel Nowotny, dieſer übernahm die Kohlengrube und Wania trat bei ihm als</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+        <Coords points="81,796 1426,796 1426,859 81,859"/>
+        <Baseline points="81,850 253,847 326,846 414,845 551,844 901,839 1081,834 1165,832 1212,834 1357,830 1426,829"/>
+        <TextEquiv>
+          <Unicode>Bergſteiger ein. Es wurden Förderungsmaſchinen angeſchafft und ſo entſtand der</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+        <Coords points="83,843 1426,843 1426,906 83,906"/>
+        <Baseline points="83,897 135,896 253,891 332,894 655,889 776,888 886,887 949,885 1075,883 1227,879 1348,878 1425,876"/>
+        <TextEquiv>
+          <Unicode>St. Joſef⸗ und Katharina⸗Schacht. Bald traten die Herren Adalbert Lanna und</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+        <Coords points="84,890 1426,890 1426,954 84,954"/>
+        <Baseline points="84,945 227,942 332,941 405,939 538,940 619,938 817,934 904,933 972,933 1090,929 1150,926 1222,925 1427,922"/>
+        <TextEquiv>
+          <Unicode>Gebrüder Klein mit Nowotny in Kompagnie und der Grund zu den großartigen</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+        <Coords points="83,939 1426,939 1426,1001 83,1001"/>
+        <Baseline points="83,991 226,989 468,985 561,986 688,983 840,981 919,979 1060,977 1243,974 1347,972 1426,971"/>
+        <TextEquiv>
+          <Unicode>Kladnoer Etabliſſements war gelegt. Wania aber, deſſen praktiſchen Sinn und</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+        <Coords points="83,985 1427,985 1427,1048 83,1048"/>
+        <Baseline points="83,1038 319,1035 432,1034 499,1034 631,1032 740,1030 860,1029 1027,1024 1129,1023 1194,1022 1321,1018 1426,1018"/>
+        <TextEquiv>
+          <Unicode>bergmänniſches Genie die Beſitzer dieſer Werke erkannten, und der durch eifriges</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+        <Coords points="86,1033 1426,1033 1426,1096 86,1096"/>
+        <Baseline points="86,1087 301,1084 367,1084 627,1080 776,1079 852,1078 928,1075 1048,1073 1139,1070 1355,1066 1429,1062"/>
+        <TextEquiv>
+          <Unicode>Selbſtſtudium die wiſſenſchaftliche Bildung, die ihm gefehlt hatte, nachzuholen be⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+        <Coords points="84,1081 1429,1081 1429,1145 84,1145"/>
+        <Baseline points="83,1134 163,1133 248,1131 390,1129 434,1130 546,1128 606,1127 738,1124 813,1125 862,1124 1078,1120 1151,1119 1310,1116 1429,1113"/>
+        <TextEquiv>
+          <Unicode>ſtrebt war, ſtieg von Stufe zu Stufe, bis er Oberdirektor der Kladnoer Berg⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+        <Coords points="85,1146 297,1146 297,1182 85,1182"/>
+        <Baseline points="85,1182 171,1180 297,1179"/>
+        <TextEquiv>
+          <Unicode>werke wurde.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Am 28. Juni iſt in Prag Herr Johann Wania, der als Direktor der Kladnoer
+Bergwerke einen weithin begründeten Ruf genoß, in Folge einer Operation geſtorben.
+Er war ein Mann von etwa fünfzig Jahren. Wania hatte ſich vom einfachen
+Bergmann zu einer der anerkannteſten Autoritäten des Landes im Bergbau empor⸗
+geſchwungen und zwar ganz als Autodidakt. Sohn eines Bergſteigers aus Felabka
 bei Horowic. daher geborner Bergmann, dabei von der Natur mit viel Unter⸗
-nehmungsgeist begabt, war er der eigentliche Entdecker der Kladnoer Kohlenwerke.
-Er hatte nämlich im März 1845 in der Kladnoer Gegend, von deren wahrschein⸗
-lichem Kohlenreichthum schon längst eine dunkle Sage ging, mit noch einem Gefährten
-auf eigene Faust auf Kohlen eingeschlagen. Als sie etwa zehn Klafter tief gegraben
-hatten und immer nichts fanden, verlor sein Gefährte den Muth, Wania aber
-harrte aus und stehe da, kaum hatte er zwei Klafter tiefer gegraben, so stieß er
-auf ein mehrere Fuß mächtiges Kohlenlager. Nun aber entstand eine neue Ver⸗
-legenheit; ohne Geld ließ sich diese Kohle nicht zu Tage fördern, und Wania hatte
-kein Geld. Er wandte sich an den Besitzer der Sophieninsel in Prag, Herrn
-Wenzel Nowotny, dieser übernahm die Kohlengrube und Wania trat bei ihm als
-Bergsteiger ein. Es wurden Förderungsmaschinen angeschafft und so entstand der
-St. Josef= und Katharina=Schacht. Bald traten die Herren Adalbert Lanna und
+nehmungsgeiſt begabt, war er der eigentliche Entdecker der Kladnoer Kohlenwerke.
+Er hatte nämlich im März 1845 in der Kladnoer Gegend, von deren wahrſchein⸗
+lichem Kohlenreichthum ſchon längſt eine dunkle Sage ging, mit noch einem Gefährten
+auf eigene Fauſt auf Kohlen eingeſchlagen. Als ſie etwa zehn Klafter tief gegraben
+hatten und immer nichts fanden, verlor ſein Gefährte den Muth, Wania aber
+harrte aus und ſtehe da, kaum hatte er zwei Klafter tiefer gegraben, ſo ſtieß er
+auf ein mehrere Fuß mächtiges Kohlenlager. Nun aber entſtand eine neue Ver⸗
+legenheit; ohne Geld ließ ſich dieſe Kohle nicht zu Tage fördern, und Wania hatte
+kein Geld. Er wandte ſich an den Beſitzer der Sophieninſel in Prag, Herrn
+Wenzel Nowotny, dieſer übernahm die Kohlengrube und Wania trat bei ihm als
+Bergſteiger ein. Es wurden Förderungsmaſchinen angeſchafft und ſo entſtand der
+St. Joſef⸗ und Katharina⸗Schacht. Bald traten die Herren Adalbert Lanna und
 Gebrüder Klein mit Nowotny in Kompagnie und der Grund zu den großartigen
-Kladnoer Etablissements war gelegt. Wania aber, dessen praktischen Sinn und
-bergmännisches Genie die Besitzer dieser Werke erkannten, und der durch eifriges
-Selbststudium die wissenschaftliche Bildung, die ihm gefehlt hatte, nachzuholen be⸗
-strebt war, stieg von Stufe zu Stufe, bis er Oberdirektor der Kladnoer Berg⸗
+Kladnoer Etabliſſements war gelegt. Wania aber, deſſen praktiſchen Sinn und
+bergmänniſches Genie die Beſitzer dieſer Werke erkannten, und der durch eifriges
+Selbſtſtudium die wiſſenſchaftliche Bildung, die ihm gefehlt hatte, nachzuholen be⸗
+ſtrebt war, ſtieg von Stufe zu Stufe, bis er Oberdirektor der Kladnoer Berg⸗
 werke wurde.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
-         <Coords points="85,1174 1433,1174 1433,1382 85,1382"/>
-         <TextLine id="tl_25"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="168,1175 1431,1175 1431,1237 168,1237"/>
-            <Baseline points="168,1228 199,1228 218,1227 246,1228 265,1227 286,1227 317,1224 336,1226 357,1226 402,1225 447,1224 545,1223 653,1221 804,1221 860,1220 911,1219 1015,1217 1109,1213 1179,1214 1431,1206"/>
-            <TextEquiv>
-               <Unicode>Stuttgart, 26. Juni. König Wilhelm hat im Jahre 1814 dem Geheimenraths=</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_26"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="86,1222 1431,1222 1431,1287 86,1287"/>
-            <Baseline points="86,1275 248,1274 321,1273 512,1271 633,1269 817,1266 970,1264 1052,1265 1117,1263 1225,1260 1296,1259 1431,1257"/>
-            <TextEquiv>
-               <Unicode>Präsidium ein versiegeltes Packet übersendet, welches von der Hand des Königs</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_27"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="86,1271 1432,1271 1432,1334 86,1334"/>
-            <Baseline points="86,1324 286,1322 381,1322 480,1320 887,1315 940,1313 1095,1310 1183,1309 1236,1308 1314,1306 1431,1304"/>
-            <TextEquiv>
-               <Unicode>überschrieben war: Dem Geheimenraths=Präsident zu übergeben, um im Fall meines</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_28"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="87,1323 1179,1323 1179,1381 87,1381"/>
-            <Baseline points="87,1372 181,1370 239,1369 413,1368 517,1366 652,1364 705,1365 841,1362 913,1359 1179,1355"/>
-            <TextEquiv>
-               <Unicode>Todes im Geheimen Rath geöffnet zu werden. (gez.) Wilhelm.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Stuttgart, 26. Juni. König Wilhelm hat im Jahre 1814 dem Geheimenraths=
-Präsidium ein versiegeltes Packet übersendet, welches von der Hand des Königs
-überschrieben war: Dem Geheimenraths=Präsident zu übergeben, um im Fall meines
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+      <Coords points="85,1174 1433,1174 1433,1382 85,1382"/>
+      <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="168,1175 1431,1175 1431,1237 168,1237"/>
+        <Baseline points="168,1228 199,1228 218,1227 246,1228 265,1227 286,1227 317,1224 336,1226 357,1226 402,1225 447,1224 545,1223 653,1221 804,1221 860,1220 911,1219 1015,1217 1109,1213 1179,1214 1431,1206"/>
+        <TextEquiv>
+          <Unicode>Stuttgart, 26. Juni. König Wilhelm hat im Jahre 1814 dem Geheimenraths⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="86,1222 1431,1222 1431,1287 86,1287"/>
+        <Baseline points="86,1275 248,1274 321,1273 512,1271 633,1269 817,1266 970,1264 1052,1265 1117,1263 1225,1260 1296,1259 1431,1257"/>
+        <TextEquiv>
+          <Unicode>Präſidium ein verſiegeltes Packet überſendet, welches von der Hand des Königs</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="86,1271 1432,1271 1432,1334 86,1334"/>
+        <Baseline points="86,1324 286,1322 381,1322 480,1320 887,1315 940,1313 1095,1310 1183,1309 1236,1308 1314,1306 1431,1304"/>
+        <TextEquiv>
+          <Unicode>überſchrieben war: Dem Geheimenraths⸗Präsident zu übergeben, um im Fall meines</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="87,1323 1179,1323 1179,1381 87,1381"/>
+        <Baseline points="87,1372 181,1370 239,1369 413,1368 517,1366 652,1364 705,1365 841,1362 913,1359 1179,1355"/>
+        <TextEquiv>
+          <Unicode>Todes im Geheimen Rath geöffnet zu werden. (gez.) Wilhelm.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Stuttgart, 26. Juni. König Wilhelm hat im Jahre 1814 dem Geheimenraths⸗
+Präſidium ein verſiegeltes Packet überſendet, welches von der Hand des Königs
+überſchrieben war: Dem Geheimenraths⸗Präsident zu übergeben, um im Fall meines
 Todes im Geheimen Rath geöffnet zu werden. (gez.) Wilhelm.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
-         <Coords points="57,1363 1444,1363 1444,2145 57,2145"/>
-         <TextLine id="tl_29"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="169,1364 1433,1364 1433,1427 169,1427"/>
-            <Baseline points="169,1417 221,1416 348,1416 421,1416 556,1413 649,1412 746,1410 847,1409 903,1406 1074,1403 1162,1403 1301,1400 1360,1400 1433,1397"/>
-            <TextEquiv>
-               <Unicode>Auf Befehl des Königs Karl fand heute die Eröffnung des Packets im kgl.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_30"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="89,1413 1434,1413 1434,1474 89,1474"/>
-            <Baseline points="89,1465 244,1465 328,1463 425,1462 505,1459 571,1459 660,1458 760,1457 863,1457 1040,1453 1204,1447 1434,1446"/>
-            <TextEquiv>
-               <Unicode>Geheimen Rath statt und, es fand sich darin nachstehende Urkunde: „Geschrieben</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_31"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="88,1459 1435,1459 1435,1521 88,1521"/>
-            <Baseline points="88,1513 137,1514 209,1513 310,1510 422,1511 491,1507 611,1506 710,1506 808,1504 937,1502 1059,1499 1209,1494 1277,1494 1435,1492"/>
-            <TextEquiv>
-               <Unicode>den 20. April 1844. 1. Sowie meine Seele meinen Körper verlassen hat, wünsche</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_32"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="87,1508 1437,1508 1437,1572 87,1572"/>
-            <Baseline points="87,1561 148,1559 227,1558 350,1558 493,1555 622,1555 676,1554 729,1553 886,1550 981,1550 1061,1547 1146,1543 1220,1543 1357,1543 1437,1540"/>
-            <TextEquiv>
-               <Unicode>ich außer meiner Familie, wenn sie es verlangt, nur noch von den Aerzten und</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_33"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="89,1554 1438,1554 1438,1620 89,1620"/>
-            <Baseline points="89,1607 148,1609 312,1607 472,1604 606,1604 661,1602 799,1600 873,1599 997,1598 1058,1596 1172,1593 1230,1591 1306,1591 1440,1587"/>
-            <TextEquiv>
-               <Unicode>dem dienenden Personal gesehen zu werden. 2. Wenn die Aerzte es für nützlich</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_34"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="90,1602 1437,1602 1437,1666 90,1666"/>
-            <Baseline points="86,1655 196,1654 243,1653 336,1653 393,1651 572,1650 698,1650 876,1646 1064,1643 1127,1642 1211,1641 1284,1640 1437,1635"/>
-            <TextEquiv>
-               <Unicode>halten, so kann die Obduktion meines Leichnams stattfinden. 3 Da mir während</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_35"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="89,1650 1438,1650 1438,1715 89,1715"/>
-            <Baseline points="89,1705 206,1702 317,1701 428,1701 662,1697 743,1696 823,1694 1027,1692 1106,1690 1238,1687 1294,1685 1438,1683"/>
-            <TextEquiv>
-               <Unicode>meinem Leben nichts widerwärtiger war, als Ceremonien und Etikette, so wünsche</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_36"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:7;}">
-            <Coords points="91,1698 1437,1698 1437,1762 91,1762"/>
-            <Baseline points="90,1751 130,1752 233,1749 359,1748 550,1746 604,1746 733,1744 814,1743 893,1741 1064,1735 1130,1735 1266,1735 1437,1728"/>
-            <TextEquiv>
-               <Unicode>ich weder feierlich ausgestellt zu werden noch ein Gepränge bei meinem Leichenbe⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_37"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:8;}">
-            <Coords points="92,1745 1438,1745 1438,1810 92,1810"/>
-            <Baseline points="90,1798 206,1798 292,1797 381,1797 521,1794 649,1793 721,1791 856,1789 978,1786 1045,1786 1243,1783 1366,1780 1438,1778"/>
-            <TextEquiv>
-               <Unicode>gängniß; die mich kannten werden dies natürlich finden, die Neugierigen werden mir</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_38"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:9;}">
-            <Coords points="90,1791 1440,1793 1440,1857 90,1855"/>
-            <Baseline points="93,1844 127,1845 181,1844 309,1844 374,1844 436,1844 509,1842 660,1841 755,1840 958,1836 1102,1833 1154,1833 1274,1829 1330,1829 1440,1825"/>
-            <TextEquiv>
-               <Unicode>aber verzeihen, sie um das Begaffen eitler Ceremonien gebracht zu haben. 4. Mein</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_39"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:10;}">
-            <Coords points="94,1842 1440,1842 1440,1904 94,1904"/>
-            <Baseline points="94,1894 233,1892 306,1891 364,1891 542,1889 654,1887 738,1886 847,1884 1022,1880 1122,1880 1263,1877 1349,1875 1440,1873"/>
-            <TextEquiv>
-               <Unicode>Leichnam soll in nächtlicher Stille das Schloß verlassen, nur begleitet von dem</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_40"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:11;}">
-            <Coords points="94,1889 1440,1889 1440,1952 94,1952"/>
-            <Baseline points="91,1941 287,1939 382,1938 613,1936 697,1935 808,1933 1052,1926 1264,1923 1440,1918"/>
-            <TextEquiv>
-               <Unicode>Hofprediger, dem Hofmarschall und einem dienstthuenden Adjutanten, außerdem</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_41"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:12;}">
-            <Coords points="94,1935 1441,1935 1441,2000 94,2000"/>
-            <Baseline points="92,1987 164,1988 246,1987 363,1986 477,1984 568,1985 690,1983 894,1978 1055,1976 1212,1973 1377,1969 1441,1968"/>
-            <TextEquiv>
-               <Unicode>wird mir meine Garde den letzten Liebesdienst erweisen, meinen Leichnam zu</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_42"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:13;}">
-            <Coords points="97,1984 1440,1984 1440,2047 97,2047"/>
-            <Baseline points="95,2035 179,2035 360,2034 412,2033 572,2031 625,2030 703,2031 887,2027 958,2024 988,2025 1089,2023 1138,2020 1324,2017 1440,2014"/>
-            <TextEquiv>
-               <Unicode>seiner Ruhestätte zu begleiten. 5. Ich wünsche, daß die Fahrt so eingerichtet werde,</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_43"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:14;}">
-            <Coords points="96,2030 1442,2030 1442,2095 96,2095"/>
-            <Baseline points="96,2084 129,2081 202,2083 294,2083 376,2082 478,2081 708,2079 766,2075 860,2077 1037,2070 1213,2067 1307,2066 1442,2063"/>
-            <TextEquiv>
-               <Unicode>daß ich mit dem ersten Sonnenstrahl auf dem Rothenberg ankomme; ein einziger</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextLine id="tl_44"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:15;}">
-            <Coords points="97,2078 1443,2078 1443,2144 97,2144"/>
-            <Baseline points="97,2133 300,2129 392,2130 474,2129 575,2129 650,2127 871,2124 1046,2119 1131,2119 1206,2117 1327,2114 1443,2111"/>
-            <TextEquiv>
-               <Unicode>Kanonenschuß soll das Ende des Begräbnisses andeuten, nur ein kurzes Gebet</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Arial" fontSize="12.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Auf Befehl des Königs Karl fand heute die Eröffnung des Packets im kgl.
-Geheimen Rath statt und, es fand sich darin nachstehende Urkunde: „Geschrieben
-den 20. April 1844. 1. Sowie meine Seele meinen Körper verlassen hat, wünsche
-ich außer meiner Familie, wenn sie es verlangt, nur noch von den Aerzten und
-dem dienenden Personal gesehen zu werden. 2. Wenn die Aerzte es für nützlich
-halten, so kann die Obduktion meines Leichnams stattfinden. 3 Da mir während
-meinem Leben nichts widerwärtiger war, als Ceremonien und Etikette, so wünsche
-ich weder feierlich ausgestellt zu werden noch ein Gepränge bei meinem Leichenbe⸗
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
+      <Coords points="57,1363 1444,1363 1444,2145 57,2145"/>
+      <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="169,1364 1433,1364 1433,1427 169,1427"/>
+        <Baseline points="169,1417 221,1416 348,1416 421,1416 556,1413 649,1412 746,1410 847,1409 903,1406 1074,1403 1162,1403 1301,1400 1360,1400 1433,1397"/>
+        <TextEquiv>
+          <Unicode>Auf Befehl des Königs Karl fand heute die Eröffnung des Packets im kgl.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="89,1413 1434,1413 1434,1474 89,1474"/>
+        <Baseline points="89,1465 244,1465 328,1463 425,1462 505,1459 571,1459 660,1458 760,1457 863,1457 1040,1453 1204,1447 1434,1446"/>
+        <TextEquiv>
+          <Unicode>Geheimen Rath ſtatt und, es fand ſich darin nachſtehende Urkunde: „Geſchrieben</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="88,1459 1435,1459 1435,1521 88,1521"/>
+        <Baseline points="88,1513 137,1514 209,1513 310,1510 422,1511 491,1507 611,1506 710,1506 808,1504 937,1502 1059,1499 1209,1494 1277,1494 1435,1492"/>
+        <TextEquiv>
+          <Unicode>den 20. April 1844. 1. Sowie meine Seele meinen Körper verlaſſen hat, wünſche</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="87,1508 1437,1508 1437,1572 87,1572"/>
+        <Baseline points="87,1561 148,1559 227,1558 350,1558 493,1555 622,1555 676,1554 729,1553 886,1550 981,1550 1061,1547 1146,1543 1220,1543 1357,1543 1437,1540"/>
+        <TextEquiv>
+          <Unicode>ich außer meiner Familie, wenn ſie es verlangt, nur noch von den Aerzten und</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="89,1554 1438,1554 1438,1620 89,1620"/>
+        <Baseline points="89,1607 148,1609 312,1607 472,1604 606,1604 661,1602 799,1600 873,1599 997,1598 1058,1596 1172,1593 1230,1591 1306,1591 1440,1587"/>
+        <TextEquiv>
+          <Unicode>dem dienenden Perſonal geſehen zu werden. 2. Wenn die Aerzte es für nützlich</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="90,1602 1437,1602 1437,1666 90,1666"/>
+        <Baseline points="86,1655 196,1654 243,1653 336,1653 393,1651 572,1650 698,1650 876,1646 1064,1643 1127,1642 1211,1641 1284,1640 1437,1635"/>
+        <TextEquiv>
+          <Unicode>halten, ſo kann die Obduktion meines Leichnams ſtattfinden. 3 Da mir während</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="89,1650 1438,1650 1438,1715 89,1715"/>
+        <Baseline points="89,1705 206,1702 317,1701 428,1701 662,1697 743,1696 823,1694 1027,1692 1106,1690 1238,1687 1294,1685 1438,1683"/>
+        <TextEquiv>
+          <Unicode>meinem Leben nichts widerwärtiger war, als Ceremonien und Etikette, ſo wünſche</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="91,1698 1437,1698 1437,1762 91,1762"/>
+        <Baseline points="90,1751 130,1752 233,1749 359,1748 550,1746 604,1746 733,1744 814,1743 893,1741 1064,1735 1130,1735 1266,1735 1437,1728"/>
+        <TextEquiv>
+          <Unicode>ich weder feierlich ausgeſtellt zu werden noch ein Gepränge bei meinem Leichenbe⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_37" primaryLanguage="German" custom="readingOrder {index:8;}">
+        <Coords points="92,1745 1438,1745 1438,1810 92,1810"/>
+        <Baseline points="90,1798 206,1798 292,1797 381,1797 521,1794 649,1793 721,1791 856,1789 978,1786 1045,1786 1243,1783 1366,1780 1438,1778"/>
+        <TextEquiv>
+          <Unicode>gängniß; die mich kannten werden dies natürlich finden, die Neugierigen werden mir</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_38" primaryLanguage="German" custom="readingOrder {index:9;}">
+        <Coords points="90,1791 1440,1793 1440,1857 90,1855"/>
+        <Baseline points="93,1844 127,1845 181,1844 309,1844 374,1844 436,1844 509,1842 660,1841 755,1840 958,1836 1102,1833 1154,1833 1274,1829 1330,1829 1440,1825"/>
+        <TextEquiv>
+          <Unicode>aber verzeihen, ſie um das Begaffen eitler Ceremonien gebracht zu haben. 4. Mein</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_39" primaryLanguage="German" custom="readingOrder {index:10;}">
+        <Coords points="94,1842 1440,1842 1440,1904 94,1904"/>
+        <Baseline points="94,1894 233,1892 306,1891 364,1891 542,1889 654,1887 738,1886 847,1884 1022,1880 1122,1880 1263,1877 1349,1875 1440,1873"/>
+        <TextEquiv>
+          <Unicode>Leichnam ſoll in nächtlicher Stille das Schloß verlaſſen, nur begleitet von dem</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_40" primaryLanguage="German" custom="readingOrder {index:11;}">
+        <Coords points="94,1889 1440,1889 1440,1952 94,1952"/>
+        <Baseline points="91,1941 287,1939 382,1938 613,1936 697,1935 808,1933 1052,1926 1264,1923 1440,1918"/>
+        <TextEquiv>
+          <Unicode>Hofprediger, dem Hofmarſchall und einem dienſtthuenden Adjutanten, außerdem</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_41" primaryLanguage="German" custom="readingOrder {index:12;}">
+        <Coords points="94,1935 1441,1935 1441,2000 94,2000"/>
+        <Baseline points="92,1987 164,1988 246,1987 363,1986 477,1984 568,1985 690,1983 894,1978 1055,1976 1212,1973 1377,1969 1441,1968"/>
+        <TextEquiv>
+          <Unicode>wird mir meine Garde den letzten Liebesdienſt erweiſen, meinen Leichnam zu</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_42" primaryLanguage="German" custom="readingOrder {index:13;}">
+        <Coords points="97,1984 1440,1984 1440,2047 97,2047"/>
+        <Baseline points="95,2035 179,2035 360,2034 412,2033 572,2031 625,2030 703,2031 887,2027 958,2024 988,2025 1089,2023 1138,2020 1324,2017 1440,2014"/>
+        <TextEquiv>
+          <Unicode>ſeiner Ruheſtätte zu begleiten. 5. Ich wünſche, daß die Fahrt ſo eingerichtet werde,</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_43" primaryLanguage="German" custom="readingOrder {index:14;}">
+        <Coords points="96,2030 1442,2030 1442,2095 96,2095"/>
+        <Baseline points="96,2084 129,2081 202,2083 294,2083 376,2082 478,2081 708,2079 766,2075 860,2077 1037,2070 1213,2067 1307,2066 1442,2063"/>
+        <TextEquiv>
+          <Unicode>daß ich mit dem erſten Sonnenſtrahl auf dem Rothenberg ankomme; ein einziger</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextLine id="tl_44" primaryLanguage="German" custom="readingOrder {index:15;}">
+        <Coords points="97,2078 1443,2078 1443,2144 97,2144"/>
+        <Baseline points="97,2133 300,2129 392,2130 474,2129 575,2129 650,2127 871,2124 1046,2119 1131,2119 1206,2117 1327,2114 1443,2111"/>
+        <TextEquiv>
+          <Unicode>Kanonenſchuß ſoll das Ende des Begräbniſſes andeuten, nur ein kurzes Gebet</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Arial" fontSize="12.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Auf Befehl des Königs Karl fand heute die Eröffnung des Packets im kgl.
+Geheimen Rath ſtatt und, es fand ſich darin nachſtehende Urkunde: „Geſchrieben
+den 20. April 1844. 1. Sowie meine Seele meinen Körper verlaſſen hat, wünſche
+ich außer meiner Familie, wenn ſie es verlangt, nur noch von den Aerzten und
+dem dienenden Perſonal geſehen zu werden. 2. Wenn die Aerzte es für nützlich
+halten, ſo kann die Obduktion meines Leichnams ſtattfinden. 3 Da mir während
+meinem Leben nichts widerwärtiger war, als Ceremonien und Etikette, ſo wünſche
+ich weder feierlich ausgeſtellt zu werden noch ein Gepränge bei meinem Leichenbe⸗
 gängniß; die mich kannten werden dies natürlich finden, die Neugierigen werden mir
-aber verzeihen, sie um das Begaffen eitler Ceremonien gebracht zu haben. 4. Mein
-Leichnam soll in nächtlicher Stille das Schloß verlassen, nur begleitet von dem
-Hofprediger, dem Hofmarschall und einem dienstthuenden Adjutanten, außerdem
-wird mir meine Garde den letzten Liebesdienst erweisen, meinen Leichnam zu
-seiner Ruhestätte zu begleiten. 5. Ich wünsche, daß die Fahrt so eingerichtet werde,
-daß ich mit dem ersten Sonnenstrahl auf dem Rothenberg ankomme; ein einziger
-Kanonenschuß soll das Ende des Begräbnisses andeuten, nur ein kurzes Gebet</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <SeparatorRegion id="r_2" custom="readingOrder {index:3;}">
-         <Coords points="0,1674 16,1674 16,2275 0,2275"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_3" custom="readingOrder {index:4;}">
-         <Coords points="0,1491 5,1491 5,1668 0,1668"/>
-      </SeparatorRegion>
-   </Page>
+aber verzeihen, ſie um das Begaffen eitler Ceremonien gebracht zu haben. 4. Mein
+Leichnam ſoll in nächtlicher Stille das Schloß verlaſſen, nur begleitet von dem
+Hofprediger, dem Hofmarſchall und einem dienſtthuenden Adjutanten, außerdem
+wird mir meine Garde den letzten Liebesdienſt erweiſen, meinen Leichnam zu
+ſeiner Ruheſtätte zu begleiten. 5. Ich wünſche, daß die Fahrt ſo eingerichtet werde,
+daß ich mit dem erſten Sonnenſtrahl auf dem Rothenberg ankomme; ein einziger
+Kanonenſchuß ſoll das Ende des Begräbniſſes andeuten, nur ein kurzes Gebet</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <SeparatorRegion id="r_2" custom="readingOrder {index:3;}">
+      <Coords points="0,1674 16,1674 16,2275 0,2275"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_3" custom="readingOrder {index:4;}">
+      <Coords points="0,1491 5,1491 5,1668 0,1668"/>
+    </SeparatorRegion>
+  </Page>
 </PcGts>
