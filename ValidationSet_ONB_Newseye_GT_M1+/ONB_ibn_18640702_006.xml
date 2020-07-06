@@ -1,560 +1,476 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-   <Metadata>
-      <Creator>University of Innsbruck</Creator>
-      <Created>2018-11-29T10:47:51.59+01:00</Created>
-      <LastChange>2019-02-01T11:38:03.229+01:00</LastChange>
-      <Comments>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>University of Innsbruck</Creator>
+    <Created>2018-11-29T10:47:51.59+01:00</Created>
+    <LastChange>2019-02-01T11:38:03.229+01:00</LastChange>
+    <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-      <TranskribusMetadata docId="126500"
-                           pageId="4785195"
-                           pageNr="4"
-                           tsid="7883676"
-                           status="GT"
-                           userId="206"
-                           imgUrl="https://files.transkribus.eu/Get?id=DKUVOPCDIJZMVBBLKUPHIGNT&amp;fileType=view"
-                           xmlUrl="https://files.transkribus.eu/Get?id=XQIVHARRUFOKWBWFWDNEREMU"
-                           imageId="2199528"/>
-   </Metadata>
-   <Page imageFilename="ONB_ibn_18640702_006.tif"
-         imageWidth="1536"
-         imageHeight="2275">
-      <PrintSpace>
-         <Coords points="62,34 1536,34 1536,2275 62,2275"/>
-      </PrintSpace>
-      <ReadingOrder>
-         <OrderedGroup id="ro_1567003993323" caption="Regions reading order">
-            <RegionRefIndexed index="0" regionRef="r_1_1"/>
-            <RegionRefIndexed index="1" regionRef="r_1_2"/>
-            <RegionRefIndexed index="2" regionRef="r_1_3"/>
-            <RegionRefIndexed index="3" regionRef="r_1_4"/>
-            <RegionRefIndexed index="4" regionRef="r_1_5"/>
-            <RegionRefIndexed index="5" regionRef="r_1_6"/>
-            <RegionRefIndexed index="6" regionRef="r_1_7"/>
-         </OrderedGroup>
-      </ReadingOrder>
-      <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
-         <Coords points="87,42 1441,42 1441,575 87,575"/>
-         <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
-            <Coords points="95,43 1440,43 1440,103 95,103"/>
-            <Baseline points="95,77 137,77 362,79 406,79 533,80 712,83 846,88 945,88 1027,90 1134,91 1192,91 1272,92 1370,94 1440,94"/>
-            <TextEquiv>
-               <Unicode>bei Einsenkung des Sargs gesprochen werden. Ich will ruhen in dem schon vor</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
-            <Coords points="95,90 1440,90 1440,151 95,151"/>
-            <Baseline points="93,123 209,126 363,129 468,129 574,131 696,132 856,134 1054,138 1233,137 1330,141 1372,140 1440,141"/>
-            <TextEquiv>
-               <Unicode>Jahren gebauten Grab neben meiner verewigten Gemahlin Katharina, wie ich es</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
-            <Coords points="95,139 1438,139 1438,199 95,199"/>
-            <Baseline points="95,173 136,174 328,175 434,177 501,177 577,179 791,182 928,185 1003,184 1035,184 1081,184 1219,184 1386,188 1437,187"/>
-            <TextEquiv>
-               <Unicode>ihr versprochen hatte. 6. Die Landestrauer wünsche ich auf 3 Monate beschränkt zu</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
-            <Coords points="92,188 1439,188 1439,246 92,246"/>
-            <Baseline points="92,221 173,222 281,223 357,224 419,223 518,225 605,225 742,229 914,230 999,234 1070,235 1147,233 1292,236 1440,234"/>
-            <TextEquiv>
-               <Unicode>sehen, und nur 10 Tage nach meinem Begräbniß soll mit den Glocken geläutet</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
-            <Coords points="92,236 1438,236 1438,295 92,295"/>
-            <Baseline points="90,267 196,268 319,268 524,272 640,273 756,277 810,277 883,279 1022,281 1147,282 1286,282 1358,281 1438,281"/>
-            <TextEquiv>
-               <Unicode>werden, meine Personalien ebenso einfach in den Kirchen gelesen werden. 7. Ich</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
-            <Coords points="91,283 1439,283 1439,341 91,341"/>
-            <Baseline points="89,315 169,315 240,317 359,318 480,319 629,321 721,322 846,325 998,327 1110,329 1234,331 1369,330 1438,332"/>
-            <TextEquiv>
-               <Unicode>sterbe als wahrer Christ, verzeihe allen meinen Feinden, danke meiner Familie für</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
-            <Coords points="91,330 1437,330 1437,388 91,388"/>
-            <Baseline points="89,362 149,362 270,364 382,364 531,368 685,367 779,369 876,372 953,374 1044,376 1184,377 1257,377 1335,379 1437,380"/>
-            <TextEquiv>
-               <Unicode>ihre innige Liebe, meinen Dienern vom Civil wie vom Militär für ihre treue</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
-            <Coords points="91,377 1437,377 1437,436 91,436"/>
-            <Baseline points="91,410 311,413 388,413 480,414 529,416 691,417 784,419 928,420 1037,422 1161,425 1374,427 1437,427"/>
-            <TextEquiv>
-               <Unicode>Anhänglichkeit und Eifer in Erfüllung ihrer Pflichten, allen meinen Unterthanen für</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
-            <Coords points="89,424 1435,424 1435,485 89,485"/>
-            <Baseline points="90,457 148,459 250,458 329,460 497,462 596,465 658,464 787,466 874,468 963,468 1030,471 1086,471 1231,473 1435,473"/>
-            <TextEquiv>
-               <Unicode>ihre Treue und Gehorsam gegen die Gesetze. Ich habe für die Einigkeit, Selbststän⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_10"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:9;}">
-            <Coords points="89,472 1435,472 1435,532 89,532"/>
-            <Baseline points="89,504 177,503 299,507 376,509 583,512 690,512 796,514 1001,517 1110,519 1208,520 1334,521 1435,521"/>
-            <TextEquiv>
-               <Unicode>digkeit, Ruhe von Deutschland gelebt, mein Württemberg über Alles geliebt. Heil</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_11"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:10;}">
-            <Coords points="88,520 1039,520 1039,574 88,574"/>
-            <Baseline points="88,552 203,554 382,556 449,557 525,559 686,560 785,563 1038,566"/>
-            <TextEquiv>
-               <Unicode>meinem Vaterland für alle Zukunft! (gez.) Wilhelm.“</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>bei Einsenkung des Sargs gesprochen werden. Ich will ruhen in dem schon vor
+    <TranskribusMetadata docId="126500" pageId="4785195" pageNr="4" tsid="7883676" status="GT" userId="206" imgUrl="https://files.transkribus.eu/Get?id=DKUVOPCDIJZMVBBLKUPHIGNT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XQIVHARRUFOKWBWFWDNEREMU" imageId="2199528"/>
+  </Metadata>
+  <Page imageFilename="ONB_ibn_18640702_006.tif" imageWidth="1536" imageHeight="2275">
+    <PrintSpace>
+      <Coords points="62,34 1536,34 1536,2275 62,2275"/>
+    </PrintSpace>
+    <ReadingOrder>
+      <OrderedGroup id="ro_1567003993323" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r_1_1"/>
+        <RegionRefIndexed index="1" regionRef="r_1_2"/>
+        <RegionRefIndexed index="2" regionRef="r_1_3"/>
+        <RegionRefIndexed index="3" regionRef="r_1_4"/>
+        <RegionRefIndexed index="4" regionRef="r_1_5"/>
+        <RegionRefIndexed index="5" regionRef="r_1_6"/>
+        <RegionRefIndexed index="6" regionRef="r_1_7"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="87,42 1441,42 1441,575 87,575"/>
+      <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="95,43 1440,43 1440,103 95,103"/>
+        <Baseline points="95,77 137,77 362,79 406,79 533,80 712,83 846,88 945,88 1027,90 1134,91 1192,91 1272,92 1370,94 1440,94"/>
+        <TextEquiv>
+          <Unicode>bei Einſenkung des Sargs geſprochen werden. Ich will ruhen in dem ſchon vor</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="95,90 1440,90 1440,151 95,151"/>
+        <Baseline points="93,123 209,126 363,129 468,129 574,131 696,132 856,134 1054,138 1233,137 1330,141 1372,140 1440,141"/>
+        <TextEquiv>
+          <Unicode>Jahren gebauten Grab neben meiner verewigten Gemahlin Katharina, wie ich es</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="95,139 1438,139 1438,199 95,199"/>
+        <Baseline points="95,173 136,174 328,175 434,177 501,177 577,179 791,182 928,185 1003,184 1035,184 1081,184 1219,184 1386,188 1437,187"/>
+        <TextEquiv>
+          <Unicode>ihr verſprochen hatte. 6. Die Landestrauer wünſche ich auf 3 Monate beſchränkt zu</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="92,188 1439,188 1439,246 92,246"/>
+        <Baseline points="92,221 173,222 281,223 357,224 419,223 518,225 605,225 742,229 914,230 999,234 1070,235 1147,233 1292,236 1440,234"/>
+        <TextEquiv>
+          <Unicode>ſehen, und nur 10 Tage nach meinem Begräbniß ſoll mit den Glocken geläutet</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="92,236 1438,236 1438,295 92,295"/>
+        <Baseline points="90,267 196,268 319,268 524,272 640,273 756,277 810,277 883,279 1022,281 1147,282 1286,282 1358,281 1438,281"/>
+        <TextEquiv>
+          <Unicode>werden, meine Perſonalien ebenſo einfach in den Kirchen geleſen werden. 7. Ich</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="91,283 1439,283 1439,341 91,341"/>
+        <Baseline points="89,315 169,315 240,317 359,318 480,319 629,321 721,322 846,325 998,327 1110,329 1234,331 1369,330 1438,332"/>
+        <TextEquiv>
+          <Unicode>ſterbe als wahrer Chriſt, verzeihe allen meinen Feinden, danke meiner Familie für</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="91,330 1437,330 1437,388 91,388"/>
+        <Baseline points="89,362 149,362 270,364 382,364 531,368 685,367 779,369 876,372 953,374 1044,376 1184,377 1257,377 1335,379 1437,380"/>
+        <TextEquiv>
+          <Unicode>ihre innige Liebe, meinen Dienern vom Civil wie vom Militär für ihre treue</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="91,377 1437,377 1437,436 91,436"/>
+        <Baseline points="91,410 311,413 388,413 480,414 529,416 691,417 784,419 928,420 1037,422 1161,425 1374,427 1437,427"/>
+        <TextEquiv>
+          <Unicode>Anhänglichkeit und Eifer in Erfüllung ihrer Pflichten, allen meinen Unterthanen für</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+        <Coords points="89,424 1435,424 1435,485 89,485"/>
+        <Baseline points="90,457 148,459 250,458 329,460 497,462 596,465 658,464 787,466 874,468 963,468 1030,471 1086,471 1231,473 1435,473"/>
+        <TextEquiv>
+          <Unicode>ihre Treue und Gehorſam gegen die Geſetze. Ich habe für die Einigkeit, Selbſtſtän⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+        <Coords points="89,472 1435,472 1435,532 89,532"/>
+        <Baseline points="89,504 177,503 299,507 376,509 583,512 690,512 796,514 1001,517 1110,519 1208,520 1334,521 1435,521"/>
+        <TextEquiv>
+          <Unicode>digkeit, Ruhe von Deutſchland gelebt, mein Württemberg über Alles geliebt. Heil</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+        <Coords points="88,520 1039,520 1039,574 88,574"/>
+        <Baseline points="88,552 203,554 382,556 449,557 525,559 686,560 785,563 1038,566"/>
+        <TextEquiv>
+          <Unicode>meinem Vaterland für alle Zukunft! (gez.) Wilhelm.“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>bei Einſenkung des Sargs geſprochen werden. Ich will ruhen in dem ſchon vor
 Jahren gebauten Grab neben meiner verewigten Gemahlin Katharina, wie ich es
-ihr versprochen hatte. 6. Die Landestrauer wünsche ich auf 3 Monate beschränkt zu
-sehen, und nur 10 Tage nach meinem Begräbniß soll mit den Glocken geläutet
-werden, meine Personalien ebenso einfach in den Kirchen gelesen werden. 7. Ich
-sterbe als wahrer Christ, verzeihe allen meinen Feinden, danke meiner Familie für
+ihr verſprochen hatte. 6. Die Landestrauer wünſche ich auf 3 Monate beſchränkt zu
+ſehen, und nur 10 Tage nach meinem Begräbniß ſoll mit den Glocken geläutet
+werden, meine Perſonalien ebenſo einfach in den Kirchen geleſen werden. 7. Ich
+ſterbe als wahrer Chriſt, verzeihe allen meinen Feinden, danke meiner Familie für
 ihre innige Liebe, meinen Dienern vom Civil wie vom Militär für ihre treue
 Anhänglichkeit und Eifer in Erfüllung ihrer Pflichten, allen meinen Unterthanen für
-ihre Treue und Gehorsam gegen die Gesetze. Ich habe für die Einigkeit, Selbststän⸗
-digkeit, Ruhe von Deutschland gelebt, mein Württemberg über Alles geliebt. Heil
+ihre Treue und Gehorſam gegen die Geſetze. Ich habe für die Einigkeit, Selbſtſtän⸗
+digkeit, Ruhe von Deutſchland gelebt, mein Württemberg über Alles geliebt. Heil
 meinem Vaterland für alle Zukunft! (gez.) Wilhelm.“</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
-         <Coords points="83,568 1434,568 1434,897 83,897"/>
-         <TextLine id="tl_12"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="171,569 1432,569 1432,628 171,628"/>
-            <Baseline points="171,602 202,602 457,603 557,607 723,608 856,611 938,611 1117,613 1225,613 1320,617 1432,616"/>
-            <TextEquiv>
-               <Unicode>Stuttgart, 29. Juni. Obgleich bekannt geworden war, daß gestern Nach⸗</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_13"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="87,616 1433,616 1433,675 87,675"/>
-            <Baseline points="87,648 180,649 246,651 478,654 550,656 591,655 869,659 944,659 1009,661 1161,662 1233,664 1313,664 1433,665"/>
-            <TextEquiv>
-               <Unicode>mittag im Marmorsaale des k. Residenzschlosses nur der Katafalk mit dem bereits</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_14"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="87,664 1430,664 1430,723 87,723"/>
-            <Baseline points="86,694 275,697 393,698 450,701 531,701 592,703 738,705 905,706 969,707 1170,709 1313,710 1430,712"/>
-            <TextEquiv>
-               <Unicode>geschlossenen Sarge, in dem die irdischen Ueberreste des höchstseligen Königes ruhen,</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_15"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="85,712 1430,712 1430,769 85,769"/>
-            <Baseline points="83,743 191,745 315,748 464,748 590,751 655,751 745,752 813,755 846,754 921,755 974,756 1135,757 1199,758 1272,759 1430,758"/>
-            <TextEquiv>
-               <Unicode>gesehen werden konnten, fanden sich doch von 1 Uhr an Tausende vor dem Residenz⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_16"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="85,758 1429,758 1429,818 85,818"/>
-            <Baseline points="83,791 190,791 263,792 360,795 428,795 551,798 662,797 726,796 797,800 878,802 932,803 1093,804 1218,806 1299,807 1429,803"/>
-            <TextEquiv>
-               <Unicode>schlosse ein; nicht der Hälfte gelang es, ihr Ziel zu erreichen. Unter dem Haupt⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_17"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="84,807 1430,807 1430,866 84,866"/>
-            <Baseline points="78,836 189,839 270,841 345,842 515,843 570,846 684,847 724,846 779,848 905,849 1008,851 1156,853 1375,854 1431,854"/>
-            <TextEquiv>
-               <Unicode>portale war das Gedränge zu Zeiten so stark, daß selbst einzelne Verletzungen zu</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_18"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="84,854 299,854 299,896 84,896"/>
-            <Baseline points="84,884 208,887 299,887"/>
-            <TextEquiv>
-               <Unicode>beklagen sind.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Stuttgart, 29. Juni. Obgleich bekannt geworden war, daß gestern Nach⸗
-mittag im Marmorsaale des k. Residenzschlosses nur der Katafalk mit dem bereits
-geschlossenen Sarge, in dem die irdischen Ueberreste des höchstseligen Königes ruhen,
-gesehen werden konnten, fanden sich doch von 1 Uhr an Tausende vor dem Residenz⸗
-schlosse ein; nicht der Hälfte gelang es, ihr Ziel zu erreichen. Unter dem Haupt⸗
-portale war das Gedränge zu Zeiten so stark, daß selbst einzelne Verletzungen zu
-beklagen sind.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
-         <Coords points="81,900 1431,900 1431,1009 81,1009"/>
-         <TextLine id="tl_19"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="165,901 1430,901 1430,960 165,960"/>
-            <Baseline points="165,934 227,935 366,934 488,939 667,939 743,942 982,944 1032,947 1134,945 1331,949 1430,947"/>
-            <TextEquiv>
-               <Unicode>Der kürzlich wegen Verdachts der Brandstiftung in Haft genommene Ma⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_20"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="82,948 1427,948 1427,1008 82,1008"/>
-            <Baseline points="82,980 181,981 253,981 461,985 512,986 682,989 736,988 810,991 916,992 1013,993 1132,995 1286,997 1426,998"/>
-            <TextEquiv>
-               <Unicode>schinist des Hoftheaters in Stuttgart ist aus seiner Haft wieder entlassen worden.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Der kürzlich wegen Verdachts der Brandstiftung in Haft genommene Ma⸗
-schinist des Hoftheaters in Stuttgart ist aus seiner Haft wieder entlassen worden.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_4" custom="readingOrder {index:3;}">
-         <Coords points="73,995 1428,995 1428,1481 73,1481"/>
-         <TextLine id="tl_21"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="164,996 1427,996 1427,1053 164,1053"/>
-            <Baseline points="161,1027 207,1028 284,1028 431,1031 512,1033 644,1035 774,1037 998,1041 1068,1042 1142,1043 1321,1045 1427,1042"/>
-            <TextEquiv>
-               <Unicode>In den Städten des Königreichs Polen herrscht bei der gänzlichen Nah⸗</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_22"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="81,1044 1427,1044 1427,1102 81,1102"/>
-            <Baseline points="77,1076 290,1079 427,1079 525,1081 643,1084 755,1085 834,1087 910,1089 984,1090 1200,1091 1271,1092 1366,1092 1427,1094"/>
-            <TextEquiv>
-               <Unicode>rungslosigkeit durchweg das größte Elend und von den Landbesitzern hat etwa die</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_23"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="79,1092 1427,1092 1427,1151 79,1151"/>
-            <Baseline points="77,1123 179,1126 301,1127 398,1128 490,1128 663,1132 731,1134 781,1135 843,1136 962,1137 1029,1137 1145,1140 1303,1139 1427,1143"/>
-            <TextEquiv>
-               <Unicode>Hälfte bereits ihren Besitz verloren, der in die Hände der Juden übergeht, welche</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_24"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="79,1141 1425,1141 1425,1200 79,1200"/>
-            <Baseline points="79,1174 120,1174 268,1175 431,1175 501,1177 613,1180 665,1181 849,1184 991,1185 1182,1187 1317,1187 1425,1191"/>
-            <TextEquiv>
-               <Unicode>die enormen Summen, die bisher zu nationalen Zwecken beigesteuert wurden, gegen</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_25"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="79,1188 1424,1188 1424,1246 79,1246"/>
-            <Baseline points="77,1220 193,1221 270,1222 353,1223 443,1224 573,1224 759,1230 877,1229 975,1233 1070,1233 1136,1234 1286,1235 1424,1235"/>
-            <TextEquiv>
-               <Unicode>Wechsel, die nun fällig sind, vorgeschossen haben. Tin Theil der früheren Grund⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_26"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="78,1235 1423,1235 1423,1294 78,1294"/>
-            <Baseline points="75,1266 178,1268 229,1268 364,1270 580,1274 657,1274 724,1276 860,1278 957,1278 1012,1277 1166,1282 1327,1283 1423,1282"/>
-            <TextEquiv>
-               <Unicode>besitzer ist freilich ausgewandert und ein anderer Theil ist gefangen abgeführt wor⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_27"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="76,1281 1425,1281 1425,1342 76,1342"/>
-            <Baseline points="76,1315 138,1315 240,1316 357,1317 424,1319 549,1321 681,1323 760,1324 1148,1329 1347,1331 1425,1331"/>
-            <TextEquiv>
-               <Unicode>den. Die Güter der letztern werden von Regierungskommissarien administrirt und</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_28"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:7;}">
-            <Coords points="78,1329 1423,1329 1423,1388 78,1388"/>
-            <Baseline points="76,1360 157,1362 268,1363 434,1366 566,1367 653,1369 718,1369 804,1372 856,1372 982,1372 1025,1374 1188,1375 1240,1377 1298,1378 1423,1380"/>
-            <TextEquiv>
-               <Unicode>sollen später versteigert werden, doch soll, wie es heißt, der Zuschlag nur an Russen</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_29"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:8;}">
-            <Coords points="77,1375 1423,1375 1423,1436 77,1436"/>
-            <Baseline points="77,1408 140,1409 298,1411 484,1415 613,1415 694,1417 838,1419 939,1420 1083,1420 1129,1423 1211,1423 1348,1424 1422,1426"/>
-            <TextEquiv>
-               <Unicode>oder Deutsche stattfinden. Ruhe und Ordnung sind übrigens in ganz Polen jetzt</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_30"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:9;}">
-            <Coords points="74,1422 419,1421 419,1479 74,1480"/>
-            <Baseline points="73,1454 218,1457 274,1459 414,1460"/>
-            <TextEquiv>
-               <Unicode>vollständig hergestellt.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>In den Städten des Königreichs Polen herrscht bei der gänzlichen Nah⸗
-rungslosigkeit durchweg das größte Elend und von den Landbesitzern hat etwa die
-Hälfte bereits ihren Besitz verloren, der in die Hände der Juden übergeht, welche
-die enormen Summen, die bisher zu nationalen Zwecken beigesteuert wurden, gegen
-Wechsel, die nun fällig sind, vorgeschossen haben. Tin Theil der früheren Grund⸗
-besitzer ist freilich ausgewandert und ein anderer Theil ist gefangen abgeführt wor⸗
-den. Die Güter der letztern werden von Regierungskommissarien administrirt und
-sollen später versteigert werden, doch soll, wie es heißt, der Zuschlag nur an Russen
-oder Deutsche stattfinden. Ruhe und Ordnung sind übrigens in ganz Polen jetzt
-vollständig hergestellt.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_5" custom="readingOrder {index:4;}">
-         <Coords points="580,1503 905,1503 905,1554 580,1554"/>
-         <TextLine id="tl_31"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="581,1504 904,1504 904,1553 581,1553"/>
-            <Baseline points="579,1540 904,1544"/>
-            <TextEquiv>
-               <Unicode>Neuestes.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="21.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Neuestes.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_6" custom="readingOrder {index:5;}">
-         <Coords points="70,1553 1421,1553 1421,1899 70,1899"/>
-         <TextLine id="tl_32"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="154,1554 1420,1554 1420,1613 154,1613"/>
-            <Baseline points="153,1584 192,1586 426,1588 548,1591 760,1596 905,1598 972,1598 1186,1599 1300,1601 1420,1603"/>
-            <TextEquiv>
-               <Unicode>Hamburg, 27. Juni. Borgestern langten von Magdeburg 172 dänische</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_33"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="71,1594 1420,1594 1420,1653 71,1653"/>
-            <Baseline points="69,1626 339,1629 495,1631 534,1634 672,1635 750,1635 896,1639 1075,1639 1185,1641 1281,1642 1420,1645"/>
-            <TextEquiv>
-               <Unicode>Kriegsgefangene, darunter 1 Offizier und mehrere Feldwebel, unter einer Escorte</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_34"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="72,1635 1419,1635 1419,1695 72,1695"/>
-            <Baseline points="71,1666 128,1667 345,1671 415,1672 454,1673 596,1676 680,1677 749,1677 945,1681 1049,1680 1164,1681 1227,1683 1277,1684 1419,1685"/>
-            <TextEquiv>
-               <Unicode>von 20 Preußen mit 1 Offizier hier an. Dieselben sollen gegen die in dänische</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_35"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="72,1674 1417,1674 1417,1734 72,1734"/>
-            <Baseline points="72,1708 307,1712 493,1714 713,1719 793,1720 949,1719 1145,1720 1282,1723 1417,1723"/>
-            <TextEquiv>
-               <Unicode>Gefangenschaft gerathenen Oesterreicher und Preußen ausgeliefert werden. Nach⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_36"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="71,1718 1415,1718 1415,1776 71,1776"/>
-            <Baseline points="71,1749 129,1749 185,1751 263,1752 460,1754 592,1757 727,1758 783,1759 913,1759 1062,1763 1184,1763 1304,1763 1415,1766"/>
-            <TextEquiv>
-               <Unicode>dem sie hier übernachtet hatten, gingen sie gestern Morgen weiter nach Altona.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_37"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="74,1758 1417,1758 1417,1817 74,1817"/>
-            <Baseline points="72,1789 106,1791 196,1791 368,1793 588,1798 722,1798 809,1800 980,1800 1042,1803 1181,1803 1294,1806 1361,1806 1415,1806"/>
-            <TextEquiv>
-               <Unicode>— Das preußische Kanonenboot „Adler“ kam vorgestern im hiesigen Hafen an. —</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_38"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="72,1797 1415,1797 1415,1859 72,1859"/>
-            <Baseline points="72,1831 188,1832 311,1833 354,1834 562,1839 632,1838 768,1841 1002,1844 1054,1844 1148,1845 1271,1844 1346,1844 1415,1844"/>
-            <TextEquiv>
-               <Unicode>Gestern gingen 2 Kompagnien des hiesigen Linienmilitärs in einer Stärke von zu⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_39"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:7;}">
-            <Coords points="71,1840 1413,1840 1413,1898 71,1898"/>
-            <Baseline points="69,1870 192,1873 267,1874 382,1876 465,1876 630,1880 688,1878 763,1882 817,1882 956,1884 1224,1887 1278,1886 1413,1887"/>
-            <TextEquiv>
-               <Unicode>sammen 164 Mann nach Curhaven ab, um die dortigen Strandbatterien zu besetzen.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Hamburg, 27. Juni. Borgestern langten von Magdeburg 172 dänische
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+      <Coords points="83,568 1434,568 1434,897 83,897"/>
+      <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="171,569 1432,569 1432,628 171,628"/>
+        <Baseline points="171,602 202,602 457,603 557,607 723,608 856,611 938,611 1117,613 1225,613 1320,617 1432,616"/>
+        <TextEquiv>
+          <Unicode>Stuttgart, 29. Juni. Obgleich bekannt geworden war, daß geſtern Nach⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="87,616 1433,616 1433,675 87,675"/>
+        <Baseline points="87,648 180,649 246,651 478,654 550,656 591,655 869,659 944,659 1009,661 1161,662 1233,664 1313,664 1433,665"/>
+        <TextEquiv>
+          <Unicode>mittag im Marmorſaale des k. Reſidenzſchloſſes nur der Katafalk mit dem bereits</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="87,664 1430,664 1430,723 87,723"/>
+        <Baseline points="86,694 275,697 393,698 450,701 531,701 592,703 738,705 905,706 969,707 1170,709 1313,710 1430,712"/>
+        <TextEquiv>
+          <Unicode>geſchloſſenen Sarge, in dem die irdiſchen Ueberreſte des höchſtſeligen Königes ruhen,</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="85,712 1430,712 1430,769 85,769"/>
+        <Baseline points="83,743 191,745 315,748 464,748 590,751 655,751 745,752 813,755 846,754 921,755 974,756 1135,757 1199,758 1272,759 1430,758"/>
+        <TextEquiv>
+          <Unicode>geſehen werden konnten, fanden ſich doch von 1 Uhr an Tauſende vor dem Reſidenz⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="85,758 1429,758 1429,818 85,818"/>
+        <Baseline points="83,791 190,791 263,792 360,795 428,795 551,798 662,797 726,796 797,800 878,802 932,803 1093,804 1218,806 1299,807 1429,803"/>
+        <TextEquiv>
+          <Unicode>ſchloſſe ein; nicht der Hälfte gelang es, ihr Ziel zu erreichen. Unter dem Haupt⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="84,807 1430,807 1430,866 84,866"/>
+        <Baseline points="78,836 189,839 270,841 345,842 515,843 570,846 684,847 724,846 779,848 905,849 1008,851 1156,853 1375,854 1431,854"/>
+        <TextEquiv>
+          <Unicode>portale war das Gedränge zu Zeiten ſo ſtark, daß ſelbſt einzelne Verletzungen zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="84,854 299,854 299,896 84,896"/>
+        <Baseline points="84,884 208,887 299,887"/>
+        <TextEquiv>
+          <Unicode>beklagen ſind.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Stuttgart, 29. Juni. Obgleich bekannt geworden war, daß geſtern Nach⸗
+mittag im Marmorſaale des k. Reſidenzſchloſſes nur der Katafalk mit dem bereits
+geſchloſſenen Sarge, in dem die irdiſchen Ueberreſte des höchſtſeligen Königes ruhen,
+geſehen werden konnten, fanden ſich doch von 1 Uhr an Tauſende vor dem Reſidenz⸗
+ſchloſſe ein; nicht der Hälfte gelang es, ihr Ziel zu erreichen. Unter dem Haupt⸗
+portale war das Gedränge zu Zeiten ſo ſtark, daß ſelbſt einzelne Verletzungen zu
+beklagen ſind.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
+      <Coords points="81,900 1431,900 1431,1009 81,1009"/>
+      <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="165,901 1430,901 1430,960 165,960"/>
+        <Baseline points="165,934 227,935 366,934 488,939 667,939 743,942 982,944 1032,947 1134,945 1331,949 1430,947"/>
+        <TextEquiv>
+          <Unicode>Der kürzlich wegen Verdachts der Brandſtiftung in Haft genommene Ma⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="82,948 1427,948 1427,1008 82,1008"/>
+        <Baseline points="82,980 181,981 253,981 461,985 512,986 682,989 736,988 810,991 916,992 1013,993 1132,995 1286,997 1426,998"/>
+        <TextEquiv>
+          <Unicode>ſchiniſt des Hoftheaters in Stuttgart iſt aus ſeiner Haft wieder entlaſſen worden.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Der kürzlich wegen Verdachts der Brandſtiftung in Haft genommene Ma⸗
+ſchiniſt des Hoftheaters in Stuttgart iſt aus ſeiner Haft wieder entlaſſen worden.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_4" custom="readingOrder {index:3;}">
+      <Coords points="73,995 1428,995 1428,1481 73,1481"/>
+      <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="164,996 1427,996 1427,1053 164,1053"/>
+        <Baseline points="161,1027 207,1028 284,1028 431,1031 512,1033 644,1035 774,1037 998,1041 1068,1042 1142,1043 1321,1045 1427,1042"/>
+        <TextEquiv>
+          <Unicode>In den Städten des Königreichs Polen herrſcht bei der gänzlichen Nah⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="81,1044 1427,1044 1427,1102 81,1102"/>
+        <Baseline points="77,1076 290,1079 427,1079 525,1081 643,1084 755,1085 834,1087 910,1089 984,1090 1200,1091 1271,1092 1366,1092 1427,1094"/>
+        <TextEquiv>
+          <Unicode>rungsloſigkeit durchweg das größte Elend und von den Landbeſitzern hat etwa die</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="79,1092 1427,1092 1427,1151 79,1151"/>
+        <Baseline points="77,1123 179,1126 301,1127 398,1128 490,1128 663,1132 731,1134 781,1135 843,1136 962,1137 1029,1137 1145,1140 1303,1139 1427,1143"/>
+        <TextEquiv>
+          <Unicode>Hälfte bereits ihren Beſitz verloren, der in die Hände der Juden übergeht, welche</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="79,1141 1425,1141 1425,1200 79,1200"/>
+        <Baseline points="79,1174 120,1174 268,1175 431,1175 501,1177 613,1180 665,1181 849,1184 991,1185 1182,1187 1317,1187 1425,1191"/>
+        <TextEquiv>
+          <Unicode>die enormen Summen, die bisher zu nationalen Zwecken beigeſteuert wurden, gegen</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="79,1188 1424,1188 1424,1246 79,1246"/>
+        <Baseline points="77,1220 193,1221 270,1222 353,1223 443,1224 573,1224 759,1230 877,1229 975,1233 1070,1233 1136,1234 1286,1235 1424,1235"/>
+        <TextEquiv>
+          <Unicode>Wechſel, die nun fällig ſind, vorgeſchoſſen haben. Tin Theil der früheren Grund⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="78,1235 1423,1235 1423,1294 78,1294"/>
+        <Baseline points="75,1266 178,1268 229,1268 364,1270 580,1274 657,1274 724,1276 860,1278 957,1278 1012,1277 1166,1282 1327,1283 1423,1282"/>
+        <TextEquiv>
+          <Unicode>beſitzer iſt freilich ausgewandert und ein anderer Theil iſt gefangen abgeführt wor⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="76,1281 1425,1281 1425,1342 76,1342"/>
+        <Baseline points="76,1315 138,1315 240,1316 357,1317 424,1319 549,1321 681,1323 760,1324 1148,1329 1347,1331 1425,1331"/>
+        <TextEquiv>
+          <Unicode>den. Die Güter der letztern werden von Regierungskommiſſarien adminiſtrirt und</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="78,1329 1423,1329 1423,1388 78,1388"/>
+        <Baseline points="76,1360 157,1362 268,1363 434,1366 566,1367 653,1369 718,1369 804,1372 856,1372 982,1372 1025,1374 1188,1375 1240,1377 1298,1378 1423,1380"/>
+        <TextEquiv>
+          <Unicode>ſollen ſpäter verſteigert werden, doch ſoll, wie es heißt, der Zuſchlag nur an Ruſſen</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:8;}">
+        <Coords points="77,1375 1423,1375 1423,1436 77,1436"/>
+        <Baseline points="77,1408 140,1409 298,1411 484,1415 613,1415 694,1417 838,1419 939,1420 1083,1420 1129,1423 1211,1423 1348,1424 1422,1426"/>
+        <TextEquiv>
+          <Unicode>oder Deutſche ſtattfinden. Ruhe und Ordnung ſind übrigens in ganz Polen jetzt</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:9;}">
+        <Coords points="74,1422 419,1421 419,1479 74,1480"/>
+        <Baseline points="73,1454 218,1457 274,1459 414,1460"/>
+        <TextEquiv>
+          <Unicode>vollſtändig hergeſtellt.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>In den Städten des Königreichs Polen herrſcht bei der gänzlichen Nah⸗
+rungsloſigkeit durchweg das größte Elend und von den Landbeſitzern hat etwa die
+Hälfte bereits ihren Beſitz verloren, der in die Hände der Juden übergeht, welche
+die enormen Summen, die bisher zu nationalen Zwecken beigeſteuert wurden, gegen
+Wechſel, die nun fällig ſind, vorgeſchoſſen haben. Tin Theil der früheren Grund⸗
+beſitzer iſt freilich ausgewandert und ein anderer Theil iſt gefangen abgeführt wor⸗
+den. Die Güter der letztern werden von Regierungskommiſſarien adminiſtrirt und
+ſollen ſpäter verſteigert werden, doch ſoll, wie es heißt, der Zuſchlag nur an Ruſſen
+oder Deutſche ſtattfinden. Ruhe und Ordnung ſind übrigens in ganz Polen jetzt
+vollſtändig hergeſtellt.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_5" custom="readingOrder {index:4;}">
+      <Coords points="580,1503 905,1503 905,1554 580,1554"/>
+      <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="581,1504 904,1504 904,1553 581,1553"/>
+        <Baseline points="579,1540 904,1544"/>
+        <TextEquiv>
+          <Unicode>Neueſtes.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="21.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Neueſtes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_6" custom="readingOrder {index:5;}">
+      <Coords points="70,1553 1421,1553 1421,1899 70,1899"/>
+      <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="154,1554 1420,1554 1420,1613 154,1613"/>
+        <Baseline points="153,1584 192,1586 426,1588 548,1591 760,1596 905,1598 972,1598 1186,1599 1300,1601 1420,1603"/>
+        <TextEquiv>
+          <Unicode>Hamburg, 27. Juni. Borgeſtern langten von Magdeburg 172 däniſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="71,1594 1420,1594 1420,1653 71,1653"/>
+        <Baseline points="69,1626 339,1629 495,1631 534,1634 672,1635 750,1635 896,1639 1075,1639 1185,1641 1281,1642 1420,1645"/>
+        <TextEquiv>
+          <Unicode>Kriegsgefangene, darunter 1 Offizier und mehrere Feldwebel, unter einer Escorte</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="72,1635 1419,1635 1419,1695 72,1695"/>
+        <Baseline points="71,1666 128,1667 345,1671 415,1672 454,1673 596,1676 680,1677 749,1677 945,1681 1049,1680 1164,1681 1227,1683 1277,1684 1419,1685"/>
+        <TextEquiv>
+          <Unicode>von 20 Preußen mit 1 Offizier hier an. Dieſelben ſollen gegen die in däniſche</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="72,1674 1417,1674 1417,1734 72,1734"/>
+        <Baseline points="72,1708 307,1712 493,1714 713,1719 793,1720 949,1719 1145,1720 1282,1723 1417,1723"/>
+        <TextEquiv>
+          <Unicode>Gefangenſchaft gerathenen Oeſterreicher und Preußen ausgeliefert werden. Nach⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="71,1718 1415,1718 1415,1776 71,1776"/>
+        <Baseline points="71,1749 129,1749 185,1751 263,1752 460,1754 592,1757 727,1758 783,1759 913,1759 1062,1763 1184,1763 1304,1763 1415,1766"/>
+        <TextEquiv>
+          <Unicode>dem ſie hier übernachtet hatten, gingen ſie geſtern Morgen weiter nach Altona.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_37" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="74,1758 1417,1758 1417,1817 74,1817"/>
+        <Baseline points="72,1789 106,1791 196,1791 368,1793 588,1798 722,1798 809,1800 980,1800 1042,1803 1181,1803 1294,1806 1361,1806 1415,1806"/>
+        <TextEquiv>
+          <Unicode>— Das preußiſche Kanonenboot „Adler“ kam vorgeſtern im hieſigen Hafen an. —</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_38" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="72,1797 1415,1797 1415,1859 72,1859"/>
+        <Baseline points="72,1831 188,1832 311,1833 354,1834 562,1839 632,1838 768,1841 1002,1844 1054,1844 1148,1845 1271,1844 1346,1844 1415,1844"/>
+        <TextEquiv>
+          <Unicode>Geſtern gingen 2 Kompagnien des hieſigen Linienmilitärs in einer Stärke von zu⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_39" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="71,1840 1413,1840 1413,1898 71,1898"/>
+        <Baseline points="69,1870 192,1873 267,1874 382,1876 465,1876 630,1880 688,1878 763,1882 817,1882 956,1884 1224,1887 1278,1886 1413,1887"/>
+        <TextEquiv>
+          <Unicode>ſammen 164 Mann nach Curhaven ab, um die dortigen Strandbatterien zu beſetzen.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Hamburg, 27. Juni. Borgeſtern langten von Magdeburg 172 däniſche
 Kriegsgefangene, darunter 1 Offizier und mehrere Feldwebel, unter einer Escorte
-von 20 Preußen mit 1 Offizier hier an. Dieselben sollen gegen die in dänische
-Gefangenschaft gerathenen Oesterreicher und Preußen ausgeliefert werden. Nach⸗
-dem sie hier übernachtet hatten, gingen sie gestern Morgen weiter nach Altona.
-— Das preußische Kanonenboot „Adler“ kam vorgestern im hiesigen Hafen an. —
-Gestern gingen 2 Kompagnien des hiesigen Linienmilitärs in einer Stärke von zu⸗
-sammen 164 Mann nach Curhaven ab, um die dortigen Strandbatterien zu besetzen.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_1_7" custom="readingOrder {index:6;}">
-         <Coords points="65,1881 1415,1881 1415,2146 65,2146"/>
-         <TextLine id="tl_40"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="152,1882 1414,1882 1414,1939 152,1939"/>
-            <Baseline points="152,1915 212,1915 324,1913 375,1916 519,1918 558,1920 642,1920 829,1924 900,1922 993,1924 1197,1927 1286,1928 1414,1930"/>
-            <TextEquiv>
-               <Unicode>Der „Allg. Ztg.“ wird aus Berlin vom 30. Juni geschrieben: Die hiesigen</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_41"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="70,1922 1412,1922 1412,1980 70,1980"/>
-            <Baseline points="70,1954 183,1955 326,1956 447,1959 536,1960 625,1961 863,1963 1067,1967 1114,1966 1415,1966"/>
-            <TextEquiv>
-               <Unicode>Blätter bringen außer dem uns zugegangenen Telegramm aus Flensburg,</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_42"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="68,1963 1412,1963 1412,2021 68,2021"/>
-            <Baseline points="68,1996 117,1995 227,1995 349,1996 474,1999 521,2000 610,2003 947,2005 1065,2006 1212,2008 1414,2011"/>
-            <TextEquiv>
-               <Unicode>29. Juni, einige andere von Satrup=Holz, 29. Juni, woraus hervorgeht,</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_43"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="68,2004 1413,2004 1413,2060 68,2060"/>
-            <Baseline points="68,2035 144,2036 182,2038 369,2040 521,2041 652,2046 709,2045 994,2047 1053,2048 1291,2050 1415,2051"/>
-            <TextEquiv>
-               <Unicode>daß 12 Bataillone Preußen bereits mit zahlreicher Artillerie auf Alsen</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_44"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="68,2045 1414,2045 1414,2104 68,2104"/>
-            <Baseline points="65,2075 163,2076 272,2079 356,2081 550,2083 622,2085 779,2085 833,2087 893,2088 1075,2088 1165,2090 1321,2091 1414,2092"/>
-            <TextEquiv>
-               <Unicode>stehen. Aus dem Uebergange der Artillerie ist zu vermuthen, daß Brücken über</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_45"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="66,2086 1411,2086 1411,2145 66,2145"/>
-            <Baseline points="64,2116 118,2118 275,2120 454,2124 579,2126 655,2126 764,2129 860,2129 976,2129 1137,2132 1316,2135 1414,2136"/>
-            <TextEquiv>
-               <Unicode>den Alsensund geschlagen waren. Es sollen 4000 Dänen gefangen genommen sein;</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Der „Allg. Ztg.“ wird aus Berlin vom 30. Juni geschrieben: Die hiesigen
+von 20 Preußen mit 1 Offizier hier an. Dieſelben ſollen gegen die in däniſche
+Gefangenſchaft gerathenen Oeſterreicher und Preußen ausgeliefert werden. Nach⸗
+dem ſie hier übernachtet hatten, gingen ſie geſtern Morgen weiter nach Altona.
+— Das preußiſche Kanonenboot „Adler“ kam vorgeſtern im hieſigen Hafen an. —
+Geſtern gingen 2 Kompagnien des hieſigen Linienmilitärs in einer Stärke von zu⸗
+ſammen 164 Mann nach Curhaven ab, um die dortigen Strandbatterien zu beſetzen.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_7" custom="readingOrder {index:6;}">
+      <Coords points="65,1881 1415,1881 1415,2146 65,2146"/>
+      <TextLine id="tl_40" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="152,1882 1414,1882 1414,1939 152,1939"/>
+        <Baseline points="152,1915 212,1915 324,1913 375,1916 519,1918 558,1920 642,1920 829,1924 900,1922 993,1924 1197,1927 1286,1928 1414,1930"/>
+        <TextEquiv>
+          <Unicode>Der „Allg. Ztg.“ wird aus Berlin vom 30. Juni geſchrieben: Die hieſigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_41" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="70,1922 1412,1922 1412,1980 70,1980"/>
+        <Baseline points="70,1954 183,1955 326,1956 447,1959 536,1960 625,1961 863,1963 1067,1967 1114,1966 1415,1966"/>
+        <TextEquiv>
+          <Unicode>Blätter bringen außer dem uns zugegangenen Telegramm aus Flensburg,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_42" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="68,1963 1412,1963 1412,2021 68,2021"/>
+        <Baseline points="68,1996 117,1995 227,1995 349,1996 474,1999 521,2000 610,2003 947,2005 1065,2006 1212,2008 1414,2011"/>
+        <TextEquiv>
+          <Unicode>29. Juni, einige andere von Satrup⸗Holz, 29. Juni, woraus hervorgeht,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_43" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="68,2004 1413,2004 1413,2060 68,2060"/>
+        <Baseline points="68,2035 144,2036 182,2038 369,2040 521,2041 652,2046 709,2045 994,2047 1053,2048 1291,2050 1415,2051"/>
+        <TextEquiv>
+          <Unicode>daß 12 Bataillone Preußen bereits mit zahlreicher Artillerie auf Alſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_44" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="68,2045 1414,2045 1414,2104 68,2104"/>
+        <Baseline points="65,2075 163,2076 272,2079 356,2081 550,2083 622,2085 779,2085 833,2087 893,2088 1075,2088 1165,2090 1321,2091 1414,2092"/>
+        <TextEquiv>
+          <Unicode>ſtehen. Aus dem Uebergange der Artillerie iſt zu vermuthen, daß Brücken über</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_45" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="66,2086 1411,2086 1411,2145 66,2145"/>
+        <Baseline points="64,2116 118,2118 275,2120 454,2124 579,2126 655,2126 764,2129 860,2129 976,2129 1137,2132 1316,2135 1414,2136"/>
+        <TextEquiv>
+          <Unicode>den Alſenſund geſchlagen waren. Es ſollen 4000 Dänen gefangen genommen ſein;</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Der „Allg. Ztg.“ wird aus Berlin vom 30. Juni geſchrieben: Die hieſigen
 Blätter bringen außer dem uns zugegangenen Telegramm aus Flensburg,
-29. Juni, einige andere von Satrup=Holz, 29. Juni, woraus hervorgeht,
-daß 12 Bataillone Preußen bereits mit zahlreicher Artillerie auf Alsen
-stehen. Aus dem Uebergange der Artillerie ist zu vermuthen, daß Brücken über
-den Alsensund geschlagen waren. Es sollen 4000 Dänen gefangen genommen sein;</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <SeparatorRegion id="r_2" custom="readingOrder {index:7;}">
-         <Coords points="542,1472 828,1472 828,1480 542,1480"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_3" custom="readingOrder {index:8;}">
-         <Coords points="541,1481 892,1481 892,1489 541,1489"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_4" custom="readingOrder {index:9;}">
-         <Coords points="1510,1673 1536,1673 1536,2275 1510,2275"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_5" custom="readingOrder {index:10;}">
-         <Coords points="1521,1131 1536,1131 1536,1668 1521,1668"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_6" custom="readingOrder {index:11;}">
-         <Coords points="1532,896 1536,896 1536,1131 1532,1131"/>
-      </SeparatorRegion>
-   </Page>
+29. Juni, einige andere von Satrup⸗Holz, 29. Juni, woraus hervorgeht,
+daß 12 Bataillone Preußen bereits mit zahlreicher Artillerie auf Alſen
+ſtehen. Aus dem Uebergange der Artillerie iſt zu vermuthen, daß Brücken über
+den Alſenſund geſchlagen waren. Es ſollen 4000 Dänen gefangen genommen ſein;</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <SeparatorRegion id="r_2" custom="readingOrder {index:7;}">
+      <Coords points="542,1472 828,1472 828,1480 542,1480"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_3" custom="readingOrder {index:8;}">
+      <Coords points="541,1481 892,1481 892,1489 541,1489"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_4" custom="readingOrder {index:9;}">
+      <Coords points="1510,1673 1536,1673 1536,2275 1510,2275"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_5" custom="readingOrder {index:10;}">
+      <Coords points="1521,1131 1536,1131 1536,1668 1521,1668"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_6" custom="readingOrder {index:11;}">
+      <Coords points="1532,896 1536,896 1536,1131 1532,1131"/>
+    </SeparatorRegion>
+  </Page>
 </PcGts>

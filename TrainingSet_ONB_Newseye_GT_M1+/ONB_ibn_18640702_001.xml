@@ -1,536 +1,462 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-   <Metadata>
-      <Creator>University of Innsbruck</Creator>
-      <Created>2018-11-29T10:47:47.561+01:00</Created>
-      <LastChange>2019-02-01T11:37:56.408+01:00</LastChange>
-      <Comments>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>University of Innsbruck</Creator>
+    <Created>2018-11-29T10:47:47.561+01:00</Created>
+    <LastChange>2019-02-01T11:37:56.408+01:00</LastChange>
+    <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-      <TranskribusMetadata docId="126495"
-                           pageId="4785001"
-                           pageNr="28"
-                           tsid="7883229"
-                           status="GT"
-                           userId="206"
-                           imgUrl="https://files.transkribus.eu/Get?id=RRQKQPRNZWSQIDMLEPAPMHWG&amp;fileType=view"
-                           xmlUrl="https://files.transkribus.eu/Get?id=WVWYJLYFMTXVTLYXBAKNUPGX"
-                           imageId="2199512"/>
-   </Metadata>
-   <Page imageFilename="ONB_ibn_18640702_001.tif"
-         imageWidth="1536"
-         imageHeight="2326">
-      <PrintSpace>
-         <Coords points="54,55 1536,55 1536,2326 54,2326"/>
-      </PrintSpace>
-      <ReadingOrder>
-         <OrderedGroup id="ro_1567004082013" caption="Regions reading order">
-            <RegionRefIndexed index="0" regionRef="region_1545788304322_1"/>
-            <RegionRefIndexed index="1" regionRef="r_2_1"/>
-            <RegionRefIndexed index="2" regionRef="r_3_1"/>
-            <RegionRefIndexed index="3" regionRef="TextRegion_1548916151378_6"/>
-            <RegionRefIndexed index="4" regionRef="TextRegion_1548916158585_7"/>
-            <RegionRefIndexed index="5" regionRef="r_5_1"/>
-            <RegionRefIndexed index="6" regionRef="r_6_1"/>
-            <RegionRefIndexed index="7" regionRef="r_6_2"/>
-            <RegionRefIndexed index="8" regionRef="r_6_3"/>
-            <RegionRefIndexed index="9" regionRef="r_7_1"/>
-         </OrderedGroup>
-      </ReadingOrder>
-      <TextRegion id="region_1545788304322_1" custom="readingOrder {index:0;}">
-         <Coords points="73,63 1488,63 1488,404 73,404"/>
-         <TextLine id="line_1545804195406_1" custom="readingOrder {index:0;}">
-            <Coords points="99,219 557,216 557,266 99,269"/>
-            <Baseline points="99,264 557,261"/>
-            <TextEquiv>
-               <Unicode>Innsbrucker</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="line_1545804203891_2" custom="readingOrder {index:1;}">
-            <Coords points="956,216 1408,219 1408,269 956,266"/>
-            <Baseline points="956,261 1408,264"/>
-            <TextEquiv>
-               <Unicode>Nachrichten.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Innsbrucker
+    <TranskribusMetadata docId="126495" pageId="4785001" pageNr="28" tsid="7883229" status="GT" userId="206" imgUrl="https://files.transkribus.eu/Get?id=RRQKQPRNZWSQIDMLEPAPMHWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WVWYJLYFMTXVTLYXBAKNUPGX" imageId="2199512"/>
+  </Metadata>
+  <Page imageFilename="ONB_ibn_18640702_001.tif" imageWidth="1536" imageHeight="2326">
+    <PrintSpace>
+      <Coords points="54,55 1536,55 1536,2326 54,2326"/>
+    </PrintSpace>
+    <ReadingOrder>
+      <OrderedGroup id="ro_1567004082013" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="region_1545788304322_1"/>
+        <RegionRefIndexed index="1" regionRef="r_2_1"/>
+        <RegionRefIndexed index="2" regionRef="r_3_1"/>
+        <RegionRefIndexed index="3" regionRef="TextRegion_1548916151378_6"/>
+        <RegionRefIndexed index="4" regionRef="TextRegion_1548916158585_7"/>
+        <RegionRefIndexed index="5" regionRef="r_5_1"/>
+        <RegionRefIndexed index="6" regionRef="r_6_1"/>
+        <RegionRefIndexed index="7" regionRef="r_6_2"/>
+        <RegionRefIndexed index="8" regionRef="r_6_3"/>
+        <RegionRefIndexed index="9" regionRef="r_7_1"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="region_1545788304322_1" custom="readingOrder {index:0;}">
+      <Coords points="73,63 1488,63 1488,404 73,404"/>
+      <TextLine id="line_1545804195406_1" custom="readingOrder {index:0;}">
+        <Coords points="99,219 557,216 557,266 99,269"/>
+        <Baseline points="99,264 557,261"/>
+        <TextEquiv>
+          <Unicode>Innsbrucker</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="line_1545804203891_2" custom="readingOrder {index:1;}">
+        <Coords points="956,216 1408,219 1408,269 956,266"/>
+        <Baseline points="956,261 1408,264"/>
+        <TextEquiv>
+          <Unicode>Nachrichten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Innsbrucker
 Nachrichten.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
-         <Coords points="506,407 985,407 985,470 506,470"/>
-         <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
-            <Coords points="507,408 984,408 984,469 507,469"/>
-            <Baseline points="507,454 687,454 984,458"/>
-            <TextEquiv>
-               <Unicode>Eilfter Jahrgang.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="21.0" bold="true"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Eilfter Jahrgang.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
-         <Coords points="82,503 240,503 240,556 82,556"/>
-         <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
-            <Coords points="83,504 239,504 239,555 83,555"/>
-            <Baseline points="83,544 237,545"/>
-            <TextEquiv>
-               <Unicode>Samstag</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="19.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Samstag</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph"
-                  id="TextRegion_1548916151378_6"
-                  custom="readingOrder {index:3;}">
-         <Coords points="898,580 606,580 606,488 898,488"/>
-         <TextLine id="line_1548916135212_4"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="896,579 607,579 607,489 896,489"/>
-            <Baseline points="607,568 689,563 776,574 876,570 896,568"/>
-            <TextEquiv>
-               <Unicode>No 148.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>No 148.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph"
-                  id="TextRegion_1548916158585_7"
-                  custom="readingOrder {index:4;}">
-         <Coords points="1420,580 1133,580 1133,488 1420,488"/>
-         <TextLine id="line_1548916133580_1"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="1419,579 1135,579 1135,489 1419,489"/>
-            <Baseline points="1135,553 1167,552 1246,554 1418,552"/>
-            <TextEquiv>
-               <Unicode>2. Juli 1864.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>2. Juli 1864.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:5;}">
-         <Coords points="75,594 1419,594 1419,916 75,916"/>
-         <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
-            <Coords points="148,595 1417,595 1417,641 148,641"/>
-            <Baseline points="148,622 257,621 356,622 419,623 564,624 623,625 720,622 747,624 786,627 909,627 976,627 1039,628 1124,629 1175,631 1343,631 1374,630 1418,634"/>
-            <TextEquiv>
-               <Unicode>Erscheint täglich mit Ausnahme der Sonn= und Festtage. — Der Preis ist vierteljährig 1 fl.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
-         </TextLine>
-         <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
-            <Coords points="79,629 1418,629 1418,673 79,673"/>
-            <Baseline points="79,654 103,655 149,655 246,657 297,657 380,657 488,658 554,659 675,659 712,660 752,660 802,662 853,660 884,663 1004,663 1157,665 1210,664 1256,664 1341,667 1400,668 1418,671"/>
-            <TextEquiv>
-               <Unicode>35 kr. österr. W., per Post täglich expedirt 2 fl. 15 kr. österr. W., monatlich 45 kr. österr. W.,</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
-            <Coords points="80,663 1418,663 1418,707 80,707"/>
-            <Baseline points="80,687 212,689 268,689 334,689 444,691 489,691 536,691 602,692 686,694 834,695 980,697 1080,698 1130,699 1161,699 1210,699 1304,700 1364,699 1418,700"/>
-            <TextEquiv>
-               <Unicode>monatweise per Post bezogen 72 kr. österr. W. Einzelne Nummern werden zu 3 kr. österr. W. ab⸗</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
-            <Coords points="78,697 1418,697 1418,742 78,742"/>
-            <Baseline points="77,722 176,722 258,723 404,725 508,725 619,727 726,728 773,730 834,730 1032,731 1364,734 1418,735"/>
-            <TextEquiv>
-               <Unicode>gegeben. — Bestellungen können gemacht werden in der Wagner'schen Universttäts=Buchhandlung in</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
-         </TextLine>
-         <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;}">
-            <Coords points="78,728 1418,728 1418,775 78,775"/>
-            <Baseline points="76,758 216,759 287,760 440,759 489,760 537,761 612,763 769,762 850,762 904,763 941,764 1207,766 1283,768 1418,768"/>
-            <TextEquiv>
-               <Unicode>Innsbruck, Brixen (Nr. 14) und Feldkirch und für hier vierteljährig bei Hrn. Jeremias</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;}">
-            <Coords points="77,764 1417,764 1417,809 77,809"/>
-            <Baseline points="75,793 98,792 374,791 464,793 543,793 617,795 675,795 776,797 945,798 1005,800 1087,799 1137,799 1292,802 1417,802"/>
-            <TextEquiv>
-               <Unicode>Federspiel, Zettelträger. — Inserate jeder Art werden angenommen und kostet die zweispaltige Petitzeile</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
-         </TextLine>
-         <TextLine id="tl_10"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="76,798 1308,798 1308,841 76,841"/>
-            <Baseline points="76,822 124,823 204,824 299,825 352,825 486,827 644,829 687,829 733,827 781,830 876,831 946,831 1088,832 1115,833 1163,834 1255,833 1308,834"/>
-            <TextEquiv>
-               <Unicode>oder deren Raum für einmalige Einschaltung 3 kr. österr. W., für dreimalige 6 kr. österr. W.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_11"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:7;}">
-            <Coords points="77,838 1417,838 1417,883 77,883"/>
-            <Baseline points="77,864 98,863 155,863 325,865 441,866 604,867 908,871 946,870 1076,872 1115,873 1417,875"/>
-            <TextEquiv>
-               <Unicode>Im Auslande nehmen Annoncen entgegen Haasenstein &amp; Vogler in Hamburg=Altona</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_12"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:8;}">
-            <Coords points="143,872 1348,872 1348,915 143,915"/>
-            <Baseline points="143,898 185,898 232,898 422,900 534,900 586,902 615,903 682,902 965,906 1008,905 1113,907 1259,908 1348,909"/>
-            <TextEquiv>
-               <Unicode>und Frankfurt am Main, dann die Jäger'sche Buchhandlung in Frankfurt am Main.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Erscheint täglich mit Ausnahme der Sonn= und Festtage. — Der Preis ist vierteljährig 1 fl.
-35 kr. österr. W., per Post täglich expedirt 2 fl. 15 kr. österr. W., monatlich 45 kr. österr. W.,
-monatweise per Post bezogen 72 kr. österr. W. Einzelne Nummern werden zu 3 kr. österr. W. ab⸗
-gegeben. — Bestellungen können gemacht werden in der Wagner'schen Universttäts=Buchhandlung in
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+      <Coords points="506,407 985,407 985,470 506,470"/>
+      <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="507,408 984,408 984,469 507,469"/>
+        <Baseline points="507,454 687,454 984,458"/>
+        <TextEquiv>
+          <Unicode>Eilfter Jahrgang.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="21.0" bold="true"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Eilfter Jahrgang.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+      <Coords points="82,503 240,503 240,556 82,556"/>
+      <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="83,504 239,504 239,555 83,555"/>
+        <Baseline points="83,544 237,545"/>
+        <TextEquiv>
+          <Unicode>Samſtag</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="19.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Samſtag</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="TextRegion_1548916151378_6" custom="readingOrder {index:3;}">
+      <Coords points="898,580 606,580 606,488 898,488"/>
+      <TextLine id="line_1548916135212_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="896,579 607,579 607,489 896,489"/>
+        <Baseline points="607,568 689,563 776,574 876,570 896,568"/>
+        <TextEquiv>
+          <Unicode>No 148.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>No 148.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="TextRegion_1548916158585_7" custom="readingOrder {index:4;}">
+      <Coords points="1420,580 1133,580 1133,488 1420,488"/>
+      <TextLine id="line_1548916133580_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="1419,579 1135,579 1135,489 1419,489"/>
+        <Baseline points="1135,553 1167,552 1246,554 1418,552"/>
+        <TextEquiv>
+          <Unicode>2. Juli 1864.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>2. Juli 1864.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:5;}">
+      <Coords points="75,594 1419,594 1419,916 75,916"/>
+      <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="148,595 1417,595 1417,641 148,641"/>
+        <Baseline points="148,622 257,621 356,622 419,623 564,624 623,625 720,622 747,624 786,627 909,627 976,627 1039,628 1124,629 1175,631 1343,631 1374,630 1418,634"/>
+        <TextEquiv>
+          <Unicode>Erſcheint täglich mit Ausnahme der Sonn⸗ und Feſttage. — Der Preis iſt vierteljährig 1 fl.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="79,629 1418,629 1418,673 79,673"/>
+        <Baseline points="79,654 103,655 149,655 246,657 297,657 380,657 488,658 554,659 675,659 712,660 752,660 802,662 853,660 884,663 1004,663 1157,665 1210,664 1256,664 1341,667 1400,668 1418,671"/>
+        <TextEquiv>
+          <Unicode>35 kr. österr. W., per Poſt täglich expedirt 2 fl. 15 kr. österr. W., monatlich 45 kr. österr. W.,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="80,663 1418,663 1418,707 80,707"/>
+        <Baseline points="80,687 212,689 268,689 334,689 444,691 489,691 536,691 602,692 686,694 834,695 980,697 1080,698 1130,699 1161,699 1210,699 1304,700 1364,699 1418,700"/>
+        <TextEquiv>
+          <Unicode>monatweiſe per Poſt bezogen 72 kr. öſterr. W. Einzelne Nummern werden zu 3 kr. öſterr. W. ab⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="78,697 1418,697 1418,742 78,742"/>
+        <Baseline points="77,722 176,722 258,723 404,725 508,725 619,727 726,728 773,730 834,730 1032,731 1364,734 1418,735"/>
+        <TextEquiv>
+          <Unicode>gegeben. — Beſtellungen können gemacht werden in der Wagner'ſchen Univerſttäts⸗Buchhandlung in</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="78,728 1418,728 1418,775 78,775"/>
+        <Baseline points="76,758 216,759 287,760 440,759 489,760 537,761 612,763 769,762 850,762 904,763 941,764 1207,766 1283,768 1418,768"/>
+        <TextEquiv>
+          <Unicode>Innsbruck, Brixen (Nr. 14) und Feldkirch und für hier vierteljährig bei Hrn. Jeremias</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="77,764 1417,764 1417,809 77,809"/>
+        <Baseline points="75,793 98,792 374,791 464,793 543,793 617,795 675,795 776,797 945,798 1005,800 1087,799 1137,799 1292,802 1417,802"/>
+        <TextEquiv>
+          <Unicode>Federſpiel, Zettelträger. — Inſerate jeder Art werden angenommen und koſtet die zweiſpaltige Petitzeile</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="76,798 1308,798 1308,841 76,841"/>
+        <Baseline points="76,822 124,823 204,824 299,825 352,825 486,827 644,829 687,829 733,827 781,830 876,831 946,831 1088,832 1115,833 1163,834 1255,833 1308,834"/>
+        <TextEquiv>
+          <Unicode>oder deren Raum für einmalige Einſchaltung 3 kr. öſterr. W., für dreimalige 6 kr. österr. W.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="77,838 1417,838 1417,883 77,883"/>
+        <Baseline points="77,864 98,863 155,863 325,865 441,866 604,867 908,871 946,870 1076,872 1115,873 1417,875"/>
+        <TextEquiv>
+          <Unicode>Im Auslande nehmen Annoncen entgegen Haaſenſtein &amp; Vogler in Hamburg⸗Altona</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:8;}">
+        <Coords points="143,872 1348,872 1348,915 143,915"/>
+        <Baseline points="143,898 185,898 232,898 422,900 534,900 586,902 615,903 682,902 965,906 1008,905 1113,907 1259,908 1348,909"/>
+        <TextEquiv>
+          <Unicode>und Frankfurt am Main, dann die Jäger'ſche Buchhandlung in Frankfurt am Main.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Erſcheint täglich mit Ausnahme der Sonn⸗ und Feſttage. — Der Preis iſt vierteljährig 1 fl.
+35 kr. österr. W., per Poſt täglich expedirt 2 fl. 15 kr. österr. W., monatlich 45 kr. österr. W.,
+monatweiſe per Poſt bezogen 72 kr. öſterr. W. Einzelne Nummern werden zu 3 kr. öſterr. W. ab⸗
+gegeben. — Beſtellungen können gemacht werden in der Wagner'ſchen Univerſttäts⸗Buchhandlung in
 Innsbruck, Brixen (Nr. 14) und Feldkirch und für hier vierteljährig bei Hrn. Jeremias
-Federspiel, Zettelträger. — Inserate jeder Art werden angenommen und kostet die zweispaltige Petitzeile
-oder deren Raum für einmalige Einschaltung 3 kr. österr. W., für dreimalige 6 kr. österr. W.
-Im Auslande nehmen Annoncen entgegen Haasenstein &amp; Vogler in Hamburg=Altona
-und Frankfurt am Main, dann die Jäger'sche Buchhandlung in Frankfurt am Main.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:6;}">
-         <Coords points="83,1008 1430,1008 1417,1247 70,1247"/>
-         <TextLine id="line_1545804612427_4" custom="readingOrder {index:0;}">
-            <Coords points="377,1032 1123,1044 1122,1094 376,1082"/>
-            <Baseline points="376,1077 1122,1089"/>
-            <TextEquiv>
-               <Unicode>Ziehung der Creditloose.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_13"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="155,1093 1416,1093 1416,1152 155,1152"/>
-            <Baseline points="155,1131 270,1132 428,1135 641,1135 726,1137 918,1139 1158,1142 1297,1143 1415,1143"/>
-            <TextEquiv>
-               <Unicode>Serie 1630 Nummer 34 gewinnt 250,000 fl., fernere</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
-         </TextLine>
-         <TextLine id="tl_14"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="71,1141 1413,1141 1413,1198 71,1198"/>
-            <Baseline points="69,1177 157,1178 247,1178 431,1182 534,1184 691,1185 836,1185 994,1188 1057,1188 1290,1189 1413,1191"/>
-            <TextEquiv>
-               <Unicode>gezogene Serien: 343, 4171, 1809, 1537, 780, 100, 1241,</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
-         </TextLine>
-         <TextLine id="tl_15"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="72,1191 1254,1191 1254,1246 72,1246"/>
-            <Baseline points="72,1225 236,1227 385,1231 472,1232 547,1232 648,1231 779,1233 850,1234 961,1236 1118,1238 1256,1238"/>
-            <TextEquiv>
-               <Unicode>1378, 922, 1022, 2360, 968, 822, 3513, 3679.</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Ziehung der Creditloose.
+Federſpiel, Zettelträger. — Inſerate jeder Art werden angenommen und koſtet die zweiſpaltige Petitzeile
+oder deren Raum für einmalige Einſchaltung 3 kr. öſterr. W., für dreimalige 6 kr. österr. W.
+Im Auslande nehmen Annoncen entgegen Haaſenſtein &amp; Vogler in Hamburg⸗Altona
+und Frankfurt am Main, dann die Jäger'ſche Buchhandlung in Frankfurt am Main.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:6;}">
+      <Coords points="83,1008 1430,1008 1417,1247 70,1247"/>
+      <TextLine id="line_1545804612427_4" custom="readingOrder {index:0;}">
+        <Coords points="377,1032 1123,1044 1122,1094 376,1082"/>
+        <Baseline points="376,1077 1122,1089"/>
+        <TextEquiv>
+          <Unicode>Ziehung der Creditloose.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="155,1093 1416,1093 1416,1152 155,1152"/>
+        <Baseline points="155,1131 270,1132 428,1135 641,1135 726,1137 918,1139 1158,1142 1297,1143 1415,1143"/>
+        <TextEquiv>
+          <Unicode>Serie 1630 Nummer 34 gewinnt 250,000 fl., fernere</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
+      </TextLine>
+      <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="71,1141 1413,1141 1413,1198 71,1198"/>
+        <Baseline points="69,1177 157,1178 247,1178 431,1182 534,1184 691,1185 836,1185 994,1188 1057,1188 1290,1189 1413,1191"/>
+        <TextEquiv>
+          <Unicode>gezogene Serien: 343, 4171, 1809, 1537, 780, 100, 1241,</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
+      </TextLine>
+      <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="72,1191 1254,1191 1254,1246 72,1246"/>
+        <Baseline points="72,1225 236,1227 385,1231 472,1232 547,1232 648,1231 779,1233 850,1234 961,1236 1118,1238 1256,1238"/>
+        <TextEquiv>
+          <Unicode>1378, 922, 1022, 2360, 968, 822, 3513, 3679.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Ziehung der Creditloose.
 Serie 1630 Nummer 34 gewinnt 250,000 fl., fernere
 gezogene Serien: 343, 4171, 1809, 1537, 780, 100, 1241,
 1378, 922, 1022, 2360, 968, 822, 3513, 3679.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_6_2" custom="readingOrder {index:7;}">
-         <Coords points="62,1259 1414,1259 1414,1837 62,1837"/>
-         <TextLine id="tl_16"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="150,1260 1412,1260 1412,1315 150,1315"/>
-            <Baseline points="150,1293 177,1293 278,1294 442,1295 543,1298 693,1298 782,1300 849,1300 927,1301 1005,1301 1145,1303 1171,1304 1335,1305 1412,1305"/>
-            <TextEquiv>
-               <Unicode>Aus Wien, 26. Juni, schreibt man der „K. Ztg.,“ daß in Kissingen kein</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_17"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="68,1306 1413,1306 1413,1361 68,1361"/>
-            <Baseline points="68,1339 230,1340 346,1341 478,1342 556,1344 763,1346 930,1348 981,1348 1147,1350 1209,1353 1414,1352"/>
-            <TextEquiv>
-               <Unicode>Dokument irgend welcher Art unterzeichnet, dagegen in Karlsbad die Verbindung</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_18"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="68,1354 1412,1354 1412,1407 68,1407"/>
-            <Baseline points="64,1388 191,1389 261,1389 417,1390 648,1391 724,1393 865,1394 992,1396 1047,1396 1125,1398 1199,1400 1291,1399 1412,1400"/>
-            <TextEquiv>
-               <Unicode>zwischen den deutschen Großmächten neu befestigt worden sei und daß aller Wahr⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_19"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="67,1402 1412,1402 1412,1456 67,1456"/>
-            <Baseline points="64,1437 247,1436 321,1438 430,1437 552,1438 736,1440 851,1441 943,1442 999,1443 1076,1444 1161,1445 1229,1446 1289,1446 1412,1447"/>
-            <TextEquiv>
-               <Unicode>scheinlichkeit nach diese letztere Verbindung nicht blos ad hoc und für die Dauer</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_20"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="68,1450 1411,1450 1411,1505 68,1505"/>
-            <Baseline points="68,1481 111,1482 248,1482 490,1483 671,1486 720,1486 870,1489 972,1489 998,1491 1095,1493 1129,1493 1198,1494 1266,1494 1411,1495"/>
-            <TextEquiv>
-               <Unicode>der dänischen Verwicklung abgeschlossen ist, sondern daß es sich jetzt um eine förmliche</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_21"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="67,1497 1408,1497 1408,1550 67,1550"/>
-            <Baseline points="67,1529 165,1529 325,1532 498,1533 599,1534 752,1534 950,1538 1000,1539 1101,1540 1408,1543"/>
-            <TextEquiv>
-               <Unicode>Allianz zwischen Oesterreich und Preußen, begründet auf dem Bundesverhällniß,</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_22"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="66,1544 1410,1544 1410,1599 66,1599"/>
-            <Baseline points="63,1578 168,1578 327,1578 558,1580 605,1581 668,1582 799,1581 878,1583 1141,1587 1246,1590 1410,1592"/>
-            <TextEquiv>
-               <Unicode>handelt, genauer ausgedrückt, um ein Schutz= und Trutzbündniß zwischen Preußen,</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_23"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:7;}">
-            <Coords points="66,1592 1410,1592 1410,1645 66,1645"/>
-            <Baseline points="66,1626 205,1625 285,1626 460,1628 567,1628 684,1629 815,1631 1073,1634 1152,1635 1274,1638 1410,1639"/>
-            <TextEquiv>
-               <Unicode>Rußland und Oesterreich, mit ganz concreten Verabredungen und Zielen. Eines</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_24"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:8;}">
-            <Coords points="65,1639 1407,1639 1407,1696 65,1696"/>
-            <Baseline points="65,1672 147,1673 236,1673 347,1674 409,1674 547,1675 737,1676 821,1677 965,1680 1120,1682 1198,1684 1295,1685 1407,1685"/>
-            <TextEquiv>
-               <Unicode>dieser Ziele dürfte die endliche Ausführung des Züricher Vertrags in's Auge fassen.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_25"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:9;}">
-            <Coords points="64,1686 1407,1686 1407,1741 64,1741"/>
-            <Baseline points="64,1723 227,1721 314,1723 422,1723 520,1724 683,1725 755,1724 878,1726 955,1726 1093,1729 1232,1730 1339,1732 1407,1732"/>
-            <TextEquiv>
-               <Unicode>Jedenfalls aber werde man fürderhin der Politik des Grafen Rechberg und des</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_26"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:10;}">
-            <Coords points="64,1734 1407,1734 1407,1788 64,1788"/>
-            <Baseline points="59,1773 89,1775 102,1768 190,1767 343,1770 432,1770 501,1771 701,1772 837,1774 933,1775 1075,1777 1152,1777 1220,1779 1407,1781"/>
-            <TextEquiv>
-               <Unicode>Hrn. v. Bismark — deren beiderseitige Stellung neu befestigt aus der Karlsbader</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_27"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:11;}">
-            <Coords points="63,1782 1365,1782 1365,1836 63,1836"/>
-            <Baseline points="58,1814 312,1817 490,1818 572,1818 642,1819 740,1820 791,1820 1074,1824 1201,1825 1364,1827"/>
-            <TextEquiv>
-               <Unicode>Zusammenkunft hervorgeht — nicht mehr in entgegengesetzten Lagern begegnen,</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Aus Wien, 26. Juni, schreibt man der „K. Ztg.,“ daß in Kissingen kein
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_6_2" custom="readingOrder {index:7;}">
+      <Coords points="62,1259 1414,1259 1414,1837 62,1837"/>
+      <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="150,1260 1412,1260 1412,1315 150,1315"/>
+        <Baseline points="150,1293 177,1293 278,1294 442,1295 543,1298 693,1298 782,1300 849,1300 927,1301 1005,1301 1145,1303 1171,1304 1335,1305 1412,1305"/>
+        <TextEquiv>
+          <Unicode>Aus Wien, 26. Juni, ſchreibt man der „K. Ztg.,“ daß in Kiſſingen kein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="68,1306 1413,1306 1413,1361 68,1361"/>
+        <Baseline points="68,1339 230,1340 346,1341 478,1342 556,1344 763,1346 930,1348 981,1348 1147,1350 1209,1353 1414,1352"/>
+        <TextEquiv>
+          <Unicode>Dokument irgend welcher Art unterzeichnet, dagegen in Karlsbad die Verbindung</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="68,1354 1412,1354 1412,1407 68,1407"/>
+        <Baseline points="64,1388 191,1389 261,1389 417,1390 648,1391 724,1393 865,1394 992,1396 1047,1396 1125,1398 1199,1400 1291,1399 1412,1400"/>
+        <TextEquiv>
+          <Unicode>zwiſchen den deutſchen Großmächten neu befeſtigt worden ſei und daß aller Wahr⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="67,1402 1412,1402 1412,1456 67,1456"/>
+        <Baseline points="64,1437 247,1436 321,1438 430,1437 552,1438 736,1440 851,1441 943,1442 999,1443 1076,1444 1161,1445 1229,1446 1289,1446 1412,1447"/>
+        <TextEquiv>
+          <Unicode>ſcheinlichkeit nach dieſe letztere Verbindung nicht blos ad hoc und für die Dauer</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="68,1450 1411,1450 1411,1505 68,1505"/>
+        <Baseline points="68,1481 111,1482 248,1482 490,1483 671,1486 720,1486 870,1489 972,1489 998,1491 1095,1493 1129,1493 1198,1494 1266,1494 1411,1495"/>
+        <TextEquiv>
+          <Unicode>der däniſchen Verwicklung abgeſchloſſen iſt, ſondern daß es ſich jetzt um eine förmliche</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="67,1497 1408,1497 1408,1550 67,1550"/>
+        <Baseline points="67,1529 165,1529 325,1532 498,1533 599,1534 752,1534 950,1538 1000,1539 1101,1540 1408,1543"/>
+        <TextEquiv>
+          <Unicode>Allianz zwiſchen Oeſterreich und Preußen, begründet auf dem Bundesverhältniß,</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="66,1544 1410,1544 1410,1599 66,1599"/>
+        <Baseline points="63,1578 168,1578 327,1578 558,1580 605,1581 668,1582 799,1581 878,1583 1141,1587 1246,1590 1410,1592"/>
+        <TextEquiv>
+          <Unicode>handelt, genauer ausgedrückt, um ein Schutz⸗ und Trutzbündniß zwiſchen Preußen,</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="66,1592 1410,1592 1410,1645 66,1645"/>
+        <Baseline points="66,1626 205,1625 285,1626 460,1628 567,1628 684,1629 815,1631 1073,1634 1152,1635 1274,1638 1410,1639"/>
+        <TextEquiv>
+          <Unicode>Rußland und Oeſterreich, mit ganz concreten Verabredungen und Zielen. Eines</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:8;}">
+        <Coords points="65,1639 1407,1639 1407,1696 65,1696"/>
+        <Baseline points="65,1672 147,1673 236,1673 347,1674 409,1674 547,1675 737,1676 821,1677 965,1680 1120,1682 1198,1684 1295,1685 1407,1685"/>
+        <TextEquiv>
+          <Unicode>dieſer Ziele dürfte die endliche Ausführung des Züricher Vertrags in's Auge faſſen.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:9;}">
+        <Coords points="64,1686 1407,1686 1407,1741 64,1741"/>
+        <Baseline points="64,1723 227,1721 314,1723 422,1723 520,1724 683,1725 755,1724 878,1726 955,1726 1093,1729 1232,1730 1339,1732 1407,1732"/>
+        <TextEquiv>
+          <Unicode>Jedenfalls aber werde man fürderhin der Politik des Grafen Rechberg und des</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:10;}">
+        <Coords points="64,1734 1407,1734 1407,1788 64,1788"/>
+        <Baseline points="59,1773 89,1775 102,1768 190,1767 343,1770 432,1770 501,1771 701,1772 837,1774 933,1775 1075,1777 1152,1777 1220,1779 1407,1781"/>
+        <TextEquiv>
+          <Unicode>Hrn. v. Bismark — deren beiderſeitige Stellung neu befeſtigt aus der Karlsbader</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:11;}">
+        <Coords points="63,1782 1365,1782 1365,1836 63,1836"/>
+        <Baseline points="58,1814 312,1817 490,1818 572,1818 642,1819 740,1820 791,1820 1074,1824 1201,1825 1364,1827"/>
+        <TextEquiv>
+          <Unicode>Zuſammenkunft hervorgeht — nicht mehr in entgegengeſetzten Lagern begegnen,</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Aus Wien, 26. Juni, ſchreibt man der „K. Ztg.,“ daß in Kiſſingen kein
 Dokument irgend welcher Art unterzeichnet, dagegen in Karlsbad die Verbindung
-zwischen den deutschen Großmächten neu befestigt worden sei und daß aller Wahr⸗
-scheinlichkeit nach diese letztere Verbindung nicht blos ad hoc und für die Dauer
-der dänischen Verwicklung abgeschlossen ist, sondern daß es sich jetzt um eine förmliche
-Allianz zwischen Oesterreich und Preußen, begründet auf dem Bundesverhällniß,
-handelt, genauer ausgedrückt, um ein Schutz= und Trutzbündniß zwischen Preußen,
-Rußland und Oesterreich, mit ganz concreten Verabredungen und Zielen. Eines
-dieser Ziele dürfte die endliche Ausführung des Züricher Vertrags in's Auge fassen.
+zwiſchen den deutſchen Großmächten neu befeſtigt worden ſei und daß aller Wahr⸗
+ſcheinlichkeit nach dieſe letztere Verbindung nicht blos ad hoc und für die Dauer
+der däniſchen Verwicklung abgeſchloſſen iſt, ſondern daß es ſich jetzt um eine förmliche
+Allianz zwiſchen Oeſterreich und Preußen, begründet auf dem Bundesverhältniß,
+handelt, genauer ausgedrückt, um ein Schutz⸗ und Trutzbündniß zwiſchen Preußen,
+Rußland und Oeſterreich, mit ganz concreten Verabredungen und Zielen. Eines
+dieſer Ziele dürfte die endliche Ausführung des Züricher Vertrags in's Auge faſſen.
 Jedenfalls aber werde man fürderhin der Politik des Grafen Rechberg und des
-Hrn. v. Bismark — deren beiderseitige Stellung neu befestigt aus der Karlsbader
-Zusammenkunft hervorgeht — nicht mehr in entgegengesetzten Lagern begegnen,</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_6_3" custom="readingOrder {index:8;}">
-         <Coords points="58,1828 1408,1828 1408,2217 58,2217"/>
-         <TextLine id="tl_28"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="145,1829 1407,1829 1407,1882 145,1882"/>
-            <Baseline points="144,1863 185,1863 331,1864 441,1864 543,1866 776,1867 879,1868 942,1869 1052,1872 1168,1872 1338,1873 1407,1875"/>
-            <TextEquiv>
-               <Unicode>Wien, 29. Juni. Die Beunruhigung über die letzten Pläne Preußens hat</Unicode>
-            </TextEquiv>
-         </TextLine>
-         <TextLine id="tl_29"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:1;}">
-            <Coords points="62,1876 1406,1876 1406,1930 62,1930"/>
-            <Baseline points="62,1910 132,1910 204,1911 281,1911 455,1912 559,1913 684,1914 758,1910 926,1916 1006,1918 1172,1919 1257,1919 1406,1921"/>
-            <TextEquiv>
-               <Unicode>durch die von Petersburg und Berlin bez. Kissingen und Karlsbad aus poussirte</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_30"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:2;}">
-            <Coords points="61,1923 1405,1923 1405,1976 61,1976"/>
-            <Baseline points="61,1957 238,1958 306,1958 527,1960 604,1961 770,1962 881,1963 1021,1966 1195,1968 1285,1969 1405,1969"/>
-            <TextEquiv>
-               <Unicode>Kandidatur des Großherzogs von Oldenburg neue Nahrung erhalten. In weiten</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_31"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:3;}">
-            <Coords points="60,1972 1404,1972 1404,2024 60,2024"/>
-            <Baseline points="60,2004 175,2005 349,2006 444,2006 510,2007 630,2006 727,2008 839,2010 988,2013 1187,2015 1294,2015 1404,2015"/>
-            <TextEquiv>
-               <Unicode>Kreisen überzeugt man sich schwer, daß dies plötzliche Vorschieben eines neuen</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_32"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:4;}">
-            <Coords points="60,2018 1406,2018 1406,2072 60,2072"/>
-            <Baseline points="56,2051 272,2054 365,2054 437,2053 511,2054 668,2056 835,2057 1012,2060 1064,2060 1155,2062 1218,2062 1406,2063"/>
-            <TextEquiv>
-               <Unicode>Prätendenten etwa aus dem Bestreben Preußens entspringe, ja nicht die rechtmäßige</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_33"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:5;}">
-            <Coords points="60,2065 1403,2065 1403,2119 60,2119"/>
-            <Baseline points="60,2098 234,2099 292,2101 374,2101 633,2103 695,2104 818,2105 975,2106 1044,2107 1209,2109 1403,2110"/>
-            <TextEquiv>
-               <Unicode>Thronfolge in den Herzogthümern zu stören. Gerade die offiziösen preußischen</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_34"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:6;}">
-            <Coords points="60,2112 1403,2112 1403,2166 60,2166"/>
-            <Baseline points="60,2146 178,2148 286,2148 368,2149 432,2150 715,2152 780,2153 867,2154 1009,2156 1243,2158 1403,2158"/>
-            <TextEquiv>
-               <Unicode>Organe haben über den Legitimitätspunkt mit einer geradezu demokratischen Frivolität</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextLine id="tl_35"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:7;}">
-            <Coords points="59,2161 1403,2161 1403,2216 59,2216"/>
-            <Baseline points="57,2193 210,2196 319,2196 433,2199 565,2200 655,2200 818,2203 934,2204 1089,2205 1226,2206 1287,2206 1403,2204"/>
-            <TextEquiv>
-               <Unicode>gesprochen. Es müßte wahrlich mit seltsamen Dingen zugehen, wenn die olden⸗</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Wien, 29. Juni. Die Beunruhigung über die letzten Pläne Preußens hat
-durch die von Petersburg und Berlin bez. Kissingen und Karlsbad aus poussirte
+Hrn. v. Bismark — deren beiderſeitige Stellung neu befeſtigt aus der Karlsbader
+Zuſammenkunft hervorgeht — nicht mehr in entgegengeſetzten Lagern begegnen,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_6_3" custom="readingOrder {index:8;}">
+      <Coords points="58,1828 1408,1828 1408,2217 58,2217"/>
+      <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="145,1829 1407,1829 1407,1882 145,1882"/>
+        <Baseline points="144,1863 185,1863 331,1864 441,1864 543,1866 776,1867 879,1868 942,1869 1052,1872 1168,1872 1338,1873 1407,1875"/>
+        <TextEquiv>
+          <Unicode>Wien, 29. Juni. Die Beunruhigung über die letzten Pläne Preußens hat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:1;}">
+        <Coords points="62,1876 1406,1876 1406,1930 62,1930"/>
+        <Baseline points="62,1910 132,1910 204,1911 281,1911 455,1912 559,1913 684,1914 758,1910 926,1916 1006,1918 1172,1919 1257,1919 1406,1921"/>
+        <TextEquiv>
+          <Unicode>durch die von Petersburg und Berlin bez. Kiſſingen und Karlsbad aus pouſſirte</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:2;}">
+        <Coords points="61,1923 1405,1923 1405,1976 61,1976"/>
+        <Baseline points="61,1957 238,1958 306,1958 527,1960 604,1961 770,1962 881,1963 1021,1966 1195,1968 1285,1969 1405,1969"/>
+        <TextEquiv>
+          <Unicode>Kandidatur des Großherzogs von Oldenburg neue Nahrung erhalten. In weiten</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:3;}">
+        <Coords points="60,1972 1404,1972 1404,2024 60,2024"/>
+        <Baseline points="60,2004 175,2005 349,2006 444,2006 510,2007 630,2006 727,2008 839,2010 988,2013 1187,2015 1294,2015 1404,2015"/>
+        <TextEquiv>
+          <Unicode>Kreiſen überzeugt man ſich ſchwer, daß dies plötzliche Vorſchieben eines neuen</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:4;}">
+        <Coords points="60,2018 1406,2018 1406,2072 60,2072"/>
+        <Baseline points="56,2051 272,2054 365,2054 437,2053 511,2054 668,2056 835,2057 1012,2060 1064,2060 1155,2062 1218,2062 1406,2063"/>
+        <TextEquiv>
+          <Unicode>Prätendenten etwa aus dem Beſtreben Preußens entſpringe, ja nicht die rechtmäßige</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:5;}">
+        <Coords points="60,2065 1403,2065 1403,2119 60,2119"/>
+        <Baseline points="60,2098 234,2099 292,2101 374,2101 633,2103 695,2104 818,2105 975,2106 1044,2107 1209,2109 1403,2110"/>
+        <TextEquiv>
+          <Unicode>Thronfolge in den Herzogthümern zu ſtören. Gerade die offiziöſen preußiſchen</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:6;}">
+        <Coords points="60,2112 1403,2112 1403,2166 60,2166"/>
+        <Baseline points="60,2146 178,2148 286,2148 368,2149 432,2150 715,2152 780,2153 867,2154 1009,2156 1243,2158 1403,2158"/>
+        <TextEquiv>
+          <Unicode>Organe haben über den Legitimitätspunkt mit einer geradezu demokratiſchen Frivolität</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:7;}">
+        <Coords points="59,2161 1403,2161 1403,2216 59,2216"/>
+        <Baseline points="57,2193 210,2196 319,2196 433,2199 565,2200 655,2200 818,2203 934,2204 1089,2205 1226,2206 1287,2206 1403,2204"/>
+        <TextEquiv>
+          <Unicode>geſprochen. Es müßte wahrlich mit ſeltſamen Dingen zugehen, wenn die olden⸗</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Wien, 29. Juni. Die Beunruhigung über die letzten Pläne Preußens hat
+durch die von Petersburg und Berlin bez. Kiſſingen und Karlsbad aus pouſſirte
 Kandidatur des Großherzogs von Oldenburg neue Nahrung erhalten. In weiten
-Kreisen überzeugt man sich schwer, daß dies plötzliche Vorschieben eines neuen
-Prätendenten etwa aus dem Bestreben Preußens entspringe, ja nicht die rechtmäßige
-Thronfolge in den Herzogthümern zu stören. Gerade die offiziösen preußischen
-Organe haben über den Legitimitätspunkt mit einer geradezu demokratischen Frivolität
-gesprochen. Es müßte wahrlich mit seltsamen Dingen zugehen, wenn die olden⸗</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <TextRegion type="paragraph" id="r_7_1" custom="readingOrder {index:9;}">
-         <Coords points="526,957 954,957 954,1009 526,1009"/>
-         <TextLine id="tl_36"
-                   primaryLanguage="German"
-                   custom="readingOrder {index:0;}">
-            <Coords points="527,958 953,958 953,1008 527,1008"/>
-            <Baseline points="527,996 952,1002"/>
-            <TextEquiv>
-               <Unicode>Telegramm.</Unicode>
-            </TextEquiv>
-            <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
-         </TextLine>
-         <TextEquiv>
-            <Unicode>Telegramm.</Unicode>
-         </TextEquiv>
-      </TextRegion>
-      <SeparatorRegion id="r_9" custom="readingOrder {index:10;}">
-         <Coords points="656,151 726,151 726,155 656,155"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_10" custom="readingOrder {index:11;}">
-         <Coords points="423,472 1341,472 1341,483 423,483"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_11" custom="readingOrder {index:12;}">
-         <Coords points="103,470 404,470 404,474 103,474"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_12" custom="readingOrder {index:13;}">
-         <Coords points="81,575 1421,575 1421,591 81,591"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_13" custom="readingOrder {index:14;}">
-         <Coords points="81,583 1420,583 1420,600 81,600"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_14" custom="readingOrder {index:15;}">
-         <Coords points="78,916 1403,916 1403,949 78,949"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_15" custom="readingOrder {index:16;}">
-         <Coords points="79,938 1404,938 1404,954 79,954"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_16" custom="readingOrder {index:17;}">
-         <Coords points="637,1250 842,1250 842,1256 637,1256"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_17" custom="readingOrder {index:18;}">
-         <Coords points="1525,1134 1536,1134 1536,2326 1525,2326"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_18" custom="readingOrder {index:19;}">
-         <Coords points="1534,941 1536,941 1536,1134 1534,1134"/>
-      </SeparatorRegion>
-      <SeparatorRegion id="r_19" custom="readingOrder {index:20;}">
-         <Coords points="160,585 174,585 174,587 160,587"/>
-      </SeparatorRegion>
-   </Page>
+Kreiſen überzeugt man ſich ſchwer, daß dies plötzliche Vorſchieben eines neuen
+Prätendenten etwa aus dem Beſtreben Preußens entſpringe, ja nicht die rechtmäßige
+Thronfolge in den Herzogthümern zu ſtören. Gerade die offiziöſen preußiſchen
+Organe haben über den Legitimitätspunkt mit einer geradezu demokratiſchen Frivolität
+geſprochen. Es müßte wahrlich mit ſeltſamen Dingen zugehen, wenn die olden⸗</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_7_1" custom="readingOrder {index:9;}">
+      <Coords points="526,957 954,957 954,1009 526,1009"/>
+      <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:0;}">
+        <Coords points="527,958 953,958 953,1008 527,1008"/>
+        <Baseline points="527,996 952,1002"/>
+        <TextEquiv>
+          <Unicode>Telegramm.</Unicode>
+        </TextEquiv>
+        <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>Telegramm.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <SeparatorRegion id="r_9" custom="readingOrder {index:10;}">
+      <Coords points="656,151 726,151 726,155 656,155"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_10" custom="readingOrder {index:11;}">
+      <Coords points="423,472 1341,472 1341,483 423,483"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_11" custom="readingOrder {index:12;}">
+      <Coords points="103,470 404,470 404,474 103,474"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_12" custom="readingOrder {index:13;}">
+      <Coords points="81,575 1421,575 1421,591 81,591"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_13" custom="readingOrder {index:14;}">
+      <Coords points="81,583 1420,583 1420,600 81,600"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_14" custom="readingOrder {index:15;}">
+      <Coords points="78,916 1403,916 1403,949 78,949"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_15" custom="readingOrder {index:16;}">
+      <Coords points="79,938 1404,938 1404,954 79,954"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_16" custom="readingOrder {index:17;}">
+      <Coords points="637,1250 842,1250 842,1256 637,1256"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_17" custom="readingOrder {index:18;}">
+      <Coords points="1525,1134 1536,1134 1536,2326 1525,2326"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_18" custom="readingOrder {index:19;}">
+      <Coords points="1534,941 1536,941 1536,1134 1534,1134"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="r_19" custom="readingOrder {index:20;}">
+      <Coords points="160,585 174,585 174,587 160,587"/>
+    </SeparatorRegion>
+  </Page>
 </PcGts>
