@@ -49,6 +49,6 @@ The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2]
     - Em dash (—) instead of En dash (–)
     
 # Links
-- [[Original Data set] NewsEye / READ OCR training dataset from Austrian Newspapers (19th C.)](http://doi.org/10.5281/zenodo.3387369) 
+- [[Original data set] NewsEye / READ OCR training dataset from Austrian Newspapers (19th C.)](http://doi.org/10.5281/zenodo.3387369) 
 - [Library Labs @ Austrian Nation Library](https://labs.onb.ac.at/)
 - [University Library Mannheim](https://www.bib.uni-mannheim.de/en/)
