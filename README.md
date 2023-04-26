@@ -13,36 +13,42 @@ Zenodo. http://doi.org/10.5281/zenodo.3387369
 
 The original data set was published under the Creative Commons Attribution 4.0 International license.
 
-## ÖNB Fraktur data for model training
+## Austrian Newspapers 2.0.0 (April 2023)
 
-This repository started with the original data set and now tries to enhance it
-in several aspects to make it more suitable for model training of OCR software.
+A revision of the data set was carried out by [University Library Mannheim](https://www.bib.uni-mannheim.de/en/) from November 2022 to April 2023 using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). All transcriptions are provided as `PAGE XML` in the `data` Folder. The original separation of the data set into `TrainingSet_ONB_Newseye_GT_M1+` and `ValidationSet_ONB_Newseye_GT_M1+` was kept.
 
-The original transcription uses level 1 according to the
-[OCR-D transcription guidelines](https://ocr-d.github.io/gt//trans_documentation/transkription.html) (German).
+The revision included: 
+1. Layout correction of text regions, text lines and baselines. 
+2. Region labeling ("header", "headings", "paragraphs", "reference".) 
+3. Correction and enhancement of transcriptions according to [OCR-D Ground Truth Guidelines Level 2](https://tboenig.github.io/gt-guidelines/html/trans/level_2_2.html)
 
-This is sufficient for many applications, but there is also a high need to
-have more detailed transcriptions. Therefore the transcriptions were enhanced
-with the long "s" and special unicodes for fractions,
-and similar enhancements might be added in the future.
-It is still possible to get level 1 transcriptions by simple search and replace operations.
+### Transcription guidelines:
+The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2](https://tboenig.github.io/gt-guidelines/html/trans/level_2_2.html) with some exceptions (see below):
 
-The initial enhancements were added by [UB Mannheim](https://www.bib.uni-mannheim.de/) who
-also fixed some transcription errors in the data.
-See https://github.com/tesseract-ocr/tesstrain/wiki/AustrianNewspapers for a report about
-the model training at UB Mannheim.
-
-New contributions (issues, pull requests) and reports about successful trainings are welcome.
-
-## Overview of content
-
-Unpacked original data (PAGE XML, TIFF) from ÖNB with some transcription texts enhanced and fixed
-
-- [TrainingSet_ONB_Newseye_GT_M1+](https://github.com/UB-Mannheim/AustrianNewspapers/tree/master/TrainingSet_ONB_Newseye_GT_M1%2B)
-- [ValidationSet_ONB_Newseye_GT_M1+](https://github.com/UB-Mannheim/AustrianNewspapers/tree/master/ValidationSet_ONB_Newseye_GT_M1%2B)
-
-Extracted line pairs (image and ground truth text)
-
-- [gt](https://github.com/UB-Mannheim/AustrianNewspapers/tree/master/gt)
-
-Note: Many updates in _gt_ still have to be transferred to the PAGE XML files.
+1) **Special characters**:
+    - Long s (ſ)
+    - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
+    - R rotunda (ꝛ)
+    - Dagger (†)
+    - Black Right Pointing Index (☛)
+    - Black Left Pointing Index (☚)
+    - Superscript Numbers 0-9 (⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹)
+    - Subscript Numbers 0-9 (₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉)
+    - White square (□)
+    - White medium square (◻)
+    - Black square (■)
+    - White up-pointing triangle (△)
+    - Black up-pointing triangle (▲)
+    - Bullet (•)
+    - Black circle (●)
+    - Black large circle (⬤)
+    - Heavy four balloon-spoked asterisk (✤)
+    
+2) **Additional characters** transcribed true to original (contrary to OCR-D Level 2):
+    - Double oblique hyphen (⸗)
+    - Em dash (—) instead of En dash (–)
+    
+# Links
+- [[Original Data set] NewsEye / READ OCR training dataset from Austrian Newspapers (19th C.)](http://doi.org/10.5281/zenodo.3387369) 
+- [Library Labs @ Austrian Nation Library](https://labs.onb.ac.at/)
+- [University Library Mannheim](https://www.bib.uni-mannheim.de/en/)
