@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>University of Innsbruck</Creator>
+        <Created>2018-11-29T10:47:52.458+01:00</Created>
+        <LastChange>2023-04-25T10:52:06.701+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+        <TranskribusMetadata docId="1394947" pageId="53863160" pageNr="24" tsid="119418129" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=ECVBKWWVJXVCBBZIMZYYBSTH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UIZWAZRXLYFWLDJOBDGIFZNL" imageId="38488779"/>
+    </Metadata>
+    <Page imageFilename="ONB_ibn_18640702_007.tif" imageWidth="1536" imageHeight="2323">
+        <PrintSpace>
+            <Coords points="1,0 1536,0 1537,2323 0,2324"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1682495881154" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r7"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="r1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="694,27 824,27 824,87 694,87"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="710,36 732,34 732,34 780,34 807,37 807,76 730,77 710,77"/>
+                <Baseline points="709,74 808,74"/>
+                <TextEquiv>
+                    <Unicode>1339</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="67,98 1455,97 1448,230 1450,770 1457,894 66,891 65,763 65,232"/>
+            <TextLine id="r2l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="86,115 117,109 1354,110 1427,115 1427,157 86,153"/>
+                <Baseline points="86,144 174,144 227,144 289,146 374,145 525,143 653,144 713,145 858,145 965,146 1001,146 1192,147 1258,146 1309,147 1427,146"/>
+                <TextEquiv>
+                    <Unicode>doch iſt dieſe Zahl vorläufig noch nicht verbürgt. Die 6. Kompagnie des 35. Regi⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="86,163 150,158 223,155 313,155 1419,154 1429,172 1429,185 1417,190 1383,198 86,193"/>
+                <Baseline points="86,185 177,185 305,186 381,186 473,185 623,186 701,185 774,186 883,187 981,186 1041,187 1309,189 1427,189"/>
+                <TextEquiv>
+                    <Unicode>ments brachte von ihrer Batterie aus das Feuer eines im Wennig⸗Bund liegen⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="85,196 167,195 465,193 465,193 665,193 766,196 819,202 819,235 109,234 85,226"/>
+                <Baseline points="85,226 135,227 299,226 544,226 626,226 819,227"/>
+                <TextEquiv>
+                    <Unicode>den däniſchen Kanonenboots zum Schweigen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="167,235 311,236 1390,234 1430,247 1432,279 170,272"/>
+                <Baseline points="167,268 194,268 369,268 481,267 570,267 637,267 788,268 922,267 999,268 1299,269 1430,270"/>
+                <TextEquiv>
+                    <Unicode>Turin, 30 Juni. In der heutigen Sitzung der Deputirtenkammer erklärte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="86,278 147,276 340,275 1375,276 1419,280 1429,303 1429,319 87,315"/>
+                <Baseline points="86,308 130,308 389,310 438,308 548,308 620,308 739,309 805,309 912,308 1008,310 1086,309 1186,309 1258,311 1333,311 1429,311"/>
+                <TextEquiv>
+                    <Unicode>der Finanzminiſter: er werde das Defizit der Jahre 1864 und 1865 mit 200 Mill.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="84,327 125,321 226,317 415,315 415,315 1431,319 1431,361 84,356"/>
+                <Baseline points="84,348 142,348 220,348 511,349 597,348 675,350 764,350 901,349 991,350 1315,352 1431,353"/>
+                <TextEquiv>
+                    <Unicode>aus den Domanialgütern und mit dem Verkauf der Staatseiſenbahnen decken</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="84,358 298,358 1360,359 1417,362 1429,363 1429,399 1427,401 84,397"/>
+                <Baseline points="84,389 188,389 277,390 357,389 488,390 542,390 674,390 773,391 1044,390 1142,392 1189,393 1262,392 1429,393"/>
+                <TextEquiv>
+                    <Unicode>können ohne eine Anleihe zu machen. Im Ausgabenbudget weist er eine Erſparniß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="84,405 121,399 160,399 1428,401 1428,442 86,437"/>
+                <Baseline points="84,431 140,431 202,431 298,431 398,431 559,429 648,431 710,432 813,432 1007,433 1128,431 1228,432 1334,434 1428,434"/>
+                <TextEquiv>
+                    <Unicode>von 10 Mill. nach. Sobald man die neuen organiſchen Geſetze votirt haben wird,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="84,448 141,442 208,437 1430,441 1429,483 84,480"/>
+                <Baseline points="84,472 190,472 259,472 452,471 522,471 625,471 709,473 799,472 904,472 1066,473 1162,474 1333,475 1429,475"/>
+                <TextEquiv>
+                    <Unicode>werden die Erſparniſſe die Höhe von 100 Mill. erreichen. Die Regierung und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="84,483 102,481 251,480 1369,483 1428,484 1428,523 83,519"/>
+                <Baseline points="84,512 124,512 251,512 321,513 416,514 564,512 635,512 802,512 917,513 964,514 1025,514 1118,513 1189,514 1264,515 1344,515 1428,515"/>
+                <TextEquiv>
+                    <Unicode>die Nation ſind, nach Anſicht des Miniſters, nicht in der Lage die von dem Ab⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="84,532 151,521 444,523 1429,525 1427,563 84,562"/>
+                <Baseline points="84,552 246,553 399,555 565,553 711,554 785,554 1010,554 1277,556 1354,556 1429,557"/>
+                <TextEquiv>
+                    <Unicode>geordneten Saracco verlangte Politik der Zurückhaltung (recueillement) zu der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="85,562 1426,566 1429,606 85,602"/>
+                <Baseline points="85,594 189,594 248,595 376,595 484,595 660,593 768,595 846,596 1040,595 1109,596 1343,599 1429,598"/>
+                <TextEquiv>
+                    <Unicode>ihrigen zu machen. Die Regierung ſteht dem Programm der Aktionspartei eben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="85,603 203,603 1350,605 1371,607 1429,616 1429,647 85,642"/>
+                <Baseline points="86,636 113,635 195,635 269,636 344,637 408,636 641,636 755,636 941,636 1005,636 1173,637 1230,638 1339,639 1429,639"/>
+                <TextEquiv>
+                    <Unicode>ſo fern wie dem der Entwaffnung. Das Programm der Regierung iſt noch immer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="83,647 113,643 1427,647 1427,688 83,684"/>
+                <Baseline points="83,676 195,675 355,677 412,677 474,676 680,677 753,676 1008,677 1178,679 1245,679 1427,680"/>
+                <TextEquiv>
+                    <Unicode>daſſelbe, welches ſie bei Uebernahme der Staatsgeſchäfte verkündet hat, nämlich:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="88,686 1427,689 1427,722 1422,727 88,723"/>
+                <Baseline points="89,718 162,717 236,717 289,717 404,719 482,717 544,716 713,718 885,718 934,719 1084,721 1152,721 1286,722 1353,722 1427,719"/>
+                <TextEquiv>
+                    <Unicode>ſich bereit zu halten und die politiſchen Ereigniſſe zu benutzen um Italien der Er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="83,727 219,726 219,726 240,726 651,727 688,728 738,737 749,742 749,765 83,765"/>
+                <Baseline points="82,758 174,757 298,758 453,759 749,757"/>
+                <TextEquiv>
+                    <Unicode>füllung ſeiner Geſchicke entgegenzuführen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="166,767 429,768 1305,767 1374,770 1428,780 1428,811 167,803"/>
+                <Baseline points="167,799 196,799 355,799 464,797 564,798 720,799 891,798 1012,800 1097,801 1202,802 1273,802 1428,803"/>
+                <TextEquiv>
+                    <Unicode>Rom, 29. Juni. Am heutigen Petersfeſt verſah der Papſt im Vatican</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="83,810 207,807 1260,809 1427,822 1427,845 1398,853 85,846"/>
+                <Baseline points="83,838 136,838 363,838 458,840 616,840 677,840 783,841 975,841 1067,842 1321,845 1427,844"/>
+                <TextEquiv>
+                    <Unicode>das Pontifikalamt, und erneuerte bei dieſer Gelegenheit ſeine Verwahrungen gegen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r2l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="84,851 102,850 139,849 139,849 369,849 400,850 473,853 473,882 400,888 310,888 146,886 102,885 84,880"/>
+                <Baseline points="84,880 121,881 285,882 473,881"/>
+                <TextEquiv>
+                    <Unicode>die Invaſion Piemonts.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r3" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="504,908 1002,909 1002,959 504,958"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="513,917 675,917 993,917 993,956 526,958 513,951"/>
+                <Baseline points="510,951 689,951 774,951 993,953"/>
+                <TextEquiv>
+                    <Unicode>Angekommene in Innsbruck.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="62,960 1439,957 1439,1985 57,1985"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="168,960 194,960 1426,961 1424,996 168,997"/>
+                <Baseline points="167,988 327,989 519,990 563,990 675,990 857,990 901,991 1107,991 1153,992 1251,992 1376,993 1426,992"/>
+                <TextEquiv>
+                    <Unicode>Haſchnigg, Hdls.⸗Reiſ. v. Wien. Guradke, v. Puttkammer u. Raue, Stud. v.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="87,1001 129,1000 292,1000 1389,1002 1427,1013 1427,1040 88,1035"/>
+                <Baseline points="87,1029 253,1029 473,1029 538,1030 662,1031 709,1031 813,1029 881,1031 1065,1031 1111,1032 1296,1032 1428,1033"/>
+                <TextEquiv>
+                    <Unicode>Hohenheim. Hochleitner, k.k. Förſter u. Ruef, k.k. Forſtgehilf v. Mairhofen. Ober⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="82,1042 101,1041 1425,1045 1425,1080 82,1076"/>
+                <Baseline points="81,1070 210,1070 319,1069 364,1072 505,1070 724,1069 865,1072 906,1072 1091,1071 1248,1072 1377,1075 1426,1074"/>
+                <TextEquiv>
+                    <Unicode>ladſtetter, Priv. v. Ellmau. Scheuring, Minorit v. Würzburg. Handle, Hdlsm. v.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="82,1083 340,1082 1353,1084 1410,1087 1425,1095 1425,1124 82,1118"/>
+                <Baseline points="82,1111 157,1112 358,1111 490,1113 542,1113 674,1110 846,1112 1006,1113 1075,1113 1248,1113 1303,1115 1425,1116"/>
+                <TextEquiv>
+                    <Unicode>Ried. Bramſtaler, Kfm. v. Gröden. Urbanek, Hauptm. m. Schweſter v. Bozen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="83,1124 108,1122 183,1122 1411,1127 1425,1134 1426,1164 83,1159"/>
+                <Baseline points="83,1151 233,1152 280,1152 352,1153 473,1155 511,1153 673,1153 772,1152 881,1154 992,1154 1051,1155 1148,1156 1194,1156 1306,1156 1425,1158"/>
+                <TextEquiv>
+                    <Unicode>Thompſon u. Lees, Rent. v. England. Lady Bruce, Priv. m. Fam. u. Forhes, Priv.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="80,1162 1396,1164 1424,1177 1424,1204 80,1201"/>
+                <Baseline points="80,1193 104,1193 282,1192 462,1192 559,1193 612,1193 706,1194 743,1194 874,1193 964,1193 1106,1194 1217,1195 1266,1196 1423,1196"/>
+                <TextEquiv>
+                    <Unicode>v. Schottland. Stengel, Kfm. m. Fam. v. Leipzig. Fr. Schubert, Priv. v. Hamburg.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="81,1205 107,1204 1414,1209 1424,1233 1424,1238 1418,1248 81,1242"/>
+                <Baseline points="81,1234 213,1233 326,1233 375,1236 544,1234 642,1235 734,1233 824,1234 869,1235 1028,1237 1219,1237 1424,1238"/>
+                <TextEquiv>
+                    <Unicode>Rübenach, Kfm. v. Frankfurt. Fr. Bar. Kles v. Sterzing. Stobeaus, Bürgermſtr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="81,1255 138,1247 281,1246 1403,1246 1415,1259 1423,1273 1423,1281 1421,1286 81,1278"/>
+                <Baseline points="81,1275 114,1275 208,1274 265,1275 397,1276 464,1274 585,1275 829,1275 873,1275 1054,1278 1277,1277 1422,1279"/>
+                <TextEquiv>
+                    <Unicode>m. Gatt. v. Lindau, v. Görm, Rittergutsbeſ. v. Wallbruck. Bacinlerrot, Propr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="82,1296 123,1287 385,1285 385,1285 1407,1289 1414,1290 1424,1316 1424,1325 1422,1329 82,1323"/>
+                <Baseline points="82,1315 113,1316 217,1315 258,1316 383,1317 436,1316 558,1316 699,1316 808,1315 854,1316 1028,1319 1179,1318 1423,1321"/>
+                <TextEquiv>
+                    <Unicode>m. Gatt, v. Chaux de Fonds. Dorm, Fabr. v. Frankfurt. Reuter, Bez⸗Ger.⸗Aff.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="81,1335 136,1328 280,1326 280,1326 1417,1332 1424,1355 1424,1363 1421,1371 81,1365"/>
+                <Baseline points="81,1357 104,1358 271,1356 402,1358 631,1357 676,1358 838,1356 971,1358 1053,1360 1147,1358 1197,1360 1329,1360 1424,1363"/>
+                <TextEquiv>
+                    <Unicode>v. Würzburg Herz, Staatsanwalt v. München. Rabe, kaiſ. Rath u. Spitzer, Kfm.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="82,1375 131,1368 217,1367 1422,1372 1423,1410 82,1406"/>
+                <Baseline points="82,1398 105,1399 218,1398 414,1400 525,1399 577,1400 717,1399 885,1398 993,1400 1036,1401 1177,1402 1320,1402 1423,1402"/>
+                <TextEquiv>
+                    <Unicode>v. Wien. Hulcheſen, Rent. v. London. Pentels. Priv. v. Brüſſel. Graul, Fabr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="81,1409 1368,1413 1423,1422 1423,1452 81,1446"/>
+                <Baseline points="81,1438 95,1438 258,1437 358,1439 488,1438 541,1438 668,1438 814,1439 931,1439 987,1441 1079,1442 1265,1442 1372,1445 1423,1445"/>
+                <TextEquiv>
+                    <Unicode>v Aſch. Redlich. Fabr. v. Brünn. Hirſch, Kfm. v. Linz. Freyberg, Kfm. v.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="82,1451 277,1450 1356,1455 1415,1465 1423,1479 1423,1492 1422,1493 81,1487"/>
+                <Baseline points="82,1480 242,1480 367,1480 411,1481 647,1479 799,1479 845,1481 1003,1481 1217,1483 1277,1485 1423,1485"/>
+                <TextEquiv>
+                    <Unicode>Würzburg. Edler v. Schüttelsberg, Gutsbeſ. v. Nebrenitz. Willoughby u. Boulger,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="81,1493 199,1491 1421,1495 1421,1531 81,1529"/>
+                <Baseline points="82,1521 181,1520 237,1522 402,1521 599,1521 783,1522 834,1522 946,1522 1085,1523 1212,1524 1269,1524 1421,1527"/>
+                <TextEquiv>
+                    <Unicode>Partik. v. England. Ratzenbeck, Med.⸗Dr. v. Prag. Duna, Stud. v. Amerika.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="82,1534 108,1531 188,1531 1341,1536 1395,1538 1413,1548 1422,1561 1422,1576 82,1569"/>
+                <Baseline points="81,1562 255,1561 354,1563 394,1564 586,1563 728,1562 885,1562 954,1564 1045,1565 1084,1567 1231,1567 1421,1568"/>
+                <TextEquiv>
+                    <Unicode>Theilheimer, Kfm. v. Nördlingen. Francke, Landwirth m. Gatt. v. Dresden. Schleicher,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="80,1575 109,1574 250,1572 1418,1578 1422,1605 1422,1610 1417,1618 80,1610"/>
+                <Baseline points="80,1602 154,1603 210,1604 300,1604 534,1604 679,1602 724,1603 887,1605 1069,1606 1198,1607 1254,1608 1423,1609"/>
+                <TextEquiv>
+                    <Unicode>Kfm. v. Linz. Straßberger, Bürger v. München. Embacher, Priv. v. Schwoich.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="81,1615 238,1614 1414,1620 1421,1645 1421,1652 1409,1658 81,1650"/>
+                <Baseline points="81,1643 186,1644 259,1642 431,1646 547,1646 596,1645 765,1644 978,1645 1140,1648 1192,1647 1421,1650"/>
+                <TextEquiv>
+                    <Unicode>Rößler Künſtler m. Vater v. Joſefſtadt Mauracher, Prieſter v. Unterinnthal.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="81,1657 114,1656 246,1654 1394,1661 1410,1667 1421,1684 1421,1692 1418,1696 81,1692"/>
+                <Baseline points="81,1684 301,1686 435,1686 480,1685 695,1686 832,1685 877,1684 1052,1689 1219,1690 1276,1691 1373,1692 1421,1692"/>
+                <TextEquiv>
+                    <Unicode>Hechenblaickner, Lehrer v. Wildſchönau. Baron v. Hunolſtein, General m. Fam. v.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="82,1698 465,1695 1385,1700 1412,1704 1421,1724 1421,1734 1418,1740 82,1732"/>
+                <Baseline points="80,1724 216,1725 329,1724 563,1726 620,1725 719,1726 764,1724 922,1727 1118,1729 1221,1731 1269,1731 1421,1732"/>
+                <TextEquiv>
+                    <Unicode>München Graf Sprinzenſtein m. Fam. v. Horehutz. Schuſuth, Priv. v. Biberich.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="80,1738 255,1736 1408,1742 1422,1765 1422,1779 1421,1781 80,1774"/>
+                <Baseline points="79,1766 214,1766 409,1768 466,1769 573,1768 769,1766 821,1767 971,1769 1026,1770 1233,1771 1421,1773"/>
+                <TextEquiv>
+                    <Unicode>Rieſinger, Med.⸗Dr. v. Wien Baroneſſe v. Oberkirch v. Regensburg. Chauvier,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="81,1779 274,1778 1421,1784 1421,1821 1420,1822 81,1814"/>
+                <Baseline points="81,1807 158,1806 215,1805 316,1806 361,1806 474,1806 702,1806 868,1807 972,1810 1018,1810 1197,1812 1423,1814"/>
+                <TextEquiv>
+                    <Unicode>Priv. m. Gatt. v. Paris Tiedemann, Ober⸗Ger⸗Sekr. v. Glückſtadt. Dimitrovich,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="82,1820 172,1816 172,1816 1421,1824 1421,1863 82,1855"/>
+                <Baseline points="83,1847 157,1848 200,1848 355,1848 561,1848 775,1848 832,1849 929,1851 974,1852 1103,1853 1271,1854 1376,1855 1421,1855"/>
+                <TextEquiv>
+                    <Unicode>Priv. v. Spalato. Hoffmann, Buchhändler m. Gatt. v. Leipzig. Stegner, Kfm. v.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="81,1864 120,1862 228,1859 1380,1864 1386,1866 1411,1876 1421,1889 1421,1903 1420,1904 81,1897"/>
+                <Baseline points="81,1889 187,1889 375,1888 486,1890 526,1889 627,1889 760,1889 909,1890 961,1892 1061,1894 1108,1893 1272,1896 1422,1896"/>
+                <TextEquiv>
+                    <Unicode>Brünn. Manhart, Agent v. Wien. Baur, Beamter m. Gatt. v. Stuttgart. Miller,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="80,1902 190,1898 1419,1905 1419,1944 1416,1945 80,1937"/>
+                <Baseline points="80,1928 227,1931 274,1931 383,1930 507,1932 550,1931 716,1930 976,1933 1086,1937 1128,1935 1258,1937 1419,1937"/>
+                <TextEquiv>
+                    <Unicode>Bildhauer u. Seitz, Maler v. München. Rechenmacher, Priv. v. Meran. Prinſer,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r4l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="81,1943 283,1940 1378,1946 1378,1981 1371,1986 421,1982 116,1979 81,1975"/>
+                <Baseline points="81,1972 156,1972 200,1972 321,1971 500,1972 686,1972 733,1972 879,1972 1047,1975 1148,1977 1192,1976 1379,1978"/>
+                <TextEquiv>
+                    <Unicode>Priv. v. Bozen. Schwarz, Seilermſtr. v. Klauſen. Teuchler, Kfm. v. Puſterthal.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r5" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="316,1995 1192,1995 1193,2036 317,2036"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="317,1997 437,1996 970,1999 1025,2000 1127,2002 1169,2003 1176,2026 1176,2032 1083,2035 317,2036"/>
+                <Baseline points="317,2028 567,2029 627,2030 676,2029 926,2029 976,2031 1067,2032 1176,2032"/>
+                <TextEquiv>
+                    <Unicode>Marktpreiſe zu Innsbruck am 2. Juli 1864.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="58,2038 744,2037 744,2206 58,2207"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="82,2037 336,2039 741,2040 742,2069 82,2068"/>
+                <Baseline points="81,2063 741,2065"/>
+                <TextEquiv>
+                    <Unicode>Weizen 2 fl. 98 kr. — 3 fl. 20 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="80,2077 737,2079 737,2106 80,2109"/>
+                <Baseline points="80,2103 737,2105"/>
+                <TextEquiv>
+                    <Unicode>Roggen 1 fl. 82 kr. — 2 fl. 10 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="79,2116 738,2121 739,2149 80,2146"/>
+                <Baseline points="80,2142 737,2147"/>
+                <TextEquiv>
+                    <Unicode>Türken 1 fl. 82 kr. — 1 fl. 96 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="81,2155 741,2162 739,2190 80,2189"/>
+                <Baseline points="80,2181 740,2189"/>
+                <TextEquiv>
+                    <Unicode>Gerſte 1 fl 80 kr. — 2 fl. 6 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r7" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="752,2039 1435,2040 1433,2210 752,2206"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="757,2040 1270,2043 1407,2046 1417,2064 1417,2071 1415,2075 756,2071"/>
+                <Baseline points="756,2066 1418,2070"/>
+                <TextEquiv>
+                    <Unicode>Daker 1 fl. 46 kr. 1 fl. 64 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="756,2079 878,2078 878,2078 1338,2081 1395,2084 1416,2091 1416,2110 1412,2113 756,2113"/>
+                <Baseline points="756,2106 859,2107 925,2108 973,2109 1026,2109 1076,2108 1129,2110 1181,2110 1270,2110 1315,2111 1366,2112 1416,2110"/>
+                <TextEquiv>
+                    <Unicode>Erbſen 2 fl. 58 kr. 3 fl. 20 kr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.5"/>
+            </TextLine>
+            <TextLine id="r7l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="757,2122 1069,2122 1393,2124 1416,2131 1416,2156 757,2156"/>
+                <Baseline points="757,2150 782,2150 866,2149 974,2150 1029,2150 1075,2149 1128,2150 1181,2150 1265,2151 1302,2152 1383,2149 1416,2150"/>
+                <TextEquiv>
+                    <Unicode>Fiſolen 2 fl. 32 kr. 3 fl. — kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="757,2162 846,2162 1393,2163 1416,2171 1416,2191 1304,2195 780,2195 757,2190"/>
+                <Baseline points="757,2190 783,2190 904,2190 961,2190 1032,2190 1078,2190 1151,2189 1181,2190 1249,2190 1299,2191 1383,2188 1416,2190"/>
+                <TextEquiv>
+                    <Unicode>Schmalz 1 Ztr. 54 fl. — kr. 57 fl. — kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:7;}">
+            <Coords points="655,894 859,894 859,899 655,899"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:8;}">
+            <Coords points="666,1987 829,1987 829,1992 666,1992"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:9;}">
+            <Coords points="746,2040 749,2040 749,2185 746,2185"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

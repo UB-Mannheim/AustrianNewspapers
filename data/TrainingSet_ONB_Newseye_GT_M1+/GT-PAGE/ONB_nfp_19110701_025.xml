@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>University of Innsbruck</Creator>
+        <Created>2018-11-29T10:11:03.772+01:00</Created>
+        <LastChange>2023-04-25T10:54:01.983+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+        <TranskribusMetadata docId="1394947" pageId="53863280" pageNr="135" tsid="119418649" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=WUMEKJOJUVSUCIMYBGMRYOUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PIKFEZBNNCNBUKZBZXFZDGGI" imageId="38488993"/>
+    </Metadata>
+    <Page imageFilename="ONB_nfp_19110701_025.tif" imageWidth="3488" imageHeight="5361">
+        <PrintSpace>
+            <Coords points="0,0 3488,0 3488,5361 0,5361"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1682495881598" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r9"/>
+                <RegionRefIndexed index="10" regionRef="r10"/>
+                <RegionRefIndexed index="11" regionRef="r11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="219,124 491,119 491,187 220,187"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="235,134 436,134 437,142 459,165 459,183 235,183"/>
+                <Baseline points="247,176 302,177 375,176 435,176"/>
+                <TextEquiv>
+                    <Unicode>Nr. 16830</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="817,128 1126,127 1130,188 821,189"/>
+            <TextLine id="r2l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="838,139 1113,138 1116,186 839,184"/>
+                <Baseline points="842,175 942,174 1109,174"/>
+                <TextEquiv>
+                    <Unicode>Wien, Samstag</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="1521,130 2137,130 2136,189 1520,189"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1539,141 1991,142 2119,157 2119,185 1557,185 1532,181"/>
+                <Baseline points="1539,176 1695,178 1876,178 2113,178"/>
+                <TextEquiv>
+                    <Unicode>Neue Freie Presse.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2508,136 2765,136 2766,190 2509,190"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2520,150 2577,145 2714,145 2756,149 2758,187 2648,188 2595,188 2547,187 2523,188"/>
+                <Baseline points="2526,182 2556,182 2646,182 2754,182"/>
+                <TextEquiv>
+                    <Unicode>1. Juli 1911</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="3161,122 3368,124 3369,190 3162,188"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="3176,143 3357,144 3357,187 3176,186"/>
+                <Baseline points="3182,184 3271,184 3346,184"/>
+                <TextEquiv>
+                    <Unicode>Seite 25</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;}">
+            <Coords points="255,302 1467,301 3306,306 3307,669 3302,2236 3312,2637 261,2644 248,2398 248,1267"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="331,416 1496,422 1498,664 333,666"/>
+                <Baseline points="346,650 1494,658"/>
+                <TextEquiv>
+                    <Unicode>Amerikanisches</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="56.0"/>
+            </TextLine>
+            <TextLine id="r6l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1972,421 2982,422 3062,450 3250,483 3251,666 2195,668 1972,663"/>
+                <Baseline points="1977,657 3234,659"/>
+                <TextEquiv>
+                    <Unicode>Schuhwarenhaus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="56.0"/>
+            </TextLine>
+            <TextLine id="r6l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="530,793 635,794 1015,796 1275,795 1274,996 1097,998 1019,999 530,997"/>
+                <Baseline points="546,978 1270,982"/>
+                <TextEquiv>
+                    <Unicode>BERTHOLD</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="36.0"/>
+            </TextLine>
+            <TextLine id="r6l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2326,804 2465,792 2822,799 2884,817 2884,998 2847,1000 2454,1000 2326,995"/>
+                <Baseline points="2330,982 2870,986"/>
+                <TextEquiv>
+                    <Unicode>FASSEL</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="36.0"/>
+            </TextLine>
+            <TextLine id="r6l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="458,1094 546,1092 943,1096 1044,1093 1156,1108 1158,1179 609,1173 459,1168"/>
+                <Baseline points="472,1156 720,1157 851,1157 1142,1158"/>
+                <TextEquiv>
+                    <Unicode>Verkauf der Marken:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.5" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="334,1269 881,1261 970,1271 1179,1274 1282,1287 1282,1405 1191,1421 935,1421 875,1424 539,1422 330,1407"/>
+                <Baseline points="346,1401 514,1402 1266,1402"/>
+                <TextEquiv>
+                    <Unicode>Walk-Over</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="29.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="320,1509 465,1509 715,1509 1125,1512 1281,1573 1281,1711 1176,1755 372,1748 320,1703"/>
+                <Baseline points="346,1702 626,1702 961,1702 1035,1702 1266,1710"/>
+                <TextEquiv>
+                    <Unicode>Edwin Clapp &amp; Son</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="36.0"/>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:7;}">
+                <Coords points="418,1829 1182,1829 1188,1968 424,1968"/>
+                <Baseline points="452,1941 1158,1944"/>
+                <TextEquiv>
+                    <Unicode>Sorosis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="2506,1085 2737,1080 2768,1082 2902,1083 2939,1085 3035,1102 3028,1167 2847,1167 2568,1165 2510,1155"/>
+                <Baseline points="2523,1147 3019,1155"/>
+                <TextEquiv>
+                    <Unicode>Verkaufsstellen:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.5" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="2442,1252 2524,1252 2974,1265 2964,1361 2911,1365 2577,1365 2435,1358"/>
+                <Baseline points="2453,1341 2958,1341"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="2440,1388 2747,1386 2747,1481 2440,1483"/>
+                <Baseline points="2453,1463 2709,1463"/>
+                <TextEquiv>
+                    <Unicode>Prag</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="2444,1504 2519,1504 2630,1506 2795,1508 2793,1609 2535,1609 2449,1605"/>
+                <Baseline points="2457,1587 2781,1587"/>
+                <TextEquiv>
+                    <Unicode>Triest</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="2431,1629 2938,1626 2955,1638 2975,1734 2825,1723 2439,1724"/>
+                <Baseline points="2453,1705 2953,1707"/>
+                <TextEquiv>
+                    <Unicode>Karlsbad</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="2444,1747 2522,1747 2752,1747 2931,1767 2929,1854 2639,1854 2446,1841"/>
+                <Baseline points="2453,1828 2919,1827"/>
+                <TextEquiv>
+                    <Unicode>Lemberg</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="2436,1875 2654,1867 2822,1866 3020,1876 3046,1950 3046,1974 2933,1974 2576,1972 2436,1957"/>
+                <Baseline points="2454,1950 3025,1951"/>
+                <TextEquiv>
+                    <Unicode>Innsbruck.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l16" custom="readingOrder {index:15;}">
+                <Coords points="1342,1965 1757,1963 1757,2027 1342,2027"/>
+                <Baseline points="1346,2019 1751,2019"/>
+                <TextEquiv>
+                    <Unicode>TRADE MARK REG. US. PAT. OFF.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l17" custom="readingOrder {index:16;}">
+                <Coords points="1917,1958 2200,1959 2200,2024 1917,2023"/>
+                <Baseline points="1921,2017 2196,2019"/>
+                <TextEquiv>
+                    <Unicode>GEO. E. KEITH COMPANY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="333,2061 3165,2062 3237,2072 3244,2218 2879,2238 376,2228 337,2185"/>
+                <Baseline points="343,2184 843,2186 1118,2185 1528,2189 2694,2192 3045,2195 3231,2196"/>
+                <TextEquiv>
+                    <Unicode>Wien, I., Tegetthoffstrasse Nr. 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1099,2253 2467,2258 2465,2332 1097,2327"/>
+                <Baseline points="1098,2309 1254,2308 1565,2311 1869,2313 2144,2313 2467,2314"/>
+                <TextEquiv>
+                    <Unicode>(zwischen Oper und Neuer Markt).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="319,2389 3177,2396 3184,2415 3223,2490 3242,2549 2767,2567 597,2558 319,2521"/>
+                <Baseline points="339,2517 902,2517 1434,2520 1812,2522 2362,2522 3225,2529"/>
+                <TextEquiv>
+                    <Unicode>Filiale: Wien, VI., Mariahilferstr. 51.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="28.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <ImageRegion id="Image_1678571239620_217" custom="readingOrder {index:6;}">
+            <Coords points="1312,799 1404,745 1473,689 1526,632 1624,454 1682,365 1774,344 1889,354 1917,456 1914,574 1942,630 2027,714 2178,785 2301,820 2286,1960 2191,1959 1928,1957 1885,1962 1891,1987 1932,2023 1947,2039 1945,2063 1877,2065 1825,2045 1797,2020 1760,1989 1748,1961 1484,1961 1316,1960"/>
+        </ImageRegion>
+        <TextRegion type="heading" id="r7" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="219,2770 1213,2782 1214,2900 220,2888"/>
+            <TextLine id="r7l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="271,2803 1099,2805 1143,2823 1142,2894 298,2890 271,2879"/>
+                <Baseline points="285,2874 836,2874 1132,2877"/>
+                <TextEquiv>
+                    <Unicode>Landwirtſchaftliche Zeitung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:8;}">
+            <Coords points="219,2905 1194,2912 1194,3121 999,3128 396,3128 218,3114"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="270,2931 1085,2932 1135,2942 1150,2954 1148,2969 1155,2993 1045,2994 335,2993 265,2996"/>
+                <Baseline points="274,2980 316,2980 473,2979 615,2981 807,2981 936,2983 1132,2982"/>
+                <TextEquiv>
+                    <Unicode>Neues auf dem Gebiete der Zucker-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="569,2997 695,2996 771,2997 824,3008 838,3032 840,3050 658,3056 562,3051"/>
+                <Baseline points="579,3040 837,3042"/>
+                <TextEquiv>
+                    <Unicode>fabrikation.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="r8l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="386,3071 985,3074 1005,3091 1005,3118 974,3118 482,3117 384,3115"/>
+                <Baseline points="399,3109 468,3111 509,3110 556,3112 828,3111 888,3110 999,3111"/>
+                <TextEquiv>
+                    <Unicode>Vom k. k. Regierungsrat A. Stift.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:9;}">
+            <Coords points="104,3124 1228,3129 1219,5008 1212,5289 103,5290 104,5002"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="268,3139 1203,3141 1220,3152 1220,3183 268,3181"/>
+                <Baseline points="274,3173 375,3174 475,3175 561,3175 700,3175 775,3176 968,3176 1118,3176 1219,3175"/>
+                <TextEquiv>
+                    <Unicode>Wenn man den Inhalt der Fachpreſſe objektiv ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="188,3184 1217,3184 1217,3225 188,3225"/>
+                <Baseline points="187,3217 269,3217 333,3218 486,3217 585,3218 725,3219 852,3218 1027,3217 1157,3218 1219,3217"/>
+                <TextEquiv>
+                    <Unicode>folgt, ſo gewinnt man zweifellos den Eindruck, daß in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="190,3229 1136,3229 1217,3234 1217,3273 190,3273"/>
+                <Baseline points="190,3262 243,3262 365,3260 479,3262 682,3262 768,3263 867,3263 1048,3262 1214,3264"/>
+                <TextEquiv>
+                    <Unicode>der letzten Zeit, namentlich auf dem techniſchen Gebiete</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="187,3274 1214,3276 1214,3317 187,3315"/>
+                <Baseline points="187,3307 240,3307 558,3307 641,3308 727,3308 940,3310 1138,3310 1214,3309"/>
+                <TextEquiv>
+                    <Unicode>der Zuckerfabrikation, eine Art Stagnation eingetreten iſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="190,3317 1216,3317 1216,3361 190,3361"/>
+                <Baseline points="190,3353 240,3351 384,3352 472,3353 609,3354 727,3354 843,3354 944,3353 1061,3353 1216,3353"/>
+                <TextEquiv>
+                    <Unicode>Es herrſcht eine gewiſſe Ruhe wie nach einem großen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="188,3364 1215,3363 1214,3405 187,3406"/>
+                <Baseline points="188,3396 315,3395 413,3395 625,3396 698,3397 789,3398 908,3397 1016,3398 1218,3395"/>
+                <TextEquiv>
+                    <Unicode>Sturm, eine Situtation, die aber ganz leicht begreiflich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="187,3416 201,3409 1215,3407 1215,3450 187,3452"/>
+                <Baseline points="187,3442 324,3441 446,3441 548,3442 616,3443 691,3442 844,3442 1136,3442 1219,3440"/>
+                <TextEquiv>
+                    <Unicode>erſcheint, wenn man ſich die Kämpfe vergegenwärtigt, die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="186,3456 297,3452 297,3452 1150,3454 1215,3464 1215,3496 186,3493"/>
+                <Baseline points="186,3485 246,3485 386,3487 531,3488 620,3487 722,3488 804,3489 909,3488 979,3487 1215,3488"/>
+                <TextEquiv>
+                    <Unicode>vor einigen Jahren noch über den Wert der verſchiedenen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="185,3507 204,3498 204,3498 1181,3499 1215,3509 1215,3533 1210,3541 185,3539"/>
+                <Baseline points="185,3531 285,3532 743,3534 864,3532 993,3532 1095,3531 1215,3533"/>
+                <TextEquiv>
+                    <Unicode>neuen Saftgewinnungsverfahren getobt haben. Nach dieſen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="187,3542 551,3541 551,3541 1114,3541 1183,3543 1215,3553 1215,3585 187,3585"/>
+                <Baseline points="187,3577 340,3576 432,3576 539,3576 614,3577 710,3577 946,3575 1037,3576 1114,3575 1214,3577"/>
+                <TextEquiv>
+                    <Unicode>Kämpfen kam dann die Zeit der Klärung und der ein⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="188,3595 226,3587 234,3587 1171,3586 1171,3586 1213,3587 1213,3628 188,3629"/>
+                <Baseline points="186,3621 340,3620 521,3620 595,3621 691,3621 782,3621 890,3620 1083,3620 1211,3620"/>
+                <TextEquiv>
+                    <Unicode>gehenden Prüfung, die auch jetzt noch fortdauert. Auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="187,3633 1214,3632 1214,3632 1214,3671 187,3672"/>
+                <Baseline points="187,3665 244,3663 372,3666 501,3665 635,3665 708,3665 804,3665 950,3663 1104,3664 1215,3664"/>
+                <TextEquiv>
+                    <Unicode>auf dieſem Gebiet zeigte es ſich wieder einmal ganz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="187,3676 223,3674 223,3674 1123,3674 1191,3675 1213,3686 1213,3717 187,3717"/>
+                <Baseline points="187,3709 320,3708 412,3708 493,3710 590,3710 687,3709 805,3710 907,3709 1041,3708 1117,3709 1213,3709"/>
+                <TextEquiv>
+                    <Unicode>deutlich, daß das Alte noch lange nicht ſchlecht zu ſein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="186,3720 1214,3720 1214,3761 186,3761"/>
+                <Baseline points="186,3753 307,3753 393,3754 601,3754 767,3753 889,3754 972,3753 1134,3753 1215,3753"/>
+                <TextEquiv>
+                    <Unicode>braucht und keineswegs verdient, einfach als überholt bei⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="186,3764 1194,3763 1211,3765 1211,3807 186,3808"/>
+                <Baseline points="185,3797 252,3798 432,3797 493,3799 644,3797 807,3799 891,3799 991,3798 1069,3798 1212,3796"/>
+                <TextEquiv>
+                    <Unicode>ſeite geſchoben zu werden. Gerade das Alte hat vielfach</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="187,3819 207,3810 267,3809 1211,3808 1211,3851 187,3853"/>
+                <Baseline points="187,3842 372,3843 512,3842 611,3845 746,3842 937,3840 1051,3843 1212,3840"/>
+                <TextEquiv>
+                    <Unicode>neuerdings ſiegreich den Kampf beſtanden und deutlich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="183,3860 269,3854 287,3853 1188,3854 1190,3854 1212,3863 1212,3895 183,3896"/>
+                <Baseline points="183,3886 242,3884 376,3886 525,3886 619,3887 673,3888 743,3889 819,3889 1052,3885 1120,3887 1214,3887"/>
+                <TextEquiv>
+                    <Unicode>vor Augen geführt, daß es oft ein vergebliches, ja un⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="182,3908 208,3900 266,3898 1195,3897 1212,3908 1212,3940 182,3942"/>
+                <Baseline points="183,3930 286,3932 471,3932 542,3932 604,3934 722,3933 937,3932 1034,3930 1211,3928"/>
+                <TextEquiv>
+                    <Unicode>nützes Beginnen iſt, an einem feſtgefügten Bau leichthin</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="183,3941 1213,3941 1213,3980 183,3984"/>
+                <Baseline points="183,3979 295,3976 359,3976 502,3974 591,3976 679,3975 770,3974 843,3975 1069,3974 1148,3972 1213,3973"/>
+                <TextEquiv>
+                    <Unicode>rütteln zu wollen, und daß auch für Neuerungen erſt die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="186,3989 1211,3986 1209,4028 184,4031"/>
+                <Baseline points="186,4021 282,4021 428,4020 570,4021 679,4019 775,4021 909,4019 990,4018 1086,4018 1211,4017"/>
+                <TextEquiv>
+                    <Unicode>Bahn geebnet werden muß. Die Zeiten, daß ein neues</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="185,4033 1210,4030 1210,4071 185,4074"/>
+                <Baseline points="185,4065 352,4064 502,4064 615,4065 809,4064 960,4062 1071,4062 1210,4061"/>
+                <TextEquiv>
+                    <Unicode>Verfahren baldigſt einen Siegszug antritt, ſind vorbei,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="185,4080 203,4075 1211,4073 1211,4073 1211,4115 185,4117"/>
+                <Baseline points="185,4109 243,4108 351,4110 442,4109 590,4108 685,4109 771,4105 988,4107 1076,4106 1211,4107"/>
+                <TextEquiv>
+                    <Unicode>wir ſehen dies deutlich aus den Ergebniſſen der letzten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="183,4120 190,4119 1097,4117 1097,4117 1199,4118 1212,4119 1212,4158 183,4160"/>
+                <Baseline points="187,4152 297,4153 476,4153 572,4152 760,4152 871,4153 959,4152 1121,4151 1212,4150"/>
+                <TextEquiv>
+                    <Unicode>Jahre. Langſam und manchmal ſchon ſehr langſam geht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="185,4169 195,4163 1213,4159 1213,4159 1213,4200 185,4205"/>
+                <Baseline points="185,4197 218,4196 392,4195 486,4197 543,4197 718,4197 830,4195 961,4196 1062,4193 1146,4192 1211,4192"/>
+                <TextEquiv>
+                    <Unicode>es vorwärts, und in demſelben Maße mögen wohl auch die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="180,4208 220,4204 1178,4203 1212,4214 1212,4247 180,4249"/>
+                <Baseline points="182,4239 385,4239 540,4239 701,4240 830,4240 954,4238 1048,4238 1124,4236 1212,4237"/>
+                <TextEquiv>
+                    <Unicode>Hoffnungen mancher Erfinder ſinken. Dabei zeigt ſich aber</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="184,4253 1210,4249 1210,4249 1210,4288 184,4292"/>
+                <Baseline points="184,4286 255,4283 324,4286 495,4285 602,4283 746,4283 847,4283 988,4283 1210,4281"/>
+                <TextEquiv>
+                    <Unicode>auch die Tatſache, daß vielfach die lokalen Verhältniſſe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="184,4306 196,4297 1120,4294 1120,4294 1173,4295 1210,4304 1210,4335 184,4338"/>
+                <Baseline points="185,4330 249,4330 355,4329 542,4328 659,4328 785,4327 876,4326 991,4327 1213,4327"/>
+                <TextEquiv>
+                    <Unicode>eine ganz gewichtige Rolle ſpielen und unter Umſtänden</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="183,4347 223,4341 1209,4338 1209,4338 1209,4379 183,4383"/>
+                <Baseline points="183,4375 247,4375 349,4373 561,4374 677,4373 782,4371 870,4372 1097,4371 1209,4371"/>
+                <TextEquiv>
+                    <Unicode>von ganz beſonderem Einfluß auf die Einführung eines</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="181,4389 1210,4383 1210,4422 181,4428"/>
+                <Baseline points="181,4420 366,4420 575,4419 660,4419 812,4418 904,4417 980,4416 1036,4414 1123,4414 1207,4413"/>
+                <TextEquiv>
+                    <Unicode>beſtimmten Verfahrens ſein können. Hat ſich ja doch der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="181,4430 200,4427 1176,4425 1209,4434 1209,4471 181,4473"/>
+                <Baseline points="180,4462 261,4461 418,4462 524,4462 625,4462 826,4462 1054,4461 1209,4460"/>
+                <TextEquiv>
+                    <Unicode>Fall ereignet, daß ein Verfahren aufgegeben werden</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="178,4475 1210,4471 1210,4514 178,4517"/>
+                <Baseline points="180,4508 287,4507 361,4508 446,4509 686,4507 945,4505 1121,4503 1209,4504"/>
+                <TextEquiv>
+                    <Unicode>mußte, da eine befriedigende Durchführung desſelben mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="182,4520 188,4519 1208,4515 1208,4515 1208,4556 182,4560"/>
+                <Baseline points="182,4552 253,4553 525,4551 607,4550 825,4551 976,4550 1034,4548 1073,4549 1208,4548"/>
+                <TextEquiv>
+                    <Unicode>dem Rübenmaterial der betreffenden Gegend ſich einfach</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="180,4574 199,4565 1107,4560 1107,4560 1209,4564 1209,4600 180,4606"/>
+                <Baseline points="180,4598 230,4598 319,4598 574,4596 818,4597 942,4595 1035,4595 1209,4592"/>
+                <TextEquiv>
+                    <Unicode>als eine Unmöglichkeit herausſtellte! Wenn nun eingangs</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="180,4613 230,4609 1134,4604 1134,4604 1176,4605 1209,4614 1209,4645 180,4650"/>
+                <Baseline points="180,4643 244,4643 353,4642 567,4640 761,4637 900,4637 983,4638 1105,4637 1209,4637"/>
+                <TextEquiv>
+                    <Unicode>von einer Stagnation geſprochen wurde, ſo darf aber</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="178,4654 1197,4648 1197,4648 1209,4664 1209,4676 1204,4689 178,4695"/>
+                <Baseline points="178,4687 272,4686 383,4686 483,4686 745,4685 831,4684 1007,4683 1079,4682 1209,4681"/>
+                <TextEquiv>
+                    <Unicode>dieſes Wort nicht mißverſtanden und gleichſam als „Still⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="181,4697 1205,4693 1205,4693 1205,4732 181,4736"/>
+                <Baseline points="180,4730 283,4728 462,4729 616,4729 750,4726 813,4726 989,4726 1090,4727 1206,4725"/>
+                <TextEquiv>
+                    <Unicode>ſtand“ aufgefaßt werden. Davon iſt natürlich keine Rede,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="181,4740 1207,4735 1207,4735 1207,4778 181,4782"/>
+                <Baseline points="181,4776 222,4775 300,4773 401,4774 478,4773 553,4774 693,4773 808,4772 966,4771 1037,4772 1116,4771 1207,4771"/>
+                <TextEquiv>
+                    <Unicode>da nach wie vor die Technik redlich bemüht iſt, an dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="179,4791 189,4785 1186,4780 1186,4780 1205,4791 1205,4821 179,4827"/>
+                <Baseline points="178,4819 344,4817 510,4817 586,4817 895,4816 1015,4814 1074,4815 1207,4813"/>
+                <TextEquiv>
+                    <Unicode>mächtigen Gebäude der Zuckerfabrikation weiter zu bauen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="179,4829 1062,4823 1062,4823 1207,4834 1207,4866 179,4873"/>
+                <Baseline points="179,4865 446,4863 538,4862 711,4861 905,4860 1033,4858 1207,4858"/>
+                <TextEquiv>
+                    <Unicode>beziehungsweiſe die neueren Verfahren einer genauen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="179,4873 1206,4867 1206,4909 180,4917"/>
+                <Baseline points="177,4908 319,4908 388,4907 608,4905 753,4904 936,4904 1046,4902 1131,4902 1208,4902"/>
+                <TextEquiv>
+                    <Unicode>Prüfung zu unterziehen. Vorbei einſtweilen ſind nur die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="180,4916 1120,4911 1179,4913 1207,4923 1211,4952 1183,4955 1043,4957 180,4962"/>
+                <Baseline points="180,4954 289,4953 387,4953 737,4949 984,4946 1105,4948 1208,4949"/>
+                <TextEquiv>
+                    <Unicode>Zeiten der überſchwenglichen Hoffnungen und Er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="179,4970 191,4967 312,4967 312,4967 368,4973 368,4998 351,5005 184,5006 179,4998"/>
+                <Baseline points="179,4998 368,4997"/>
+                <TextEquiv>
+                    <Unicode>wartungen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="261,5014 302,5008 1174,5007 1174,5007 1207,5018 1207,5053 261,5054"/>
+                <Baseline points="262,5046 385,5047 537,5046 690,5044 775,5045 876,5042 935,5042 1005,5043 1130,5043 1208,5045"/>
+                <TextEquiv>
+                    <Unicode>Immer weitaus ruhiger, wie auch in der Natur der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="176,5056 1205,5052 1205,5098 176,5101"/>
+                <Baseline points="177,5092 325,5092 471,5091 561,5091 627,5090 819,5091 909,5089 1204,5088"/>
+                <TextEquiv>
+                    <Unicode>Sachlage liegend, ſind die praktiſchen und wiſſenſchaftlichen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="178,5099 1206,5098 1205,5140 177,5145"/>
+                <Baseline points="178,5137 322,5137 450,5136 518,5136 933,5134 1016,5132 1126,5132 1205,5131"/>
+                <TextEquiv>
+                    <Unicode>Arbeiten ſowie die Züchtungsbeſtrebungen auf dem Ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="178,5147 276,5144 971,5143 971,5143 1203,5152 1203,5184 178,5186"/>
+                <Baseline points="175,5178 254,5180 329,5178 569,5177 647,5176 781,5175 892,5176 998,5175 1203,5176"/>
+                <TextEquiv>
+                    <Unicode>biete der Rübenkultur und zucht ihren Weg gegangen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r9l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="180,5192 1205,5187 1205,5187 1205,5230 265,5234 180,5233"/>
+                <Baseline points="180,5227 263,5229 341,5228 430,5229 579,5226 655,5225 880,5227 974,5225 1207,5222"/>
+                <TextEquiv>
+                    <Unicode>Man hat hier vielfach die ungeahnten und großartigen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:10;}">
+            <Coords points="1254,2762 2304,2763 2306,3255 2296,5287 1239,5288 1263,3256"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1267,2772 2294,2774 2294,2815 1267,2813"/>
+                <Baseline points="1267,2805 1450,2807 1539,2806 1679,2807 1802,2807 1925,2806 2035,2805 2203,2806 2296,2807"/>
+                <TextEquiv>
+                    <Unicode>Fortſchritte und Erfolge ganz ruhig und beinahe als</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1265,2816 2118,2817 2226,2819 2292,2827 2292,2860 1265,2858"/>
+                <Baseline points="1264,2850 1525,2852 1587,2852 1658,2852 1875,2852 2021,2853 2292,2852"/>
+                <TextEquiv>
+                    <Unicode>ſelbſtverſtändlich in der Entwicklung liegend hingenommen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1269,2861 1358,2860 1358,2860 2294,2860 2294,2904 1269,2904"/>
+                <Baseline points="1268,2896 1312,2896 1424,2896 1500,2896 1594,2897 1830,2896 1942,2897 2099,2897 2198,2896 2294,2896"/>
+                <TextEquiv>
+                    <Unicode>Je mehr ſich aber Wiſſenſchaft und Praxis mit der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1267,2905 2242,2905 2281,2915 2291,2930 2293,2949 1269,2949"/>
+                <Baseline points="1271,2939 1442,2937 1678,2938 1787,2938 1837,2940 1942,2941 2052,2940 2145,2938 2291,2939"/>
+                <TextEquiv>
+                    <Unicode>Zuckerrübe beſchäftigen, um ſo mehr läßt ſich erſehen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1269,2956 1300,2950 1358,2949 1358,2949 2209,2949 2256,2950 2291,2951 2291,2992 1269,2992"/>
+                <Baseline points="1269,2984 1325,2984 1411,2984 1499,2982 1594,2984 1672,2984 1806,2983 2016,2985 2121,2985 2194,2984 2291,2984"/>
+                <TextEquiv>
+                    <Unicode>wie ſehr hier noch ein großes Arbeitsfeld offen iſt, das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1267,2993 2294,2995 2294,3034 1268,3036"/>
+                <Baseline points="1268,3030 1319,3029 1576,3027 1741,3028 1930,3028 2068,3027 2163,3028 2294,3027"/>
+                <TextEquiv>
+                    <Unicode>der Bearbeitung ſpäterer Bebauer harrt. Es treten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1267,3039 1392,3037 2265,3037 2265,3037 2279,3041 2293,3046 2293,3079 1267,3080"/>
+                <Baseline points="1267,3072 1374,3072 1506,3072 1604,3072 1750,3072 1844,3071 1930,3069 2129,3071 2294,3071"/>
+                <TextEquiv>
+                    <Unicode>immer wieder neue Fragen auf, die intereſſante Geſichts⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1266,3089 1333,3085 1585,3080 2069,3080 2069,3080 2292,3082 2292,3123 1266,3124"/>
+                <Baseline points="1264,3116 1371,3116 1537,3116 1637,3115 1718,3114 1902,3117 2144,3114 2292,3115"/>
+                <TextEquiv>
+                    <Unicode>punkte eröffnen und zu weiteren Forſchungen Anlaß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1267,3138 1284,3129 1361,3127 2263,3126 2292,3127 2293,3170 1265,3172"/>
+                <Baseline points="1269,3161 1370,3159 1466,3159 1564,3159 1676,3163 1784,3161 1880,3160 2034,3161 2179,3161 2291,3159"/>
+                <TextEquiv>
+                    <Unicode>geben. Es wird daher auch auf dieſem Gebiete emſig</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1266,3178 1308,3173 1422,3170 2157,3170 2291,3179 2296,3214 2242,3213 1266,3214"/>
+                <Baseline points="1266,3206 1365,3206 1544,3207 1630,3207 1688,3207 1829,3207 1963,3206 2062,3205 2194,3205 2291,3205"/>
+                <TextEquiv>
+                    <Unicode>weiter gearbeitet und es werden immer neue Steine zum</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1264,3218 1720,3217 1720,3217 1720,3258 1264,3258"/>
+                <Baseline points="1264,3252 1435,3251 1720,3251"/>
+                <TextEquiv>
+                    <Unicode>Weiterbau herbeigeſchaffen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1347,3262 1366,3259 1366,3259 2214,3259 2295,3269 2295,3302 1347,3301"/>
+                <Baseline points="1344,3293 1425,3294 1538,3295 1760,3293 1988,3293 2124,3293 2202,3293 2295,3294"/>
+                <TextEquiv>
+                    <Unicode>Nach dieſer allgemeinen Orientierung wollen wir nun</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1268,3316 1311,3305 1370,3303 2273,3305 2294,3313 2294,3346 1268,3344"/>
+                <Baseline points="1266,3336 1324,3337 1535,3339 1703,3340 1780,3340 1932,3339 2114,3336 2223,3338 2294,3338"/>
+                <TextEquiv>
+                    <Unicode>auf verſchiedene Arbeiten zu ſprechen kommen, die in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1266,3347 2253,3347 2294,3357 2294,3390 1266,3390"/>
+                <Baseline points="1266,3382 1358,3383 1447,3383 1632,3385 1712,3383 1801,3384 1872,3383 2140,3382 2294,3382"/>
+                <TextEquiv>
+                    <Unicode>letzter Zeit erſchienen ſind und die gegenwärtigen neueren</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1265,3393 1296,3391 1296,3391 2222,3391 2277,3393 2293,3398 2293,3432 1265,3432"/>
+                <Baseline points="1266,3424 1492,3424 1763,3425 1898,3426 2075,3424 2293,3424"/>
+                <TextEquiv>
+                    <Unicode>Beſtrebungen kennzeichnen. Eine überaus intereſſante</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1265,3437 1308,3434 1308,3434 2293,3435 2293,3477 1265,3476"/>
+                <Baseline points="1267,3468 1378,3471 1476,3470 1546,3470 1808,3470 1914,3470 2205,3470 2293,3469"/>
+                <TextEquiv>
+                    <Unicode>Studie über die Klimafeſtigkeit des Zuckergehaltes der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1263,3482 1314,3480 2282,3478 2282,3478 2292,3481 2292,3519 1263,3522"/>
+                <Baseline points="1260,3514 1388,3512 1744,3514 1845,3515 2048,3514 2291,3511"/>
+                <TextEquiv>
+                    <Unicode>jetzigen Hochzuchtzuckerrübe hat Strohmer veröffentlicht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1266,3525 2294,3523 2294,3565 1266,3567"/>
+                <Baseline points="1264,3557 1310,3557 1396,3558 1615,3555 1724,3557 1869,3555 2008,3556 2129,3557 2184,3556 2297,3554"/>
+                <TextEquiv>
+                    <Unicode>die uns zeigt, welch feſtes Gefüge, wenn man ſo ſagen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1264,3569 2293,3567 2293,3567 2293,3607 1264,3608"/>
+                <Baseline points="1263,3602 1337,3600 1409,3600 1570,3600 1920,3601 2051,3600 2147,3601 2214,3599 2293,3600"/>
+                <TextEquiv>
+                    <Unicode>darf, die moderne Hochzuchtzuckerrübe beſitzt. Es iſt eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1265,3612 1321,3610 2282,3610 2294,3618 2294,3644 2290,3652 1264,3655"/>
+                <Baseline points="1262,3644 1363,3644 1554,3645 1743,3645 1861,3644 1942,3644 2010,3645 2225,3644 2294,3644"/>
+                <TextEquiv>
+                    <Unicode>längſt bekannte Tatſache, daß für die Zuckerrübe die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1265,3658 1295,3653 2291,3652 2290,3699 1264,3700"/>
+                <Baseline points="1266,3688 1457,3689 1694,3687 1826,3689 1963,3689 2044,3690 2217,3686 2293,3687"/>
+                <TextEquiv>
+                    <Unicode>klimatiſchen Verhältniſſe, unter denen ſie erwachſen iſt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1264,3702 2293,3699 2293,3740 1264,3743"/>
+                <Baseline points="1264,3735 1339,3734 1558,3732 1682,3734 1783,3734 1874,3734 1944,3733 2109,3733 2292,3731"/>
+                <TextEquiv>
+                    <Unicode>nicht gleichgiltig ſind. Da nun bei manchen Pflanzen⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1264,3744 1272,3742 2240,3739 2240,3739 2292,3741 2292,3783 1264,3786"/>
+                <Baseline points="1266,3778 1381,3778 1454,3776 1694,3776 1899,3775 2143,3775 2209,3773 2292,3775"/>
+                <TextEquiv>
+                    <Unicode>formen ein Klimawechſel ſogenannte „Rückſchläge“ in die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="1263,3788 2293,3786 2293,3828 1263,3829"/>
+                <Baseline points="1263,3821 1388,3819 1645,3819 1885,3819 1965,3821 2124,3820 2179,3820 2293,3819"/>
+                <TextEquiv>
+                    <Unicode>Urform (Atavismus) herbeiführt, ſo erſcheint es nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="1264,3841 1296,3830 2292,3829 2294,3873 1264,3874"/>
+                <Baseline points="1264,3866 1505,3863 1612,3863 1729,3863 1797,3864 1861,3865 2061,3864 2173,3863 2291,3865"/>
+                <TextEquiv>
+                    <Unicode>ausgeſchloſſen, daß auch bei der Zuckerrübe durch klima⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="1262,3878 2290,3875 2290,3875 2290,3914 1262,3917"/>
+                <Baseline points="1262,3911 1341,3910 1596,3909 1816,3906 1993,3906 2290,3907"/>
+                <TextEquiv>
+                    <Unicode>tiſche Beeinfluſſung Rückſchläge, reſpektive Veränderungen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="1264,3928 1286,3918 2271,3918 2290,3920 2290,3960 1264,3960"/>
+                <Baseline points="1265,3951 1437,3952 1619,3952 1736,3951 2011,3953 2290,3951"/>
+                <TextEquiv>
+                    <Unicode>namentlich bezüglich des angezüchteten Zuckergehalts</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="1264,3964 1419,3962 2133,3962 2292,3970 2291,4007 1263,4007"/>
+                <Baseline points="1263,3994 1478,3998 1620,3997 1776,3997 1886,3998 2000,3996 2124,3995 2220,3995 2292,3994"/>
+                <TextEquiv>
+                    <Unicode>herbeigeführt werden können. Um dieſe Frage nun zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="1261,4003 1264,4007 2291,4006 2292,4048 1261,4049"/>
+                <Baseline points="1261,4041 1426,4040 1511,4042 1719,4041 2133,4039 2222,4040 2292,4040"/>
+                <TextEquiv>
+                    <Unicode>ſtudieren, hat Strohmer Hochzuchtmutterrüben, die im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="1264,4051 2293,4049 2293,4094 1264,4095"/>
+                <Baseline points="1265,4083 1469,4084 1570,4085 1684,4084 1756,4086 1853,4085 2009,4082 2216,4082 2294,4081"/>
+                <TextEquiv>
+                    <Unicode>Zuckergehalt von 20·0 bis 20·6 Prozent ſchwankten, in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="1263,4095 2294,4093 2294,4136 1263,4137"/>
+                <Baseline points="1263,4127 1401,4128 1479,4127 1641,4127 1779,4125 1843,4127 1946,4125 2102,4127 2189,4126 2294,4125"/>
+                <TextEquiv>
+                    <Unicode>Steinach am Brenner (Tirol) in einer Seehöhe von 1050</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="1261,4141 2292,4136 2292,4176 1261,4181"/>
+                <Baseline points="1261,4173 1385,4171 1475,4172 1533,4172 1786,4168 1945,4171 2062,4167 2169,4168 2291,4167"/>
+                <TextEquiv>
+                    <Unicode>Metern, alſo in ausgeſprochen alpinem Klima, auf einer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1259,4180 2290,4180 2291,4225 1260,4225"/>
+                <Baseline points="1260,4212 1464,4214 1566,4213 1692,4214 1926,4214 2071,4211 2142,4211 2291,4212"/>
+                <TextEquiv>
+                    <Unicode>Feldparzelle, die dem Gemüſebau diente, in üblicher</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="1260,4224 2266,4224 2291,4222 2291,4268 1261,4268"/>
+                <Baseline points="1260,4256 1359,4259 1550,4258 1646,4258 1697,4258 1773,4257 1912,4257 2063,4257 2292,4256"/>
+                <TextEquiv>
+                    <Unicode>Weiſe ausgeſetzt. Da in der ganzen Gegend naturgemäß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="1260,4272 2291,4267 2293,4309 1260,4312"/>
+                <Baseline points="1260,4303 1325,4303 1615,4302 1756,4301 1866,4299 1950,4298 2041,4298 2131,4298 2291,4297"/>
+                <TextEquiv>
+                    <Unicode>kein Futterrübenbau getrieben wird, ſo war eine Fremd⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="1260,4314 1322,4312 2289,4310 2289,4352 1260,4355"/>
+                <Baseline points="1260,4347 1452,4346 1556,4345 1663,4345 1766,4345 1907,4346 2188,4343 2289,4344"/>
+                <TextEquiv>
+                    <Unicode>befruchtung zur Zeit der Blüte ausgeſchloſſen. Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="1259,4359 2289,4355 2289,4395 1259,4399"/>
+                <Baseline points="1259,4391 1412,4390 1645,4389 1744,4388 1863,4388 2040,4388 2129,4388 2288,4386"/>
+                <TextEquiv>
+                    <Unicode>Pflanzen entwickelten ſich ganz normal und lieferten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="1258,4400 2290,4398 2290,4441 1258,4442"/>
+                <Baseline points="1258,4432 1488,4433 1568,4433 1647,4433 1722,4431 1812,4431 1892,4431 2188,4432 2288,4430"/>
+                <TextEquiv>
+                    <Unicode>Rübenſamen, die, wie ſich aus den meteorologiſchen Auf⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="1259,4454 1295,4442 2238,4440 2238,4440 2279,4451 2291,4456 2291,4468 2286,4481 1259,4484"/>
+                <Baseline points="1259,4476 1457,4474 1586,4476 1728,4475 1913,4474 2148,4475 2289,4473"/>
+                <TextEquiv>
+                    <Unicode>zeichnungen ergibt, unter weſentlich verſchiedenen klima⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="1260,4487 2288,4482 2288,4482 2288,4524 1260,4528"/>
+                <Baseline points="1260,4522 1362,4521 1614,4521 1778,4520 1947,4520 2034,4520 2112,4519 2293,4517"/>
+                <TextEquiv>
+                    <Unicode>tiſchen Verhältniſſen erhalten wurden als die Samen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="1260,4543 1274,4532 2250,4529 2290,4538 2290,4567 1260,4571"/>
+                <Baseline points="1264,4563 1320,4564 1442,4565 1512,4563 1740,4562 1976,4561 2290,4559"/>
+                <TextEquiv>
+                    <Unicode>aus denen die verwendeten Mutterrüben ſtammten. Dazu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="1259,4575 1381,4573 2274,4573 2288,4582 2288,4617 1259,4617"/>
+                <Baseline points="1260,4606 1359,4606 1453,4606 1555,4606 1629,4606 1871,4605 2205,4605 2288,4606"/>
+                <TextEquiv>
+                    <Unicode>kamen auch noch die verſchiedenen Bodenverhältniſſe, die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="1259,4619 2288,4617 2288,4657 1259,4659"/>
+                <Baseline points="1260,4651 1334,4651 1413,4650 1625,4649 1770,4649 1999,4649 2091,4648 2185,4649 2288,4649"/>
+                <TextEquiv>
+                    <Unicode>aber, wie Strohmer früher nachgewieſen hat, von weit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="1260,4672 1278,4660 2180,4658 2255,4659 2289,4669 2289,4703 1260,4705"/>
+                <Baseline points="1259,4694 1443,4694 1602,4693 1680,4694 1745,4695 1920,4693 2008,4694 2205,4693 2289,4692"/>
+                <TextEquiv>
+                    <Unicode>geringerem Einfluß auf die Qualität und Quantität der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="1256,4706 2286,4703 2287,4742 1257,4745"/>
+                <Baseline points="1258,4739 1554,4738 1661,4738 1773,4738 2009,4737 2172,4736 2287,4736"/>
+                <TextEquiv>
+                    <Unicode>Rübenſamenernte ſind als individuelle Anlage und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="1254,4746 2288,4744 2290,4786 1254,4791"/>
+                <Baseline points="1256,4785 1370,4784 1480,4783 1692,4781 1958,4779 2055,4779 2284,4775"/>
+                <TextEquiv>
+                    <Unicode>Klima. Die geernteten Rübenſamen, die kleinknäulig</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="1257,4799 1445,4789 2288,4786 2288,4786 2288,4831 1257,4834"/>
+                <Baseline points="1257,4827 1359,4827 1455,4825 1528,4825 1658,4824 1738,4824 1822,4824 2070,4823 2158,4823 2288,4823"/>
+                <TextEquiv>
+                    <Unicode>waren und in Bezug auf ihre Keimfähigkeit weit hinter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l48" primaryLanguage="German" custom="readingOrder {index:47;}">
+                <Coords points="1258,4837 1360,4833 2215,4829 2215,4829 2263,4832 2287,4842 2287,4874 1258,4879"/>
+                <Baseline points="1258,4871 1427,4870 1526,4869 1817,4869 2072,4866 2208,4866 2287,4866"/>
+                <TextEquiv>
+                    <Unicode>derjenigen des Normalſamens zurückblieben, kamen im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l49" primaryLanguage="German" custom="readingOrder {index:48;}">
+                <Coords points="1254,4879 1268,4880 2201,4876 2286,4876 2286,4916 1254,4921"/>
+                <Baseline points="1256,4911 1352,4913 1444,4913 1506,4910 1803,4910 2045,4908 2205,4906 2287,4906"/>
+                <TextEquiv>
+                    <Unicode>Jahre 1910 in Groß⸗Zinkendorf (Oedenburger Komitat) und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l50" primaryLanguage="German" custom="readingOrder {index:49;}">
+                <Coords points="1257,4924 2216,4918 2216,4918 2288,4920 2288,4959 1257,4965"/>
+                <Baseline points="1257,4957 1289,4957 1473,4956 1843,4955 2046,4952 2134,4952 2192,4952 2287,4951"/>
+                <TextEquiv>
+                    <Unicode>in Dürnkrut (niederöſterreichiſches Marchfeld), alſo in zwei</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l51" primaryLanguage="German" custom="readingOrder {index:50;}">
+                <Coords points="1256,4973 1272,4965 2134,4962 2134,4962 2242,4969 2287,4973 2287,5004 1256,5007"/>
+                <Baseline points="1257,4999 1415,4999 1656,4998 1913,4998 2069,4996 2182,4998 2288,4996"/>
+                <TextEquiv>
+                    <Unicode>weſentlich voneinander verſchiedenen Lagen, zum ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l52" primaryLanguage="German" custom="readingOrder {index:51;}">
+                <Coords points="1257,5021 1281,5008 2265,5005 2265,5005 2283,5006 2283,5048 1257,5052"/>
+                <Baseline points="1259,5044 1441,5045 1557,5043 1647,5043 1747,5042 1947,5043 2065,5042 2189,5042 2282,5040"/>
+                <TextEquiv>
+                    <Unicode>gleichenden Anbau. An den genannten Orten wurde auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l53" primaryLanguage="German" custom="readingOrder {index:52;}">
+                <Coords points="1256,5055 2285,5050 2285,5050 2285,5091 1256,5096"/>
+                <Baseline points="1256,5090 1402,5088 1697,5085 1914,5085 2019,5084 2101,5084 2286,5084"/>
+                <TextEquiv>
+                    <Unicode>derjenige Normalſamen angebaut, der in derſelben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l54" primaryLanguage="German" custom="readingOrder {index:53;}">
+                <Coords points="1255,5096 2285,5093 2285,5093 2285,5136 1255,5138"/>
+                <Baseline points="1257,5132 1379,5131 1561,5130 1757,5131 1854,5129 1981,5130 2049,5130 2123,5130 2285,5129"/>
+                <TextEquiv>
+                    <Unicode>Gegend (Böhmen) erwachſen war, woher die am Brenner</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l55" primaryLanguage="German" custom="readingOrder {index:54;}">
+                <Coords points="1256,5140 2285,5139 2286,5181 1256,5186"/>
+                <Baseline points="1258,5173 1451,5174 1688,5175 1878,5172 1959,5174 2205,5171 2285,5172"/>
+                <TextEquiv>
+                    <Unicode>ausgeſetzten Mutterrüben ſtammten. Die Unterſuchung der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r10l56" primaryLanguage="German" custom="readingOrder {index:55;}">
+                <Coords points="1253,5187 1264,5185 2284,5181 2289,5226 2115,5230 1253,5234"/>
+                <Baseline points="1253,5220 1351,5220 1538,5218 1810,5218 1936,5221 2107,5216 2182,5217 2286,5216"/>
+                <TextEquiv>
+                    <Unicode>hiebei erhaltenen Nachkommen ſollte dartun, ob das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:11;}">
+            <Coords points="2330,2759 3440,2766 3441,5025 3441,5284 2321,5282 2320,5016"/>
+            <TextLine id="r11l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2344,2775 3377,2774 3377,2817 2344,2817"/>
+                <Baseline points="2344,2808 2444,2808 2669,2809 2794,2807 3008,2808 3104,2807 3196,2806 3264,2806 3377,2807"/>
+                <TextEquiv>
+                    <Unicode>alpine Höhenklima derart eingewirkt hat, daß die Ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2344,2827 2366,2818 2366,2818 3327,2819 3344,2821 3377,2828 3377,2861 2344,2860"/>
+                <Baseline points="2344,2852 2504,2853 2739,2854 2955,2854 3204,2854 3377,2853"/>
+                <TextEquiv>
+                    <Unicode>erbbarkeit anerzogener wertvoller Eigenſchaften darunter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="2344,2862 3374,2862 3375,2907 2345,2907"/>
+                <Baseline points="2344,2894 2393,2892 2499,2894 2652,2894 2882,2894 2969,2892 3050,2895 3175,2895 3298,2896 3374,2894"/>
+                <TextEquiv>
+                    <Unicode>litt oder, anders ausgedrückt, ob die durch Zucht er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2342,2910 2392,2907 3292,2906 3357,2911 3375,2915 3375,2949 2342,2950"/>
+                <Baseline points="2342,2940 2502,2941 2701,2942 2975,2942 3055,2940 3192,2941 3373,2939"/>
+                <TextEquiv>
+                    <Unicode>worbenen wertvollen Eigenſchaften in dieſer Richtung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="2343,2959 2375,2951 3375,2950 3375,2950 3375,2990 2343,2991"/>
+                <Baseline points="2343,2983 2415,2983 2577,2984 2708,2985 2802,2984 2898,2984 3053,2983 3123,2985 3373,2982"/>
+                <TextEquiv>
+                    <Unicode>auch klimafeſt waren. Was nun zunächſt die Erntereſultate</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="2341,2999 2377,2994 2501,2993 2501,2993 3374,2995 3374,3037 2341,3035"/>
+                <Baseline points="2341,3027 2501,3027 2574,3028 2663,3029 2732,3030 2849,3030 2919,3029 2987,3031 3119,3030 3374,3029"/>
+                <TextEquiv>
+                    <Unicode>anbetrifft, ſo war die Form der an beiden Verſuchsorten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="2343,3047 2358,3038 2750,3037 2750,3037 3373,3037 3373,3080 2343,3080"/>
+                <Baseline points="2343,3072 2512,3072 2672,3073 2787,3073 2932,3073 3031,3069 3232,3072 3291,3071 3373,3072"/>
+                <TextEquiv>
+                    <Unicode>erhaltenen Rüben keine andere als diejenige bei den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="2342,3091 2450,3081 3279,3080 3279,3080 3358,3081 3373,3090 3373,3123 2342,3125"/>
+                <Baseline points="2342,3117 2501,3117 2646,3116 2755,3116 2965,3115 3029,3115 3125,3115 3227,3115 3373,3115"/>
+                <TextEquiv>
+                    <Unicode>normalen Rüben, wie ferner auch in Bezug auf Farbe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="2343,3134 2389,3126 2570,3124 2570,3124 3351,3124 3373,3126 3373,3168 2343,3168"/>
+                <Baseline points="2343,3160 2407,3160 2551,3161 2644,3160 2803,3160 2959,3160 3180,3160 3263,3160 3371,3160"/>
+                <TextEquiv>
+                    <Unicode>und Form der Blätter keinerlei Unterſchiede zu beob⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="2343,3178 2363,3170 2434,3167 2434,3167 3355,3169 3374,3177 3374,3212 2343,3210"/>
+                <Baseline points="2343,3202 2441,3203 2509,3203 2590,3203 2695,3204 2870,3204 2973,3204 3042,3205 3268,3203 3374,3204"/>
+                <TextEquiv>
+                    <Unicode>achten waren. Des weiteren war im Zuckergehalt kein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="2341,3213 3372,3213 3372,3255 2341,3255"/>
+                <Baseline points="2341,3247 2613,3247 2845,3248 3058,3247 3148,3248 3261,3247 3372,3247"/>
+                <TextEquiv>
+                    <Unicode>bemerkenswerter Unterſchied zwiſchen den aus den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="2341,3257 2357,3255 3216,3254 3216,3254 3297,3256 3373,3265 3373,3299 2341,3300"/>
+                <Baseline points="2341,3292 2581,3292 2673,3292 2762,3292 2849,3290 3111,3292 3199,3291 3373,3291"/>
+                <TextEquiv>
+                    <Unicode>Brennerſamen und den aus Normalſamen von Böhmen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="2342,3311 2425,3300 3341,3300 3341,3300 3372,3309 3372,3342 2342,3343"/>
+                <Baseline points="2342,3335 2503,3336 2633,3336 2695,3336 2878,3334 3048,3332 3171,3333 3281,3334 3372,3334"/>
+                <TextEquiv>
+                    <Unicode>erzogenen Rüben zu bemerken, woraus folgt, daß der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="2342,3345 2538,3344 2538,3344 3371,3345 3371,3387 2342,3386"/>
+                <Baseline points="2341,3378 2548,3376 2669,3378 2756,3376 2844,3378 2943,3377 3284,3378 3370,3379"/>
+                <TextEquiv>
+                    <Unicode>Zuckergehalt ſohin bei der auf Individualausleſe be⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="2340,3388 3323,3387 3323,3387 3370,3388 3370,3406 3363,3431 2340,3432"/>
+                <Baseline points="2340,3424 2494,3424 2766,3424 2945,3423 3036,3424 3173,3423 3371,3423"/>
+                <TextEquiv>
+                    <Unicode>ruhenden Familienzucht tatſächlich ein „ererbt Erbliches“</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="2341,3443 2361,3434 2365,3433 3372,3431 3372,3431 3372,3473 2341,3476"/>
+                <Baseline points="2344,3468 2497,3468 2563,3467 2609,3465 2831,3466 2941,3466 3372,3465"/>
+                <TextEquiv>
+                    <Unicode>geworden iſt, unabhängig von Standortsverhältniſſen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="2343,3476 3357,3478 3367,3487 3367,3521 2343,3519"/>
+                <Baseline points="2341,3511 2510,3510 2561,3511 2606,3513 2675,3511 2760,3511 2913,3511 3021,3510 3148,3512 3367,3513"/>
+                <TextEquiv>
+                    <Unicode>Düngung u. ſ. w. und auch durch einmalige weitgehende</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="2343,3524 3369,3521 3371,3563 2343,3563"/>
+                <Baseline points="2340,3555 2513,3556 2674,3555 2747,3557 2849,3554 3197,3553 3297,3554 3368,3552"/>
+                <TextEquiv>
+                    <Unicode>klimatiſche Einflüſſe auf eine Zwiſchengeneration nicht ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="2342,3571 2385,3567 2475,3564 2475,3564 3334,3564 3354,3565 3369,3574 3369,3609 2342,3609"/>
+                <Baseline points="2342,3601 2446,3602 2555,3601 2648,3602 2743,3600 2830,3600 2926,3601 3145,3600 3369,3601"/>
+                <TextEquiv>
+                    <Unicode>ändert wird. Da ſich auch keine weſentlichen Unterſchiede</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="2340,3612 2456,3608 3348,3607 3348,3607 3369,3608 3369,3651 2340,3653"/>
+                <Baseline points="2340,3645 2383,3645 2533,3644 2703,3642 2872,3645 2985,3645 3369,3643"/>
+                <TextEquiv>
+                    <Unicode>im Aſchen⸗, Stickſtoff⸗, Kali⸗ und Phosphorſäuregehalt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="2340,3654 3367,3653 3367,3694 2341,3697"/>
+                <Baseline points="2340,3688 2477,3687 2642,3687 2732,3688 2993,3687 3157,3686 3237,3687 3295,3687 3367,3687"/>
+                <TextEquiv>
+                    <Unicode>zwiſchen Normal⸗ und Brennerrüben ergaben, ſo iſt der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="2342,3698 3369,3695 3369,3740 2342,3742"/>
+                <Baseline points="2342,3733 2462,3731 2697,3732 2794,3734 2878,3732 2947,3733 3066,3732 3193,3732 3273,3732 3369,3730"/>
+                <TextEquiv>
+                    <Unicode>Schluß gerechtfertigt, daß auch die außer Zucker den Wert</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="2341,3744 2355,3741 3276,3740 3276,3740 3369,3749 3369,3785 2341,3786"/>
+                <Baseline points="2341,3778 2390,3777 2616,3779 2848,3777 3008,3778 3180,3776 3284,3775 3369,3777"/>
+                <TextEquiv>
+                    <Unicode>der Zuckerrüben bedingenden anderen Faktoren nicht nur</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="2341,3788 2354,3785 3366,3782 3366,3782 3366,3826 2341,3830"/>
+                <Baseline points="2341,3822 2423,3821 2491,3822 2657,3819 2842,3821 3066,3819 3246,3820 3306,3820 3365,3818"/>
+                <TextEquiv>
+                    <Unicode>durch die moderne Hochzucht anerzogen, ſondern auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="2340,3834 3368,3829 3368,3869 2340,3874"/>
+                <Baseline points="2340,3867 2479,3864 2658,3865 2755,3866 2858,3864 2944,3862 3207,3863 3294,3863 3368,3861"/>
+                <TextEquiv>
+                    <Unicode>klimafeſt geworden ſind. Aus den Beobachtungen läßt ſich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="2341,3875 2426,3876 3366,3874 3366,3917 2341,3919"/>
+                <Baseline points="2341,3908 2435,3910 2510,3908 2652,3908 2800,3909 2923,3910 3146,3909 3234,3906 3366,3909"/>
+                <TextEquiv>
+                    <Unicode>ferner der Schluß ziehen, daß Mutterrüben von hohem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="2340,3922 3367,3917 3367,3959 2340,3964"/>
+                <Baseline points="2342,3956 2530,3955 2672,3954 2761,3953 2924,3953 3263,3951 3366,3950"/>
+                <TextEquiv>
+                    <Unicode>Zuckergehalt, aber von geringer Wachstumsenergie auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="2339,3965 3368,3962 3368,4005 2339,4008"/>
+                <Baseline points="2338,3997 2460,3997 2599,3998 2734,3999 2861,4000 2971,3998 3183,3997 3371,3993"/>
+                <TextEquiv>
+                    <Unicode>Knäule von geringerer Größe und geringerer Keimkraft</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="2338,4019 2354,4008 3346,4005 3346,4005 3366,4015 3366,4049 2338,4052"/>
+                <Baseline points="2338,4044 2464,4042 2555,4041 2654,4041 2820,4040 2979,4043 3097,4041 3224,4040 3366,4041"/>
+                <TextEquiv>
+                    <Unicode>ergeben, daß aber dieſelben trotzdem befähigt ſind, unter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="2339,4053 2350,4051 3233,4047 3233,4047 3367,4049 3367,4092 2339,4095"/>
+                <Baseline points="2339,4088 2424,4087 2669,4088 2799,4087 2914,4086 3087,4085 3152,4085 3291,4085 3367,4084"/>
+                <TextEquiv>
+                    <Unicode>ihren Nachkommen Rüben beſter Qualität zu liefern. Da</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="2340,4096 3367,4094 3367,4094 3367,4136 2340,4137"/>
+                <Baseline points="2340,4131 2409,4131 2504,4131 2649,4131 2758,4131 3005,4130 3258,4129 3367,4129"/>
+                <TextEquiv>
+                    <Unicode>aber die Samen von zuckerreichen Mutterrüben eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="2339,4140 2403,4138 3366,4136 3366,4136 3366,4178 2339,4181"/>
+                <Baseline points="2336,4173 2502,4175 2840,4173 2899,4172 3021,4172 3068,4173 3243,4172 3367,4170"/>
+                <TextEquiv>
+                    <Unicode>ſchwächere Wachstumsenergie und eine geringere Keim⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="2339,4185 3365,4182 3365,4182 3365,4223 2339,4225"/>
+                <Baseline points="2339,4219 2409,4218 2557,4218 2640,4218 2779,4219 2944,4218 3029,4218 3273,4216 3365,4216"/>
+                <TextEquiv>
+                    <Unicode>kraft beſitzen, ſo ſollten, trotzdem ihre Nachkommen beſte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="2344,4227 2351,4226 3281,4224 3281,4224 3352,4234 3366,4236 3366,4270 2344,4271"/>
+                <Baseline points="2344,4264 2525,4263 2612,4262 2761,4263 2941,4261 3091,4260 3167,4260 3280,4260 3366,4262"/>
+                <TextEquiv>
+                    <Unicode>Qualitäten und Erträge aufweiſen können, zur Zucht nur</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="2338,4282 2373,4271 3366,4270 3366,4312 2338,4313"/>
+                <Baseline points="2339,4305 2515,4306 2759,4306 2922,4304 3263,4303 3366,4304"/>
+                <TextEquiv>
+                    <Unicode>zuckerreiche Samenrüben größter Wachstumsenergie ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="2337,4317 3369,4313 3369,4354 2337,4356"/>
+                <Baseline points="2337,4351 2451,4350 2601,4349 2663,4348 2748,4350 2842,4350 2981,4350 3091,4349 3235,4349 3363,4348"/>
+                <TextEquiv>
+                    <Unicode>wendet werden, da nur dieſe Rüben einen Samen liefern,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="2337,4362 2401,4360 3318,4357 3377,4366 3377,4399 2337,4403"/>
+                <Baseline points="2337,4395 2387,4393 2515,4395 2783,4394 3136,4393 3161,4391 3271,4393 3363,4391"/>
+                <TextEquiv>
+                    <Unicode>der unter gewöhnlichen Anbauverhältniſſen einen ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="2337,4404 3376,4401 3376,4445 2337,4447"/>
+                <Baseline points="2338,4437 2509,4438 2636,4438 2709,4438 2952,4437 3192,4436 3363,4435"/>
+                <TextEquiv>
+                    <Unicode>ſchloſſenen Stand der Nachkommen gewährleiſtet. Obwohl,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="2336,4448 3375,4445 3375,4481 3367,4488 2336,4488"/>
+                <Baseline points="2336,4483 2392,4482 2523,4483 2680,4482 2757,4479 2841,4481 2929,4481 3188,4477 3369,4480"/>
+                <TextEquiv>
+                    <Unicode>wie bereits bemerkt, der von den Brennerrüben erhaltene</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="2337,4492 3318,4489 3318,4489 3362,4499 3362,4531 2337,4534"/>
+                <Baseline points="2337,4526 2459,4525 2684,4525 2782,4523 2843,4522 2945,4525 2999,4525 3109,4525 3187,4524 3261,4523 3359,4523"/>
+                <TextEquiv>
+                    <Unicode>Samen kleinknäulig war, ſo kann er doch, wie die Ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="2336,4535 3364,4532 3364,4532 3364,4575 2336,4578"/>
+                <Baseline points="2334,4570 2414,4571 2542,4568 2672,4569 2795,4569 2877,4569 3112,4569 3199,4569 3364,4567"/>
+                <TextEquiv>
+                    <Unicode>ſuche gezeigt haben, ebenſo wie Rübenſamen von Normal⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="2335,4580 3363,4576 3363,4619 2335,4623"/>
+                <Baseline points="2335,4614 2431,4612 2563,4611 2731,4611 2823,4612 2884,4612 3029,4610 3087,4611 3192,4611 3362,4610"/>
+                <TextEquiv>
+                    <Unicode>rüben Rüben liefern, die in Bezug auf Zuckergehalt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="2337,4624 3364,4621 3364,4621 3364,4665 2337,4666"/>
+                <Baseline points="2337,4660 2465,4657 2550,4658 2628,4658 2779,4658 3025,4656 3122,4656 3234,4656 3364,4657"/>
+                <TextEquiv>
+                    <Unicode>Gewicht und alle anderen Eigenſchaften einer guten Zucker⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l44" primaryLanguage="German" custom="readingOrder {index:43;}">
+                <Coords points="2335,4678 2346,4667 3275,4665 3362,4673 3362,4708 2335,4710"/>
+                <Baseline points="2335,4702 2409,4702 2621,4701 2793,4702 2884,4699 2997,4699 3228,4700 3362,4700"/>
+                <TextEquiv>
+                    <Unicode>rübe entſprechen. Nachdem aber ſolch kleinknäuliger Samen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l45" primaryLanguage="German" custom="readingOrder {index:44;}">
+                <Coords points="2336,4712 3365,4707 3365,4746 2338,4754"/>
+                <Baseline points="2336,4744 2399,4743 2592,4741 2759,4742 2966,4740 3096,4739 3213,4741 3366,4739"/>
+                <TextEquiv>
+                    <Unicode>eine geringere relative Keimkraft beſitzt, ſo kann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l46" primaryLanguage="German" custom="readingOrder {index:45;}">
+                <Coords points="2335,4754 3361,4750 3361,4750 3361,4792 2335,4795"/>
+                <Baseline points="2335,4789 2441,4789 2497,4788 2585,4788 2708,4788 2810,4788 2905,4786 2995,4787 3233,4787 3361,4785"/>
+                <TextEquiv>
+                    <Unicode>letztere in dem Falle, als nicht die entſprechende Mehr⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l47" primaryLanguage="German" custom="readingOrder {index:46;}">
+                <Coords points="2335,4805 2362,4798 3325,4797 3362,4795 3362,4840 2335,4842"/>
+                <Baseline points="2335,4834 2439,4832 2536,4833 2677,4832 2825,4831 2965,4831 3205,4831 3362,4832"/>
+                <TextEquiv>
+                    <Unicode>menge zum Anbau kommt, einen lückenhaften Beſtand</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l48" primaryLanguage="German" custom="readingOrder {index:47;}">
+                <Coords points="2334,4841 2377,4841 3361,4840 3360,4883 2334,4885"/>
+                <Baseline points="2334,4877 2383,4877 2663,4877 2835,4876 3019,4875 3108,4874 3270,4874 3362,4875"/>
+                <TextEquiv>
+                    <Unicode>der aufgegangenen Pflanzen bedingen. Da, privaten Mit⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l49" primaryLanguage="German" custom="readingOrder {index:48;}">
+                <Coords points="2334,4887 2362,4885 3336,4887 3359,4893 3359,4927 2334,4925"/>
+                <Baseline points="2335,4917 2487,4920 2646,4919 2854,4919 2961,4919 3127,4918 3359,4919"/>
+                <TextEquiv>
+                    <Unicode>teilungen zufolge, Strohmer ſeine Verſuche fortzuſetzen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l50" primaryLanguage="German" custom="readingOrder {index:49;}">
+                <Coords points="2329,4940 2345,4930 3315,4927 3366,4928 3366,4940 3364,4970 3270,4967 2329,4970"/>
+                <Baseline points="2332,4962 2461,4962 2593,4962 2719,4962 2821,4962 3029,4960 3226,4959 3283,4960 3358,4959"/>
+                <TextEquiv>
+                    <Unicode>gedenkt, dürften noch ſehr intereſſante Ergebniſſe zu er⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l51" primaryLanguage="German" custom="readingOrder {index:50;}">
+                <Coords points="2324,4978 2520,4971 2541,4984 2541,5009 2526,5028 2468,5028 2326,5019"/>
+                <Baseline points="2334,5009 2446,5009 2541,5009"/>
+                <TextEquiv>
+                    <Unicode>warten ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l52" primaryLanguage="German" custom="readingOrder {index:51;}">
+                <Coords points="2409,5051 2523,5048 3359,5047 3359,5047 3359,5092 2409,5094"/>
+                <Baseline points="2409,5086 2572,5085 2672,5084 2816,5084 2954,5084 3030,5085 3262,5084 3360,5084"/>
+                <TextEquiv>
+                    <Unicode>Weiterhin hat ſich Strohmer, in Verbindung mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l53" primaryLanguage="German" custom="readingOrder {index:52;}">
+                <Coords points="2331,5095 3324,5091 3324,5091 3363,5100 3363,5134 2331,5138"/>
+                <Baseline points="2331,5130 2438,5129 2526,5128 2691,5127 2797,5127 2887,5128 3038,5125 3139,5127 3360,5126"/>
+                <TextEquiv>
+                    <Unicode>Briem und Fallada, mit dem Einfluß der Belichtung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+            <TextLine id="r11l54" primaryLanguage="German" custom="readingOrder {index:53;}">
+                <Coords points="2332,5150 2367,5139 2508,5135 3356,5135 3356,5135 3356,5181 2332,5182"/>
+                <Baseline points="2332,5174 2389,5173 2456,5172 2784,5172 2854,5171 3060,5172 3224,5171 3356,5173"/>
+                <TextEquiv>
+                    <Unicode>auf die Zuſammenſetzung der Zuckerrübe beſchäftigt, bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l55" primaryLanguage="German" custom="readingOrder {index:54;}">
+                <Coords points="2330,5184 2350,5181 2350,5181 3356,5181 3356,5221 3009,5227 2361,5227 2330,5221"/>
+                <Baseline points="2330,5221 2399,5220 2529,5219 2662,5221 2830,5219 2975,5220 3095,5220 3175,5219 3269,5219 3356,5221"/>
+                <TextEquiv>
+                    <Unicode>dem es ſich darum handelte, einmal etwas über die Ab⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:12;}">
+            <Coords points="0,0 3488,0 3488,56 0,56"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:13;}">
+            <Coords points="244,192 3346,192 3346,206 244,206"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:14;}">
+            <Coords points="1122,222 2386,222 2386,268 1122,268"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:15;}">
+            <Coords points="476,2672 2342,2672 2342,2724 476,2724"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:16;}">
+            <Coords points="196,2728 3374,2728 3374,2752 196,2752"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:17;}">
+            <Coords points="198,2742 2570,2742 2570,2758 198,2758"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:18;}">
+            <Coords points="2570,2754 3374,2754 3374,2760 2570,2760"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:19;}">
+            <Coords points="0,0 42,0 42,5361 0,5361"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:20;}">
+            <Coords points="184,1604 238,1604 238,2702 184,2702"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:21;}">
+            <Coords points="190,488 244,488 244,1544 190,1544"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:22;}">
+            <Coords points="1224,2798 1248,2798 1248,5214 1224,5214"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:23;}">
+            <Coords points="1700,518 1736,518 1736,972 1700,972"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:24;}">
+            <Coords points="1724,1380 1754,1380 1754,1736 1724,1736"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:25;}">
+            <Coords points="2302,3336 2322,3336 2322,5210 2302,5210"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:26;}">
+            <Coords points="2314,2796 2324,2796 2324,3168 2314,3168"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:27;}">
+            <Coords points="3328,976 3382,976 3382,2706 3328,2706"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:28;}">
+            <Coords points="3482,72 3488,72 3488,412 3482,412"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:29;}">
+            <Coords points="1972,212 2148,212 2148,218 1972,218"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:30;}">
+            <Coords points="2724,2750 2904,2750 2904,2752 2724,2752"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

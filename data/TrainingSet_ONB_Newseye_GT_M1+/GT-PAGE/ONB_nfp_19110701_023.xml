@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>University of Innsbruck</Creator>
+        <Created>2018-11-29T10:11:00.397+01:00</Created>
+        <LastChange>2023-04-25T10:52:28.299+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+        <TranskribusMetadata docId="1394947" pageId="53863278" pageNr="133" tsid="119418254" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DBQIFJPBDGVCBVCSLIQMZOAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNFTMGIRHHIZXJORJJKTRRZC" imageId="38488990"/>
+    </Metadata>
+    <Page imageFilename="ONB_nfp_19110701_023.tif" imageWidth="3488" imageHeight="5358">
+        <PrintSpace>
+            <Coords points="0,0 3488,0 3488,5358 0,5358"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1682495881593" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r7"/>
+                <RegionRefIndexed index="7" regionRef="r8"/>
+                <RegionRefIndexed index="8" regionRef="r9"/>
+                <RegionRefIndexed index="9" regionRef="r10"/>
+                <RegionRefIndexed index="10" regionRef="r11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="215,104 456,107 457,167 216,164"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="234,114 442,114 449,161 425,160 233,160"/>
+                <Baseline points="238,155 431,155"/>
+                <TextEquiv>
+                    <Unicode>Nr. 16830</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="789,94 1130,95 1130,170 789,169"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="810,118 1093,118 1094,167 813,163"/>
+                <Baseline points="816,155 1090,156"/>
+                <TextEquiv>
+                    <Unicode>Wien, Samstag</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="1496,107 2132,107 2132,175 1496,175"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1517,121 2109,124 2109,167 1529,167 1515,163"/>
+                <Baseline points="1521,160 1676,161 1859,162 2099,163"/>
+                <TextEquiv>
+                    <Unicode>Neue Freie Presse.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2485,116 2775,115 2774,178 2484,179"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2506,126 2544,128 2719,129 2755,133 2747,175 2544,173 2508,173"/>
+                <Baseline points="2513,168 2546,168 2636,168 2742,168"/>
+                <TextEquiv>
+                    <Unicode>1. Juli 1911</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="3126,112 3372,114 3373,181 3127,179"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="3172,131 3276,129 3347,133 3349,176 3171,177"/>
+                <Baseline points="3181,172 3266,173 3336,173"/>
+                <TextEquiv>
+                    <Unicode>Seite 23</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r6" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="96,208 1056,197 2516,201 3414,213 3417,738 3431,1293 2179,1312 1363,1308 94,1297 104,737"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1046,201 2517,208 2535,334 2329,330 1318,321 1048,319"/>
+                <Baseline points="1056,309 2512,320"/>
+                <TextEquiv>
+                    <Unicode>INTERNATIONALE</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
+            </TextLine>
+            <TextLine id="r6l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="549,382 662,379 2546,393 3041,399 3044,541 2742,542 588,533 541,534"/>
+                <Baseline points="553,518 3026,528"/>
+                <TextEquiv>
+                    <Unicode>HYGIENE-AUSSTELLUNG</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Courier New" fontSize="32.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r6l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1364,607 1438,604 2147,602 2173,605 2212,638 2212,698 2191,697 1584,696 1365,691"/>
+                <Baseline points="1379,684 1920,685 2196,690"/>
+                <TextEquiv>
+                    <Unicode>DRESDEN 1911.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="157,736 3399,749 3402,1184 1618,1190 161,1149"/>
+                <Baseline points="192,1116 1630,1123 3370,1128"/>
+                <TextEquiv>
+                    <Unicode>Weltausstellung für Gesundheitspflege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1376,1207 1971,1210 2162,1212 2195,1262 2201,1291 2159,1291 1475,1288 1368,1285"/>
+                <Baseline points="1391,1274 2179,1283"/>
+                <TextEquiv>
+                    <Unicode>MAI — OKTOBER.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r7" custom="readingOrder {index:6;}">
+            <Coords points="171,1350 3416,1354 3406,1774 3422,2934 3428,4048 170,4046 170,3680 170,2948 175,1775"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="330,1430 690,1430 689,1551 329,1551"/>
+                <Baseline points="337,1534 686,1534"/>
+                <TextEquiv>
+                    <Unicode>Dresden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="719,1438 844,1437 3185,1451 3236,1457 3236,1494 3212,1504 717,1491"/>
+                <Baseline points="725,1478 904,1480 1120,1480 1340,1480 1444,1481 1751,1482 1898,1484 2120,1484 2231,1485 2479,1487 2617,1487 2690,1488 2856,1488 2996,1490 3082,1492 3222,1493"/>
+                <TextEquiv>
+                    <Unicode>Sachsens herrliche Residenz, das Wallfahrtsziel vieler Tausende von Besuchern, birgt in diesem Jahre die Welt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="717,1502 912,1499 3223,1513 3228,1566 718,1551"/>
+                <Baseline points="724,1537 807,1539 856,1540 961,1537 1033,1539 1416,1542 1481,1543 1630,1543 1820,1545 1922,1546 2092,1547 2185,1547 2324,1546 2388,1548 2546,1549 2808,1551 2946,1551 3055,1552 3222,1552"/>
+                <TextEquiv>
+                    <Unicode>ausstellung für Gesundheitspflege in seinen Mauern. Im Herzen der Stadt, in einem prachtvollen Park, dem König-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="337,1559 480,1558 692,1562 3215,1572 3231,1578 3231,1621 3147,1623 337,1611"/>
+                <Baseline points="339,1602 458,1601 645,1601 821,1600 978,1600 1079,1602 1165,1603 1375,1603 1473,1604 1551,1604 1650,1605 1868,1606 1925,1607 2185,1609 2551,1611 2874,1611 3221,1616"/>
+                <TextEquiv>
+                    <Unicode>lichen Grossen Garten, erhebt sich ein Komplex von za. 100 Gebäuden in grossartiger architektonischer Einheitlichkeit, weisschimmernd</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="326,1632 375,1625 621,1620 1742,1628 2535,1634 2764,1636 2870,1637 2903,1665 2903,1675 2849,1686 434,1675 329,1670"/>
+                <Baseline points="340,1661 405,1662 571,1662 781,1661 887,1663 1017,1662 1103,1663 1222,1661 1463,1663 1706,1664 1973,1667 2073,1669 2287,1669 2350,1671 2553,1672 2701,1673 2880,1672"/>
+                <TextEquiv>
+                    <Unicode>mit grünen Dächern, eine Stadt für sich, Belehrung, Anregung, Zerstreuung und Erholung in gleichem Masse bietend.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="493,1703 685,1701 3185,1713 3226,1717 3226,1758 3209,1763 493,1749"/>
+                <Baseline points="494,1741 570,1740 830,1740 904,1741 991,1739 1163,1742 1257,1740 1450,1742 1666,1744 1804,1744 1987,1748 2054,1746 2189,1748 2400,1749 2499,1750 2614,1751 2711,1751 2879,1752 2971,1754 3218,1754"/>
+                <TextEquiv>
+                    <Unicode>Der Ausstellung ist die Lösung der Aufgabe gelungen, den Menschen in leicht fasslicher Art über alle Fragen der Gesundheit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="325,1769 406,1762 455,1761 555,1761 2049,1769 3203,1778 3227,1799 3227,1808 3222,1824 3186,1826 328,1811"/>
+                <Baseline points="338,1802 385,1803 590,1801 685,1802 829,1803 982,1802 1119,1802 1330,1803 1455,1805 1584,1805 1670,1806 1915,1807 2042,1807 2134,1810 2341,1811 2433,1812 2552,1811 2790,1813 3012,1814 3114,1814 3217,1814"/>
+                <TextEquiv>
+                    <Unicode>zu belehren. In einem Palast, „Der Mensch“, etwa 6000 qm bedeckend, wird der Besucher mit ganz neuartigen Methoden und An-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="325,1833 378,1820 573,1819 2812,1834 3092,1834 3135,1836 3221,1837 3234,1861 3231,1886 3196,1887 334,1874"/>
+                <Baseline points="340,1862 656,1862 854,1863 1125,1864 1250,1865 1335,1866 1649,1867 1738,1868 2033,1871 2222,1871 2298,1871 2428,1873 2589,1872 2766,1873 2889,1871 3025,1873 3221,1875"/>
+                <TextEquiv>
+                    <Unicode>schauungsmittel spielend unterrichtet über die Beschaffenheit des menschlichen Körpers in allen seinen Teilen, über seine Lebens-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="336,1884 3110,1896 3160,1896 3227,1902 3232,1948 3201,1944 335,1936"/>
+                <Baseline points="341,1925 531,1923 662,1924 755,1924 1046,1925 1161,1926 1479,1927 1578,1928 1774,1929 1888,1930 1985,1931 2259,1932 2381,1932 2638,1932 2776,1934 2903,1933 3018,1934 3112,1935 3219,1934"/>
+                <TextEquiv>
+                    <Unicode>vorgänge, über die Krankheiten und Schädigungen des Körpers und die Möglichkeit ihrer Verhütung; über alles, was mit dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="328,1946 460,1949 484,1948 532,1947 580,1946 3114,1956 3168,1959 3227,1972 3228,2010 327,1995"/>
+                <Baseline points="337,1986 603,1985 754,1985 1120,1986 1291,1988 1392,1988 1620,1988 1844,1990 1946,1992 2175,1991 2308,1993 2392,1994 2645,1995 2772,1995 2974,1996 3221,1997"/>
+                <TextEquiv>
+                    <Unicode>menschlichen Leben zusammenhängt: Arbeit und Erholung, Wohnung und Kleidung; über die Grundsätze einer richtigen Ernährung</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="321,2013 372,2003 657,2004 1130,2007 1855,2012 1879,2017 1896,2044 1891,2066 693,2059 328,2057"/>
+                <Baseline points="336,2048 427,2046 490,2047 741,2047 917,2047 1189,2048 1281,2049 1637,2050 1879,2052"/>
+                <TextEquiv>
+                    <Unicode>wird in besonderen grossen Abteilungen das Wissenswerteste dargestellt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="489,2081 3218,2097 3227,2150 488,2137"/>
+                <Baseline points="493,2126 540,2126 721,2125 873,2125 1092,2126 1436,2128 1511,2130 1927,2129 2101,2133 2184,2133 2457,2134 2662,2132 2750,2135 2864,2134 2957,2135 3060,2137 3216,2136"/>
+                <TextEquiv>
+                    <Unicode>So werden jedem Besucher gewissermassen in Unterhaltungsform Schätze an Kenntnissen geboten, die ihm für sein ganzes</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="323,2162 350,2147 514,2145 554,2144 573,2144 1378,2152 1424,2153 1471,2166 1479,2197 1055,2200 339,2206 323,2194"/>
+                <Baseline points="336,2188 495,2187 646,2187 745,2186 1014,2188 1183,2187 1288,2189 1471,2191"/>
+                <TextEquiv>
+                    <Unicode>späteres Leben von ungeahntem Nutzen sein können.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="487,2225 695,2223 735,2223 3008,2236 3206,2232 3229,2252 3236,2288 3172,2289 488,2274"/>
+                <Baseline points="492,2265 537,2265 664,2266 940,2267 1167,2266 1375,2269 1467,2269 1698,2271 1762,2272 2005,2273 2102,2273 2410,2275 2569,2275 2679,2276 2783,2276 3111,2277 3218,2279"/>
+                <TextEquiv>
+                    <Unicode>In einer Historischen Abteilung bekommt der Beschauer in Tausenden von Gegenständen Kunde von den Anschauungen, die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="331,2290 496,2285 581,2284 3161,2296 3233,2314 3233,2341 3181,2352 328,2335"/>
+                <Baseline points="336,2329 467,2327 700,2327 802,2327 887,2327 1010,2327 1175,2328 1292,2329 1388,2330 1559,2331 1648,2331 1874,2333 1978,2333 2062,2334 2443,2335 2603,2335 2759,2336 2833,2337 3217,2339"/>
+                <TextEquiv>
+                    <Unicode>unsere Vorfahren und die alten Völker über den Körper des Menschen und die Gesundheitspflege gehabt haben. In hochinteressanten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="329,2346 570,2346 2299,2355 3192,2361 3211,2375 3221,2412 329,2403"/>
+                <Baseline points="337,2389 619,2388 792,2389 877,2389 1182,2390 1326,2391 1428,2392 1747,2394 1840,2393 1941,2395 2026,2395 2110,2396 2379,2397 2693,2398 2853,2398 2940,2399 3211,2399"/>
+                <TextEquiv>
+                    <Unicode>Vorführungen werden die verschiedenen Sitten und Gewohnheiten, die sich für die Leibespflege herausgebildet hatten, die Ernährungs-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="324,2425 366,2410 488,2409 807,2409 1248,2412 1317,2420 1317,2454 1280,2464 355,2462 324,2452"/>
+                <Baseline points="337,2450 454,2449 543,2449 641,2449 729,2450 944,2451 1005,2451 1054,2451 1118,2452 1298,2452"/>
+                <TextEquiv>
+                    <Unicode>weise, die Art des Wohnens u. s. w. gezeigt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="488,2487 753,2485 3173,2501 3234,2513 3234,2540 3185,2550 485,2540"/>
+                <Baseline points="491,2527 536,2528 662,2528 930,2529 1321,2531 1549,2529 1638,2531 1716,2530 2026,2531 2172,2533 2258,2534 2495,2536 2592,2535 2658,2537 2800,2537 2975,2538 3218,2541"/>
+                <TextEquiv>
+                    <Unicode>In einer grossartigen wissenschaftlichen Abteilung mit 44 Untergruppen findet der Fachmann wie in einem grossen plastischen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="329,2547 384,2546 780,2546 2890,2555 3087,2557 3219,2561 3224,2582 3224,2591 3212,2612 339,2600 323,2596"/>
+                <Baseline points="332,2592 527,2590 645,2589 812,2590 1040,2590 1269,2591 1401,2591 1512,2593 1916,2595 2157,2596 2239,2596 2506,2596 2663,2597 2921,2596 3031,2597 3213,2598"/>
+                <TextEquiv>
+                    <Unicode>Lehrbuch und seinen einzelnen Kapiteln, von den hervorragendsten Gelehrten in jahrelanger Arbeit geschaffen, alle wissen-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="327,2625 368,2609 454,2609 587,2609 3075,2621 3227,2623 3227,2663 3185,2674 345,2661 327,2651"/>
+                <Baseline points="337,2653 572,2651 985,2652 1114,2651 1252,2653 1465,2654 1592,2654 1848,2657 2266,2658 2453,2657 2756,2658 2892,2660 3213,2663"/>
+                <TextEquiv>
+                    <Unicode>schaftlichen Errungenschaften auf dem Gebiete der modernen Gesundheitspflege streng systematisch und übersichtlich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="325,2675 448,2671 486,2670 707,2669 3124,2680 3227,2698 3227,2724 3196,2736 333,2725"/>
+                <Baseline points="334,2713 555,2711 688,2712 935,2712 1069,2713 1144,2713 1237,2715 1325,2715 1574,2716 1681,2717 1759,2717 1825,2718 1968,2717 2225,2718 2354,2719 2462,2719 2709,2719 2815,2721 3069,2722 3213,2722"/>
+                <TextEquiv>
+                    <Unicode>vorgeführt. Eine Sammlung, etwa 12 000 qm bedeckend, wie sie in dieser Vollendung nach dem Ausspruch von Fachleuten kaum</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="329,2734 385,2733 435,2732 2756,2739 2988,2739 3112,2740 3213,2744 3221,2766 3222,2798 329,2784"/>
+                <Baseline points="332,2776 371,2775 642,2773 819,2775 1260,2776 1361,2775 1480,2777 1718,2778 1812,2778 1957,2779 2221,2778 2315,2780 2446,2780 2563,2781 2674,2782 2920,2781 3214,2781"/>
+                <TextEquiv>
+                    <Unicode>in Jahrzehnten wieder zusammenzubringen ist, eine Fundstätte für jeden Hygieniker, für jeden Arzt und Teehniker, Verwaltungs-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="323,2791 618,2790 708,2796 767,2809 770,2841 708,2846 616,2844 321,2842"/>
+                <Baseline points="335,2833 501,2835 600,2834 767,2835"/>
+                <TextEquiv>
+                    <Unicode>beamten und Lehrer.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="480,2868 2814,2878 2844,2879 3116,2882 3153,2885 3213,2891 3219,2914 3214,2936 480,2925"/>
+                <Baseline points="487,2912 580,2912 902,2911 1020,2914 1083,2912 1472,2915 1717,2915 1813,2917 1879,2916 2130,2916 2386,2918 2695,2921 2786,2920 2902,2922 3210,2921"/>
+                <TextEquiv>
+                    <Unicode>Eine Sportabteilung zeigt in wissenschaftlicher Darlegung, wie in zahlreichen praktischen Vorführungen auf allen Sportgebieten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="320,2942 387,2931 421,2930 602,2931 3208,2943 3217,2996 3035,2995 321,2983"/>
+                <Baseline points="330,2974 467,2974 748,2972 957,2973 1073,2975 1259,2976 1365,2976 1737,2978 1859,2978 2123,2980 2376,2979 2481,2980 2574,2981 2798,2982 2899,2982 3024,2983 3206,2983"/>
+                <TextEquiv>
+                    <Unicode>welche segensreiche Wirkung eine richtige von Uebertreibungen freie körperliche Betätigung auf den Menschen und jedes Lebens-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="311,3006 345,2993 461,2992 571,2992 607,3000 607,3034 568,3044 352,3045 311,3036"/>
+                <Baseline points="332,3036 424,3035 590,3034"/>
+                <TextEquiv>
+                    <Unicode>alter ausübt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="480,3072 1016,3069 2964,3080 3189,3083 3219,3099 3219,3124 3190,3136 527,3126 478,3121"/>
+                <Baseline points="486,3114 679,3112 779,3113 952,3114 1069,3114 1175,3115 1318,3116 1590,3118 1689,3118 1950,3119 2258,3119 2359,3119 2568,3116 2840,3121 3058,3119 3204,3121"/>
+                <TextEquiv>
+                    <Unicode>Umrahmt und ergänzt wird jede dieser Abteilungen von zahlreichen Darbietungen der gewaltig entwickelten Industrie, (zirka</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="329,3133 494,3132 747,3133 3111,3140 3143,3143 3216,3160 3213,3194 330,3188"/>
+                <Baseline points="332,3175 473,3175 560,3174 818,3174 906,3176 990,3175 1245,3177 1450,3178 1522,3178 1619,3179 2004,3180 2303,3181 2500,3179 2587,3181 2722,3180 2814,3182 2925,3182 3009,3183 3207,3184"/>
+                <TextEquiv>
+                    <Unicode>56.000 qm umfassend), die die praktischen Beispiele zu den wissenschaftlichen Ausstellungen vorführt, die zeigt, wie weit die moderne</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="322,3195 850,3195 2829,3205 3153,3204 3214,3208 3218,3255 3070,3256 341,3246 320,3242"/>
+                <Baseline points="331,3238 512,3236 646,3236 785,3237 871,3237 1154,3238 1439,3240 1618,3239 1812,3240 1902,3240 2003,3241 2278,3241 2363,3242 2454,3242 2575,3240 2683,3243 2790,3243 2874,3243 2994,3244 3205,3246"/>
+                <TextEquiv>
+                    <Unicode>Industrie heute schon die hygienischen Erkenntnisse nutzbar gemacht hat und Anregungen für das gibt, was von ihr noch gefördert</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="320,3262 408,3254 429,3254 619,3263 615,3305 400,3308 321,3303"/>
+                <Baseline points="331,3299 401,3299 476,3298 606,3297"/>
+                <TextEquiv>
+                    <Unicode>werden muss.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="477,3333 654,3329 682,3327 1070,3331 2420,3339 3101,3341 3219,3355 3219,3387 3194,3394 477,3385"/>
+                <Baseline points="486,3377 531,3375 614,3375 901,3375 1000,3376 1312,3376 1389,3378 1526,3378 1682,3378 1820,3379 1906,3379 2077,3379 2168,3379 2355,3379 2546,3379 2790,3378 3043,3382 3209,3382"/>
+                <TextEquiv>
+                    <Unicode>In der Herkulesallee (der Völkerstrasse), an deren beiden Seiten die Paläste der fremden Staaten, grossartige hygienische Museen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="326,3392 1575,3395 3094,3401 3207,3409 3210,3456 366,3449 323,3446"/>
+                <Baseline points="331,3437 502,3435 609,3435 791,3436 893,3436 978,3436 1070,3437 1209,3437 1368,3438 1447,3438 1860,3439 2106,3438 2247,3440 2425,3440 2511,3441 2744,3441 3087,3442 3205,3445"/>
+                <TextEquiv>
+                    <Unicode>bergend, sich erheben und die das ganze Gebiet als Hauptverkehrsader durchzieht, flutet ständig ein gewaltiger Menschenstrom, hört</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="319,3462 454,3457 3197,3465 3222,3469 3222,3506 3210,3517 321,3508"/>
+                <Baseline points="330,3497 415,3496 511,3497 842,3499 934,3497 1067,3498 1164,3499 1419,3499 1556,3500 1638,3500 1781,3501 1883,3501 2077,3501 2176,3501 2289,3501 2354,3502 2481,3502 2577,3502 2641,3503 2785,3503 2958,3504 3211,3507"/>
+                <TextEquiv>
+                    <Unicode>man alle Kultursprachen der Erde. Die Ausstellung bietet ein Leben und Treiben, wie man es sonst nur in einem grossen Weltkurort</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="321,3520 368,3518 564,3519 599,3534 597,3568 319,3567"/>
+                <Baseline points="330,3558 451,3558 588,3558"/>
+                <TextEquiv>
+                    <Unicode>finden kann.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="478,3591 950,3590 3093,3603 3220,3607 3222,3645 3203,3657 480,3648"/>
+                <Baseline points="484,3637 615,3636 721,3637 1049,3637 1447,3640 1596,3639 1701,3639 1819,3640 2045,3640 2259,3641 2440,3640 2619,3640 2716,3642 2781,3642 3008,3643 3209,3646"/>
+                <TextEquiv>
+                    <Unicode>Neben dem internationalen Besucherpublikum finden sich auch zahlreiche Vertreter fremder Völker, die in nationaler Eigenart</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="328,3657 3012,3662 3180,3669 3204,3681 3209,3718 328,3706"/>
+                <Baseline points="328,3698 407,3697 549,3697 659,3697 900,3697 1133,3697 1224,3700 1345,3699 1454,3701 1519,3701 1610,3701 1834,3700 2028,3701 2270,3702 2675,3702 2924,3704 3116,3704 3203,3704"/>
+                <TextEquiv>
+                    <Unicode>ihre Sitten und Gebräuche vorführen. So sieht man in der Abteilung Ostasien japanische Kunsthandwerker; japanische Geishas, die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="323,3714 574,3715 3172,3726 3215,3728 3213,3779 319,3768"/>
+                <Baseline points="330,3758 452,3758 554,3758 728,3759 837,3758 961,3759 1135,3759 1365,3759 1623,3761 1870,3762 2164,3760 2278,3763 2505,3761 2606,3762 2885,3764 3014,3764 3207,3765"/>
+                <TextEquiv>
+                    <Unicode>Tänze und Weisen aus ihrer Heimat vortragen, indische Tanzmädchen (Nautchgirls) und Zauberer; ein äthiopisches Dorf gewährt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="324,3777 383,3775 2822,3783 2897,3784 3056,3784 3161,3785 3214,3791 3212,3834 348,3829 323,3823"/>
+                <Baseline points="328,3819 498,3819 562,3819 647,3819 923,3820 1015,3822 1242,3820 1342,3820 1717,3822 1969,3823 2071,3823 2196,3823 2519,3825 2604,3824 2843,3825 2954,3826 3102,3826 3205,3829"/>
+                <TextEquiv>
+                    <Unicode>Einblick in die Lebensweise der Bewohner des nordafrikanischen Hochlandes und ihrer Nachbarvölker. Im arabischen Café finden sich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="315,3848 367,3838 472,3837 2034,3841 2280,3842 3178,3848 3208,3850 3209,3900 316,3893"/>
+                <Baseline points="329,3880 430,3879 679,3879 897,3880 1280,3883 1391,3884 1613,3881 1773,3882 1884,3885 2138,3884 2322,3886 2557,3885 2661,3886 2853,3887 2954,3888 3066,3889 3203,3887"/>
+                <TextEquiv>
+                    <Unicode>echte Derwische, Allmeh's Bauchtänzerinnen und arabische Musik, und chinesische Rikshas vermitteln den Verkehr auf dem weit-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="r7l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="318,3898 765,3903 886,3904 919,3918 929,3934 919,3954 797,3954 391,3954 320,3950"/>
+                <Baseline points="327,3942 485,3942 578,3941 911,3942"/>
+                <TextEquiv>
+                    <Unicode>läufigen Ausstellungsterrain.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r8" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="509,4071 3047,4077 3054,4170 510,4166"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="547,4100 2833,4105 2990,4114 2989,4154 2949,4162 551,4160"/>
+                <Baseline points="556,4147 626,4146 941,4147 1009,4147 1121,4146 1433,4146 1535,4147 1637,4149 1746,4146 2012,4148 2116,4147 2532,4149 2646,4149 2866,4149 2973,4149"/>
+                <TextEquiv>
+                    <Unicode>Die Beurteilung iſt eine ſelten einmütige, wie ſie eine Ausſtellung ſeit Menſchengedenken nicht gefunden hat!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;}">
+            <Coords points="107,4183 1225,4177 1225,5262 102,5268 91,5031 92,4748 102,4543 106,4384"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="250,4208 323,4187 1203,4187 1205,4226 250,4222"/>
+                <Baseline points="255,4218 395,4216 426,4217 473,4218 511,4217 615,4217 666,4218 816,4217 895,4218 959,4218 1203,4219"/>
+                <TextEquiv>
+                    <Unicode>. . . Es iſt nicht daran zu zweifeln, daß die Internationale</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="166,4222 1153,4227 1213,4226 1213,4260 1176,4260 167,4259"/>
+                <Baseline points="168,4253 468,4253 560,4254 678,4253 762,4254 901,4253 1133,4253 1203,4254"/>
+                <TextEquiv>
+                    <Unicode>Hygiene⸗Ausſtellung nach Inhalt und äußerer Ausgeſtaltung die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="166,4259 1131,4261 1148,4263 1148,4298 215,4295 185,4294 166,4294"/>
+                <Baseline points="170,4287 347,4288 429,4288 597,4288 746,4289 971,4289 1044,4289 1138,4289"/>
+                <TextEquiv>
+                    <Unicode>bedeutendſte aller bisherigen deutſchen Ausſtellungen ſein wird.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="719,4303 738,4300 761,4300 1203,4300 1204,4344 1181,4344 872,4344 715,4343"/>
+                <Baseline points="729,4331 1201,4331"/>
+                <TextEquiv>
+                    <Unicode>(Frankfurter Zeitung.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="255,4384 284,4383 329,4385 1127,4383 1194,4384 1209,4402 1211,4426 254,4422"/>
+                <Baseline points="258,4416 308,4416 472,4417 799,4418 834,4419 860,4419 885,4420 946,4418 1041,4418 1099,4420 1203,4419"/>
+                <TextEquiv>
+                    <Unicode>Die Dresdner Hygiene⸗Ausſtellung. . . iſt wohl die groß⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="168,4421 1206,4427 1208,4459 168,4458"/>
+                <Baseline points="168,4451 275,4451 520,4451 597,4451 673,4453 796,4453 871,4453 1016,4452 1086,4453 1136,4453 1203,4452"/>
+                <TextEquiv>
+                    <Unicode>artigſte Unternehmung auf dem Gebiete der Hygiene, die je die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="163,4458 191,4459 1155,4459 1210,4459 1210,4497 176,4496 163,4488"/>
+                <Baseline points="168,4485 209,4486 233,4485 262,4485 428,4486 670,4487 1204,4487"/>
+                <TextEquiv>
+                    <Unicode>Welt geſehen hat. (Neues Wiener Journal.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="247,4562 343,4546 354,4544 1208,4547 1208,4583 247,4578"/>
+                <Baseline points="250,4573 371,4574 386,4575 409,4574 649,4575 852,4574 914,4576 1011,4577 1072,4575 1202,4576"/>
+                <TextEquiv>
+                    <Unicode>. . . Dieſe überwältigende Anteilnahme iſt ſchon ein Beweis,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="168,4578 1208,4585 1209,4617 167,4614"/>
+                <Baseline points="168,4609 224,4607 279,4608 521,4609 833,4610 911,4610 993,4610 1127,4612 1203,4611"/>
+                <TextEquiv>
+                    <Unicode>daß die Internationale Hygiene⸗Ausſtellung weit über Dresden und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="163,4614 1103,4618 1158,4618 1197,4621 1208,4631 1208,4653 162,4648"/>
+                <Baseline points="168,4642 288,4643 420,4643 510,4642 683,4644 850,4644 932,4643 1011,4644 1070,4647 1205,4646"/>
+                <TextEquiv>
+                    <Unicode>Sachſen hinaus eine Bedeutung gewonnen hat, wie ſie Veran⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="167,4651 216,4649 1092,4653 1208,4655 1208,4691 614,4688 166,4689"/>
+                <Baseline points="167,4678 321,4679 387,4678 500,4678 606,4680 711,4681 807,4682 955,4682 1086,4680 1205,4680"/>
+                <TextEquiv>
+                    <Unicode>ſtaltungen auf dieſem Gebiet bisher kaum zukamen. (Der Tag.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="251,4745 1204,4748 1206,4782 252,4778"/>
+                <Baseline points="257,4774 287,4774 312,4774 349,4773 387,4774 484,4774 592,4775 647,4774 718,4776 809,4776 892,4776 1026,4777 1130,4778 1200,4777"/>
+                <TextEquiv>
+                    <Unicode>. . . Die große Schau iſt weit mehr und bedeutet etwas viel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="167,4778 191,4779 1206,4783 1206,4819 165,4814"/>
+                <Baseline points="169,4810 340,4810 416,4809 487,4809 668,4810 771,4811 1125,4810 1201,4812"/>
+                <TextEquiv>
+                    <Unicode>Wichtigeres, als der beſcheidene Name „Hygiene⸗Ausſtellung“ ver⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="162,4820 211,4815 1173,4820 1204,4827 1204,4847 1192,4853 161,4848"/>
+                <Baseline points="164,4844 261,4843 336,4843 362,4844 389,4844 416,4846 493,4844 706,4845 874,4845 952,4846 1050,4847 1201,4848"/>
+                <TextEquiv>
+                    <Unicode>muten läßt. . . Die berühmteſten Mediziner aus allen Ländern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="164,4849 239,4849 1204,4855 1205,4888 165,4883"/>
+                <Baseline points="168,4878 217,4878 299,4877 402,4878 467,4878 524,4879 627,4879 795,4878 934,4879 1200,4881"/>
+                <TextEquiv>
+                    <Unicode>der Erde haben ſich zu einem erlauchten Areopag zuſammengetan,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="167,4893 234,4885 272,4885 1204,4889 1205,4916 1199,4923 168,4919"/>
+                <Baseline points="169,4912 217,4912 267,4910 369,4912 615,4912 706,4913 903,4913 1031,4914 1098,4915 1202,4916"/>
+                <TextEquiv>
+                    <Unicode>um in einem imponierenden und geſchloſſenen Ganzen die Größe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="162,4926 210,4921 499,4919 1192,4925 1205,4946 1205,4958 1199,4959 162,4954"/>
+                <Baseline points="167,4947 225,4947 401,4948 669,4949 743,4950 994,4951 1202,4951"/>
+                <TextEquiv>
+                    <Unicode>und ungeheure Mannigfaltigkeit der Aufwendungen darzuſtellen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="163,4955 298,4955 1204,4960 1205,4992 164,4987"/>
+                <Baseline points="167,4982 209,4982 311,4982 387,4983 465,4982 590,4981 661,4982 737,4981 930,4983 1002,4985 1202,4984"/>
+                <TextEquiv>
+                    <Unicode>die heute für das höchſte Gut der Menſchheit, die Geſundheit,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="164,4990 243,4988 1206,4993 1206,5031 650,5026 290,5027 165,5023"/>
+                <Baseline points="168,5018 270,5018 400,5018 528,5019 789,5020 811,5021 836,5020 856,5019 876,5021 906,5020 927,5020 952,5020 994,5022 1020,5021 1042,5019 1067,5021 1091,5021 1115,5021 1141,5020 1161,5019 1201,5018"/>
+                <TextEquiv>
+                    <Unicode>überall gemacht werden. (Berliner Tageblatt.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="249,5093 330,5073 1039,5072 1112,5074 1165,5075 1197,5077 1207,5091 1207,5113 249,5110"/>
+                <Baseline points="255,5106 262,5106 289,5106 315,5106 402,5105 514,5102 604,5104 707,5107 783,5107 961,5107 1022,5108 1111,5105 1201,5105"/>
+                <TextEquiv>
+                    <Unicode>. . . Eine Stadt, eine Stätte der Geſundheit iſt dieſe Aus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="167,5108 1205,5115 1210,5148 166,5146"/>
+                <Baseline points="169,5140 286,5140 313,5141 339,5141 366,5141 451,5141 564,5139 643,5141 701,5142 898,5142 1014,5143 1111,5142 1198,5144"/>
+                <TextEquiv>
+                    <Unicode>ſtellung. . . . Ein Werk, wie es großartiger bisher nicht dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r9l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="168,5145 1115,5149 1207,5150 1207,5190 623,5184 400,5186 167,5181"/>
+                <Baseline points="168,5176 196,5176 381,5176 515,5177 640,5176 740,5177 913,5176 988,5176 1052,5177 1120,5177 1202,5177"/>
+                <TextEquiv>
+                    <Unicode>Gedanken der Hygiene diente, einer Kulturtat, auf die wir ſtolz</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:9;}">
+            <Coords points="1225,4177 1245,4177 2285,4186 2302,4186 2302,5258 1225,5262"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1247,4190 1468,4188 1529,4187 1529,4187 2266,4190 2283,4193 2283,4229 1247,4226"/>
+                <Baseline points="1245,4218 1302,4219 1369,4220 1493,4221 1626,4220 1712,4221 1792,4220 1860,4220 2010,4220 2184,4221 2283,4221"/>
+                <TextEquiv>
+                    <Unicode>ſein können. Und nicht nur wir, die geſamte, ziviliſierte Welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1245,4227 2287,4228 2287,4265 1644,4263 1245,4260"/>
+                <Baseline points="1247,4255 1297,4255 1376,4255 1458,4256 1785,4257 1807,4256 1836,4257 1859,4257 1899,4255 1947,4256 1968,4257 1990,4256 2023,4256 2059,4257 2084,4257 2109,4256 2142,4256 2179,4256 2285,4255"/>
+                <TextEquiv>
+                    <Unicode>mit uns. . . . (Neue Freie Preſſe, Wien.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1330,4314 1408,4294 2114,4296 2255,4299 2285,4300 2289,4335 2182,4333 1330,4329"/>
+                <Baseline points="1337,4324 1395,4325 1463,4325 1705,4326 2029,4324 2084,4324 2222,4326 2281,4327"/>
+                <TextEquiv>
+                    <Unicode>. . . Die Internationale Hygiene⸗Ausſtellung in Dresden be⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1243,4331 1414,4332 1785,4335 1803,4337 1803,4362 1791,4367 1364,4367 1245,4365"/>
+                <Baseline points="1247,4359 1332,4360 1408,4360 1568,4360 1668,4360 1803,4361"/>
+                <TextEquiv>
+                    <Unicode>deutet eine Kulturtat erſten Ranges.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1609,4375 2204,4375 2282,4376 2280,4414 1851,4418 1764,4418 1605,4413"/>
+                <Baseline points="1610,4404 1824,4405 1949,4405 1977,4404 2003,4406 2281,4403"/>
+                <TextEquiv>
+                    <Unicode>(Leipziger Neueſte Nachrichten.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="1334,4443 2289,4441 2293,4481 1335,4479"/>
+                <Baseline points="1334,4474 1393,4474 1456,4473 1555,4473 1690,4473 1760,4474 1810,4475 1872,4474 2112,4472 2282,4475"/>
+                <TextEquiv>
+                    <Unicode>. . . In dieſer Wirkung und in der Durchdringung der breiten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1246,4479 1273,4479 2290,4481 2295,4501 2290,4516 2198,4516 1244,4513"/>
+                <Baseline points="1246,4507 1331,4506 1406,4507 1605,4508 1787,4508 1876,4509 1943,4509 2122,4509 2192,4509 2284,4510"/>
+                <TextEquiv>
+                    <Unicode>Maſſe mit hygieniſcher Erkenntnis liegt die Bedeutung der Aus⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1246,4514 1383,4516 1888,4516 1984,4517 2053,4524 2061,4538 2061,4545 2059,4550 1273,4549 1246,4548"/>
+                <Baseline points="1249,4541 1365,4542 1435,4543 1511,4543 1688,4542 1753,4542 1940,4543 2059,4544"/>
+                <TextEquiv>
+                    <Unicode>ſtellung. Sie will namentlich der Aufklärung dienen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1861,4559 2281,4559 2281,4595 2015,4595 1861,4593"/>
+                <Baseline points="1860,4587 2068,4588 2280,4587"/>
+                <TextEquiv>
+                    <Unicode>(Kölniſche Zeitung.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="1331,4624 2236,4627 2270,4631 2286,4653 2286,4665 1331,4662"/>
+                <Baseline points="1333,4656 1375,4657 1443,4657 1525,4657 1710,4658 1868,4658 1917,4658 1975,4659 2053,4660 2172,4659 2282,4658"/>
+                <TextEquiv>
+                    <Unicode>So wie dieſe Ausſtellung aufgebaut iſt, wo alles darauf abzielt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="1243,4662 2286,4666 2287,4700 1243,4698"/>
+                <Baseline points="1246,4692 1331,4692 1410,4692 1584,4692 1701,4692 1788,4694 1968,4693 2029,4693 2104,4694 2280,4692"/>
+                <TextEquiv>
+                    <Unicode>Laien und Fachleuten Wiſſen und Belehrung in der leichteſten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="1247,4705 1278,4697 2287,4702 2287,4736 1247,4733"/>
+                <Baseline points="1247,4725 1440,4725 1550,4727 1759,4728 1849,4729 1942,4728 2045,4729 2148,4729 2221,4729 2282,4730"/>
+                <TextEquiv>
+                    <Unicode>anſchaulichen Form darzubieten, darf man ſicher ſein, daß ſie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="1246,4740 1282,4732 2290,4736 2289,4771 1248,4766"/>
+                <Baseline points="1246,4760 1436,4762 1510,4762 1611,4761 1676,4762 1840,4763 1913,4763 2076,4764 2195,4764 2282,4764"/>
+                <TextEquiv>
+                    <Unicode>nutzbringend ſein werde für Millionen von Menſchen. Jeder wird</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1241,4767 1283,4766 2285,4770 2285,4806 1240,4799"/>
+                <Baseline points="1245,4795 1339,4795 1415,4796 1567,4796 1618,4797 1731,4797 1847,4798 1913,4798 1971,4798 2148,4799 2279,4799"/>
+                <TextEquiv>
+                    <Unicode>belehrt und bereichert in ſeinem Wiſſen um die menſchliche Geſund⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="1244,4803 1312,4801 2283,4807 2286,4842 1255,4837 1244,4836"/>
+                <Baseline points="1246,4829 1296,4830 1372,4831 1431,4832 1592,4831 1650,4832 1711,4832 1821,4833 1870,4833 1997,4833 2072,4834 2203,4832 2227,4834 2252,4832 2282,4833"/>
+                <TextEquiv>
+                    <Unicode>heit und die Gefahren, die ihr gerade in unſerer Zeit drohen, . . .</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1480,4845 1493,4842 1555,4841 2281,4848 2281,4884 2265,4885 1898,4884 1480,4880"/>
+                <Baseline points="1484,4874 1782,4876 2064,4877 2283,4878"/>
+                <TextEquiv>
+                    <Unicode>(Königsberger Hartungſche Zeitung.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r10l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="1329,4927 1408,4915 1428,4914 2254,4917 2262,4919 2282,4928 2282,4954 1331,4950"/>
+                <Baseline points="1333,4944 1356,4944 1381,4943 1419,4944 1478,4944 1673,4944 1894,4946 2109,4945 2213,4946 2278,4949"/>
+                <TextEquiv>
+                    <Unicode>. . . Ihre ſegensreiche, nutzbringende Ausſtrahlung wird unſer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="1244,4949 1318,4951 2285,4954 2285,4990 1237,4983"/>
+                <Baseline points="1244,4978 1312,4978 1397,4979 1576,4979 1667,4979 1800,4979 1913,4982 1990,4981 2090,4981 2206,4982 2279,4982"/>
+                <TextEquiv>
+                    <Unicode>Volk und Vaterland noch ſpüren, wenn ſich ſchon längſt die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="1239,4985 2281,4991 2281,5023 1239,5018"/>
+                <Baseline points="1243,5011 1360,5012 1460,5011 1750,5014 1810,5013 1965,5015 2095,5017 2278,5018"/>
+                <TextEquiv>
+                    <Unicode>Pforten zum Ausſtellungsplatze in Dresden wieder geſchloſſen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="1244,5020 1351,5019 2270,5024 2281,5025 2281,5059 1312,5055 1244,5053"/>
+                <Baseline points="1245,5047 1328,5047 1461,5048 2019,5051 2278,5052"/>
+                <TextEquiv>
+                    <Unicode>haben werden. (Leipziger Tageblatt.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="1331,5081 2276,5083 2276,5119 1331,5116"/>
+                <Baseline points="1331,5109 1337,5109 1364,5109 1390,5110 1493,5109 1570,5110 1661,5110 1753,5110 1827,5110 1897,5111 2134,5113 2276,5112"/>
+                <TextEquiv>
+                    <Unicode>. . . Eines ſteht heute ſchon feſt: Die Internationale Hygiene⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1236,5115 2234,5120 2280,5123 2280,5154 1237,5150"/>
+                <Baseline points="1242,5144 1414,5143 1475,5144 1615,5145 1712,5145 1783,5146 1955,5146 2199,5147 2274,5147"/>
+                <TextEquiv>
+                    <Unicode>Ausſtellung zu Dresden wird die deutſche Ausſtellung des</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r10l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="1240,5150 1309,5152 2278,5154 2274,5194 1803,5190 1285,5188 1235,5187"/>
+                <Baseline points="1243,5177 1343,5179 1430,5180 1515,5180 1973,5183 2144,5182 2276,5182"/>
+                <TextEquiv>
+                    <Unicode>Jahres 1911 ſein. (Rheiniſch⸗Weſtfäliſche Zeitung, Eſſen.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:10;}">
+            <Coords points="2302,4186 3429,4191 3427,4230 3429,4662 3424,4901 3429,5114 3424,5270 2316,5258 2302,5258"/>
+            <TextLine id="r11l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="2410,4202 2504,4192 2553,4191 3360,4195 3364,4232 2414,4226"/>
+                <Baseline points="2413,4222 2422,4222 2448,4222 2474,4222 2538,4221 2802,4223 3029,4224 3100,4224 3204,4225 3359,4226"/>
+                <TextEquiv>
+                    <Unicode>. . ein epochemachendes Unternehmen iſt, wohl geeignet,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="2326,4228 2474,4227 3278,4231 3278,4267 2517,4265 2324,4266"/>
+                <Baseline points="2326,4256 2367,4257 2590,4257 2688,4258 2844,4259 2893,4260 2977,4260 3110,4260 3159,4260 3274,4260"/>
+                <TextEquiv>
+                    <Unicode>die Gewohnheiten vieler Menſchen in neue Bahnen zu lenken.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="2917,4272 2933,4272 3262,4275 3359,4276 3359,4311 3122,4310 2917,4308"/>
+                <Baseline points="2916,4302 3129,4302 3359,4303"/>
+                <TextEquiv>
+                    <Unicode>(Dresdner Anzeiger.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="2408,4326 3320,4335 3341,4333 3362,4340 3364,4371 2411,4366"/>
+                <Baseline points="2411,4361 2468,4361 2541,4361 2589,4362 2729,4362 2901,4363 3223,4364 3284,4365 3359,4365"/>
+                <TextEquiv>
+                    <Unicode>Mit der in Dresden eröffneten Hygiene⸗Ausſtellung iſt ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="2321,4369 2359,4366 2557,4366 3365,4372 3369,4403 2323,4401"/>
+                <Baseline points="2328,4395 2503,4395 2563,4396 2637,4396 2792,4397 2911,4395 3101,4395 3200,4397 3356,4397"/>
+                <TextEquiv>
+                    <Unicode>großartiges, in der Geſchichte einzig daſtehendes Werk vollendet</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="2323,4403 3366,4405 3364,4445 3296,4448 2709,4444 2633,4443 2325,4436"/>
+                <Baseline points="2325,4430 2441,4430 2695,4431 3031,4432 3206,4434 3357,4433"/>
+                <TextEquiv>
+                    <Unicode>worden. (La Plata⸗Zeitung, Buenos Aires.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="2406,4470 2478,4462 2486,4461 3298,4461 3344,4466 3364,4478 3370,4499 2414,4496 2398,4488"/>
+                <Baseline points="2411,4491 2471,4491 2541,4491 2731,4492 2811,4492 2887,4493 3025,4493 3173,4494 3235,4493 3357,4494"/>
+                <TextEquiv>
+                    <Unicode>. . . Die Ausſtellung ſtellt eine plaſtiſche Geſchichte der menſch⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="2320,4496 2449,4496 3366,4501 3361,4540 3287,4539 2341,4530 2318,4531"/>
+                <Baseline points="2324,4524 2406,4525 2527,4525 2599,4524 3356,4529"/>
+                <TextEquiv>
+                    <Unicode>lichen Kultur dar. (Bohemia.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="2403,4573 2489,4558 2500,4557 3301,4558 3328,4561 3365,4570 3365,4597 2403,4590"/>
+                <Baseline points="2410,4587 2470,4587 2541,4585 2794,4587 3124,4589 3269,4588 3358,4589"/>
+                <TextEquiv>
+                    <Unicode>. . . Die Internationale Hygiene⸗Ausſtellung bedeutet eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="2324,4599 2349,4592 3342,4596 3363,4598 3363,4630 2323,4627"/>
+                <Baseline points="2326,4619 2461,4620 2566,4621 2632,4622 2722,4622 2931,4621 3003,4622 3213,4622 3355,4622"/>
+                <TextEquiv>
+                    <Unicode>gewaltige Tat, zu deren Ausführung ſich Wiſſenſchaft, Technik</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="2322,4628 3359,4630 3359,4668 2323,4662"/>
+                <Baseline points="2322,4654 2465,4656 2540,4657 2647,4655 2725,4657 2818,4658 2936,4658 3059,4659 3125,4659 3223,4660 3356,4662"/>
+                <TextEquiv>
+                    <Unicode>Induſtrie und Kunſt aus aller Herren Länder die Hand gereicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="2322,4662 3361,4667 3356,4704 3296,4704 2345,4700 2321,4698"/>
+                <Baseline points="2324,4690 2415,4691 3071,4694 3354,4694"/>
+                <TextEquiv>
+                    <Unicode>haben. (Hamburger Nachrichten.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="2410,4723 3358,4724 3358,4761 2411,4758"/>
+                <Baseline points="2410,4752 2470,4752 2539,4752 2731,4750 2813,4751 2914,4753 3067,4753 3217,4755 3352,4754"/>
+                <TextEquiv>
+                    <Unicode>. . . Die Ausſtellung ſtellt einen Triumph deutſcher Organi⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="2324,4756 2378,4757 3356,4763 3352,4797 2324,4792"/>
+                <Baseline points="2326,4784 2508,4786 2671,4788 2867,4788 2976,4790 3062,4789 3265,4791 3351,4790"/>
+                <TextEquiv>
+                    <Unicode>ſationskunſt, deutſcher gründlicher Arbeit und Wiſſenſchaft dar.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="2314,4790 2337,4791 3356,4798 3356,4831 2314,4826"/>
+                <Baseline points="2321,4820 2372,4820 2433,4820 2477,4821 2616,4821 2692,4821 2737,4821 2916,4822 2994,4823 3088,4824 3173,4824 3251,4825 3352,4827"/>
+                <TextEquiv>
+                    <Unicode>Sie iſt ſo lehrreich und ſo reichhaltig, wie man dies von einer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="2316,4826 3358,4834 3358,4867 2316,4860"/>
+                <Baseline points="2322,4854 2419,4854 2593,4855 2663,4855 2756,4857 2899,4854 2993,4856 3172,4859 3266,4860 3353,4861"/>
+                <TextEquiv>
+                    <Unicode>ſolchen Ausſtellung auch bei hoch geſtellten Anſprüchen kaum hätte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="2317,4860 3353,4865 3351,4904 2967,4905 2901,4903 2353,4897 2317,4893"/>
+                <Baseline points="2321,4889 2451,4890 2583,4889 3087,4891 3348,4896"/>
+                <TextEquiv>
+                    <Unicode>erwarten können. (Tägliche Rundſchau.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="2401,4939 2484,4922 3355,4928 3355,4962 2401,4956"/>
+                <Baseline points="2407,4952 2466,4951 2524,4951 2573,4951 2660,4951 2726,4951 2804,4952 2885,4952 2951,4953 3022,4951 3156,4955 3228,4955 3351,4958"/>
+                <TextEquiv>
+                    <Unicode>. . . Es iſt wohl das erſte Mal, daß ein Problem von ſolchem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="2322,4956 3356,4963 3358,4995 2320,4991"/>
+                <Baseline points="2322,4986 2407,4984 2504,4984 2755,4986 3014,4988 3171,4989 3268,4989 3349,4990"/>
+                <TextEquiv>
+                    <Unicode>Ernſt einem internationalen Maſſenpublikum vorgelegt wird, und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="2321,5000 2397,4989 3354,4996 3357,5032 2321,5025"/>
+                <Baseline points="2321,5021 2388,5020 2476,5020 2551,5021 2661,5020 2739,5020 2813,5022 2943,5021 3006,5022 3112,5023 3188,5025 3350,5028"/>
+                <TextEquiv>
+                    <Unicode>man kann nur hoffen, daß der Reſpekt, der damit den Beſuchern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="2317,5026 3356,5032 3356,5067 2317,5063"/>
+                <Baseline points="2322,5054 2416,5054 2524,5053 2746,5056 2859,5057 2962,5057 3053,5057 3204,5059 3268,5058 3350,5061"/>
+                <TextEquiv>
+                    <Unicode>gezeigt wird, gerechtfertigt wird. Das ſtille Dresden iſt eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="2316,5063 3337,5065 3357,5068 3357,5104 2996,5100 2340,5095 2316,5092"/>
+                <Baseline points="2321,5090 2454,5089 2618,5091 3144,5093 3349,5094"/>
+                <TextEquiv>
+                    <Unicode>Weltſtadt geworden. (Schleſiſche Zeitung.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="2404,5121 3353,5125 3352,5159 2403,5156"/>
+                <Baseline points="2405,5150 2465,5151 2534,5149 2717,5150 2793,5150 2844,5152 2919,5152 2982,5153 3181,5153 3349,5155"/>
+                <TextEquiv>
+                    <Unicode>. . . Die Ausſtellung darf als eine der großartigſten Leiſtungen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextLine id="r11l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="2317,5163 2355,5154 2458,5155 3347,5158 3355,5197 3344,5199 3311,5200 3276,5201 2338,5193 2317,5185"/>
+                <Baseline points="2317,5185 2369,5184 2475,5186 2596,5186 2747,5187 2876,5189 3191,5188 3347,5190"/>
+                <TextEquiv>
+                    <Unicode>auf dieſem Gebiete betrachtet werden. (Mediziniſche Klinik.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:11;}">
+            <Coords points="0,0 3488,0 3488,56 0,56"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:12;}">
+            <Coords points="198,166 3374,166 3374,196 198,196"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:13;}">
+            <Coords points="0,49 31,49 31,5358 0,5358"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:14;}">
+            <Coords points="3480,58 3488,58 3488,300 3480,300"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:15;}">
+            <Coords points="2571,2803 2701,2803 2701,2812 2571,2812"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:16;}">
+            <Coords points="1231,5357 1285,5357 1285,5358 1231,5358"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

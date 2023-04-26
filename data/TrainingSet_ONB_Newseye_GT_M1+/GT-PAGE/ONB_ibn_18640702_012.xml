@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>University of Innsbruck</Creator>
+        <Created>2018-11-29T10:47:56.08+01:00</Created>
+        <LastChange>2023-04-25T10:53:45.840+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+        <TranskribusMetadata docId="1394947" pageId="53863165" pageNr="29" tsid="119418585" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OYXONMRAVSIFULQTDWEWXOOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZRJLPXTPLURCZONZNOYRYUL" imageId="38488790"/>
+    </Metadata>
+    <Page imageFilename="ONB_ibn_18640702_012.tif" imageWidth="1536" imageHeight="2323">
+        <PrintSpace>
+            <Coords points="0,0 1535,-1 1535,2320 0,2321"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1682495881161" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r7"/>
+                <RegionRefIndexed index="7" regionRef="r8"/>
+                <RegionRefIndexed index="8" regionRef="r9"/>
+                <RegionRefIndexed index="9" regionRef="r10"/>
+                <RegionRefIndexed index="10" regionRef="r11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="r1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="699,-1 828,-2 830,53 699,55"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="714,4 814,3 814,44 714,44"/>
+                <Baseline points="714,44 814,44"/>
+                <TextEquiv>
+                    <Unicode>1344</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="21.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="68,196 325,56 1209,56 1452,200 1454,647 1454,690 1350,692 1346,732 63,742 68,266"/>
+            <TextLine id="r2l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="325,86 363,79 1118,76 1206,77 1205,151 324,156"/>
+                <Baseline points="323,142 783,136 1206,135"/>
+                <TextEquiv>
+                    <Unicode>Zurückgeſetzte Mehlpreiſe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="27.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r2l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="418,162 512,153 825,151 1078,156 1117,166 1116,200 417,205"/>
+                <Baseline points="416,190 464,190 665,189 695,188 772,189 862,187 1117,186"/>
+                <TextEquiv>
+                    <Unicode>der Kunſtmühle in Zipf bei Salzburg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="92,215 129,214 322,206 802,206 1268,205 1424,205 1434,240 1434,249 1407,258 124,270 92,258"/>
+                <Baseline points="91,257 296,254 386,254 424,259 733,254 773,250 1046,249 1158,248 1191,250 1432,246"/>
+                <TextEquiv>
+                    <Unicode>Niederlage bei Joh. Lorenz vormals J. Riß in Innsbruck.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="23.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r2l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="195,273 1290,265 1311,280 1312,311 195,316"/>
+                <Baseline points="193,307 275,308 456,304 494,305 623,303 722,303 806,302 861,302 927,303 967,301 1071,302 1194,302 1255,302 1311,299"/>
+                <TextEquiv>
+                    <Unicode>Gries per ganzen Sack 15 fl. 25 kr., das Pfund 16 kr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r2l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="194,324 1201,316 1252,315 1289,315 1313,328 1313,357 220,367 194,358"/>
+                <Baseline points="194,358 385,355 544,354 620,351 663,352 815,351 863,350 924,352 979,351 1056,354 1152,353 1258,349 1313,349"/>
+                <TextEquiv>
+                    <Unicode>Waizenmehl ſuperfein Nr. 0 14 fl. 75 kr., „ „ 16 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="299,395 378,367 1195,364 1257,365 1290,366 1314,374 1314,402 299,413"/>
+                <Baseline points="299,409 417,402 689,399 749,398 810,399 860,398 919,399 967,398 1050,400 1150,400 1224,397 1314,394"/>
+                <TextEquiv>
+                    <Unicode>„ Extra⸗Auszug Nr. 1A 13 fl. 75 kr, „ „ 15 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="301,418 1313,411 1313,450 299,461"/>
+                <Baseline points="298,459 312,459 412,448 578,452 622,446 712,447 809,447 854,445 950,446 975,445 1045,448 1151,446 1222,444 1313,443"/>
+                <TextEquiv>
+                    <Unicode>„ Kaiſer⸗ „ Nr. 1 12 fl. — kr., „ „ 13 kr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r2l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="299,465 1311,457 1311,499 298,505"/>
+                <Baseline points="298,507 411,496 522,495 580,497 633,494 725,494 812,494 849,492 912,492 977,492 1033,495 1150,494 1217,490 1311,489"/>
+                <TextEquiv>
+                    <Unicode>„ Bäcker⸗ „ Nr. 2 10 fl. 75 kr., „ „ 12 kr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r2l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="296,510 1313,506 1313,546 296,551"/>
+                <Baseline points="297,552 409,542 585,542 660,541 704,541 804,539 856,540 922,540 967,540 1050,541 1150,541 1220,538 1313,536"/>
+                <TextEquiv>
+                    <Unicode>„ Mundmehl Nr. 3 9 fl. 25 kr, „ „ 10 kr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r2l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="299,583 378,555 1249,553 1289,554 1303,564 1311,579 1311,584 1308,594 299,600"/>
+                <Baseline points="299,599 314,599 416,590 686,588 732,589 807,586 847,587 915,587 980,587 1051,585 1152,588 1240,585 1311,584"/>
+                <TextEquiv>
+                    <Unicode>„ Semmelmehl Nr. 4 7 fl. 50 kr., „ „ 9 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="194,608 549,605 1273,599 1301,602 1310,610 1310,641 194,647"/>
+                <Baseline points="194,639 342,639 420,640 497,638 541,638 808,637 859,636 924,635 975,634 1047,639 1157,638 1239,633 1310,633"/>
+                <TextEquiv>
+                    <Unicode>Kornmehl fein Nr. 2 8 fl. 59 kr., „ „ 9 kr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="173,654 1437,647 1436,689 173,695"/>
+                <Baseline points="173,689 260,688 391,687 523,686 685,686 776,685 834,684 940,684 1101,682 1217,682 1300,680 1436,678"/>
+                <TextEquiv>
+                    <Unicode>Säcke werden ſeparat berechnet und im guten Zuſtande franco zum gleichen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r2l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="93,700 131,696 474,699 475,736 93,738 93,719"/>
+                <Baseline points="92,730 471,725 475,724"/>
+                <TextEquiv>
+                    <Unicode>Preiſe zurückgenommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r3" custom="readingOrder {index:2;} structure {type:reference;}">
+            <Coords points="1350,692 1454,690 1454,732 1346,732"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;} structure {type:reference;}">
+                <Coords points="1398,691 1439,690 1439,729 1398,729"/>
+                <Baseline points="1398,720 1413,720 1424,720 1437,720"/>
+                <TextEquiv>
+                    <Unicode>2₃</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r4" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="331,750 1187,743 1198,826 331,829"/>
+            <TextLine id="r4l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="347,753 1178,752 1179,824 347,827"/>
+                <Baseline points="349,816 1176,808"/>
+                <TextEquiv>
+                    <Unicode>Verſteigerungs⸗Kundmachung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="32.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r5" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="56,828 1463,824 1463,1016 1459,1044 1315,1049 1312,1109 450,1111 151,1083 57,1025"/>
+            <TextLine id="r5l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="174,837 182,835 1436,826 1437,869 182,875 174,869"/>
+                <Baseline points="172,868 231,869 282,868 372,868 418,867 497,864 568,865 610,865 692,863 804,862 973,861 1122,861 1180,861 1297,859 1373,859 1436,858"/>
+                <TextEquiv>
+                    <Unicode>Am 4. Juli d. Js. um 9 Uhr früh angefangen, werden im Hauſe Nr. 57</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r5l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="93,883 1435,874 1435,914 95,925 92,918"/>
+                <Baseline points="92,918 130,917 181,917 290,916 348,917 423,913 616,912 686,911 761,911 1011,908 1084,908 1262,907 1435,906"/>
+                <TextEquiv>
+                    <Unicode>im 2. Stock in der Rieſengaſſe die zur Verlaſſenſchaft der Katharina Schröppl,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r5l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="92,942 125,933 176,931 208,930 1264,922 1321,923 1424,930 1437,936 1437,950 1424,953 1366,964 94,974"/>
+                <Baseline points="91,963 146,961 282,961 442,961 677,957 816,958 1164,956 1245,955 1365,954 1439,953"/>
+                <TextEquiv>
+                    <Unicode>geb. Ziegler, gehörige Hausfahrniſſe, Betten, Küchengeräthſchaften und andere un⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r5l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="92,978 869,972 1062,974 1096,981 1107,995 1107,1003 1096,1005 1013,1016 116,1020 92,1012"/>
+                <Baseline points="90,1010 261,1009 470,1006 576,1006 792,1005 970,1005 1107,1003"/>
+                <TextEquiv>
+                    <Unicode>eingetheilte Gegenſtände gegen Baarzahlung verſteigert werden.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r5l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="174,1024 725,1022 725,1060 174,1062"/>
+                <Baseline points="174,1063 196,1061 210,1057 518,1056 616,1054 725,1053"/>
+                <TextEquiv>
+                    <Unicode>Innsbruck am 21. Juni 1864.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="449,1072 560,1064 892,1066 1077,1067 1077,1102 867,1108 454,1110 449,1102"/>
+                <Baseline points="449,1102 475,1102 633,1105 1075,1097 1077,1096"/>
+                <TextEquiv>
+                    <Unicode>Dr. Carl Schneller, k. k. Notar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r6" custom="readingOrder {index:5;} structure {type:reference;}">
+            <Coords points="1315,1049 1459,1044 1453,1109 1312,1109"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;} structure {type:reference;}">
+                <Coords points="1396,1062 1441,1063 1442,1106 1397,1104"/>
+                <Baseline points="1397,1095 1417,1095 1427,1094 1441,1094"/>
+                <TextEquiv>
+                    <Unicode>3₃</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r7" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="57,1124 731,1124 1456,1118 1459,1573 1376,1573 1384,1610 1459,1610 1460,1611 1456,1701 97,1712 57,1630"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="95,1135 750,1129 750,1254 96,1257"/>
+                <Baseline points="98,1231 746,1227"/>
+                <TextEquiv>
+                    <Unicode>Anempfehlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="787,1130 877,1128 1436,1124 1436,1124 1436,1165 787,1169"/>
+                <Baseline points="787,1162 843,1161 1079,1159 1243,1159 1356,1157 1436,1157"/>
+                <TextEquiv>
+                    <Unicode>Die Unterzeichnete empfiehlt ſich einem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="789,1173 824,1169 1404,1166 1434,1175 1434,1206 789,1212"/>
+                <Baseline points="787,1202 977,1200 1138,1200 1197,1200 1280,1198 1433,1198"/>
+                <TextEquiv>
+                    <Unicode>hochgeehrten Publikum mit ihrer Methode,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="788,1213 1438,1207 1438,1245 788,1250"/>
+                <Baseline points="787,1244 839,1243 888,1245 933,1243 1028,1244 1116,1241 1294,1238 1439,1238"/>
+                <TextEquiv>
+                    <Unicode>alte Bettfedern und Roßhaare mittelſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="93,1261 99,1260 1361,1249 1385,1251 1436,1253 1436,1289 95,1303"/>
+                <Baseline points="94,1291 283,1291 377,1293 642,1288 774,1285 824,1284 1014,1284 1163,1281 1267,1281 1355,1281 1436,1281"/>
+                <TextEquiv>
+                    <Unicode>Anwendung einer Dampfmaſchine gleich neu herzuſtellen, ferners beſitzt ſelbe laut</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="92,1303 1435,1289 1436,1331 92,1341"/>
+                <Baseline points="92,1335 230,1333 392,1333 575,1329 654,1327 727,1326 840,1324 942,1325 1003,1323 1222,1321 1369,1322 1435,1320"/>
+                <TextEquiv>
+                    <Unicode>mehreren ärztlichen Zeugniſſen auch die Kunſt, jene bei verſchiedenen Kranken ge⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="92,1344 1440,1329 1438,1370 91,1385"/>
+                <Baseline points="92,1375 238,1374 362,1374 430,1374 504,1373 558,1372 714,1369 758,1365 857,1367 922,1366 1104,1364 1180,1363 1242,1364 1437,1362"/>
+                <TextEquiv>
+                    <Unicode>brauchten Betten der Art zu reinigen, daß ſie als unſchädlich für die Geſundheit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="92,1383 1439,1372 1437,1408 92,1427"/>
+                <Baseline points="92,1415 169,1415 315,1415 450,1414 591,1411 732,1408 854,1408 1026,1404 1159,1403 1265,1404 1351,1404 1437,1401"/>
+                <TextEquiv>
+                    <Unicode>eines Andern benützt werden können; auch verfertigt dieſelbe neue und alte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="93,1423 1436,1412 1436,1450 92,1468"/>
+                <Baseline points="93,1457 261,1456 347,1455 512,1453 595,1452 693,1450 824,1448 1006,1445 1134,1444 1186,1445 1368,1444 1436,1443"/>
+                <TextEquiv>
+                    <Unicode>Matratzen, und verſpricht, ſich durch ſchnelle Bedienung ſowohl in Innsbruck als</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="95,1465 1435,1450 1436,1493 94,1507"/>
+                <Baseline points="92,1495 122,1495 232,1496 412,1494 476,1494 590,1492 808,1489 868,1489 1167,1485 1384,1484 1436,1484"/>
+                <TextEquiv>
+                    <Unicode>in deſſen Umgebung die vollſte Zufriedenheit der hochzuverehrenden Kundſchaften zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="92,1505 1436,1494 1436,1532 92,1547"/>
+                <Baseline points="92,1537 241,1537 360,1535 454,1536 531,1532 703,1531 893,1529 1058,1526 1172,1524 1219,1526 1436,1525"/>
+                <TextEquiv>
+                    <Unicode>erwerben, bittet ſohin um geneigten zahlreichen Zuſpruch. — Die Beſtellungen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r7l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="93,1543 1437,1532 1436,1572 90,1588"/>
+                <Baseline points="93,1578 150,1577 201,1577 333,1578 378,1576 644,1574 704,1575 932,1568 1257,1567 1363,1565 1437,1566"/>
+                <TextEquiv>
+                    <Unicode>ſind zu machen bei Katharina Schennach, Kammmacherswitwe unter den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="94,1586 616,1582 617,1623 94,1624"/>
+                <Baseline points="92,1615 204,1618 307,1618 395,1618 601,1615 616,1614"/>
+                <TextEquiv>
+                    <Unicode>Lauben nächſt dem Rathshauſe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="1391,1610 1435,1610"/>
+                <TextEquiv>
+                    <Unicode>Anna Oeffner.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="41.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r8" custom="readingOrder {index:7;} structure {type:reference;}">
+            <Coords points="1376,1573 1459,1573 1459,1610 1384,1610"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1399,1576 1443,1576 1443,1609 1399,1609"/>
+                <Baseline points="1399,1606 1421,1607 1442,1606"/>
+                <TextEquiv>
+                    <Unicode>2³</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="827,1611 1391,1610 1435,1610 1436,1699 827,1700"/>
+                <Baseline points="831,1689 1054,1686 1436,1685"/>
+                <TextEquiv>
+                    <Unicode>Anna Oeffner.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="41.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r9" custom="readingOrder {index:8;} structure {type:heading;}">
+            <Coords points="503,1719 1033,1713 1032,1793 503,1797"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="520,1724 1017,1723 1018,1791 521,1791"/>
+                <Baseline points="518,1785 1016,1776"/>
+                <TextEquiv>
+                    <Unicode>Kundmachung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="27.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="66,1800 1451,1795 1457,2002 1458,2048 1361,2052 1377,2117 1459,2117 1460,2125 1456,2168 882,2187 663,2187 159,2163 69,2060"/>
+            <TextLine id="r10l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="173,1804 1436,1794 1436,1837 173,1843"/>
+                <Baseline points="173,1837 232,1837 601,1835 719,1833 821,1831 1024,1828 1088,1828 1144,1828 1211,1828 1436,1822"/>
+                <TextEquiv>
+                    <Unicode>Die Brunnenzinspflichtigen werden hiemit aufgefordert, die für das Verwaltungs⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r10l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="92,1854 1438,1838 1436,1884 90,1895"/>
+                <Baseline points="89,1886 169,1885 322,1885 510,1882 678,1881 723,1879 950,1875 1208,1874 1280,1873 1437,1872"/>
+                <TextEquiv>
+                    <Unicode>Jahr 1863/64 verfallenen ordinären Brunnenzinſe längſtens bis 15. Auguſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="92,1899 1440,1885 1439,1931 93,1941"/>
+                <Baseline points="93,1933 116,1933 199,1930 270,1929 320,1930 462,1930 569,1928 784,1925 859,1924 966,1922 1059,1922 1182,1921 1286,1921 1383,1919 1438,1920"/>
+                <TextEquiv>
+                    <Unicode>d. Js. um ſo gewiſſer anher einzuzahlen, als ſonſt nach Ablauf dieſer Friſt die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r10l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="93,1955 110,1947 1288,1936 1307,1937 1399,1942 1436,1945 1436,1968 1338,1977 93,1986"/>
+                <Baseline points="94,1978 300,1978 486,1976 592,1974 664,1975 858,1972 937,1969 1019,1970 1139,1969 1344,1969 1436,1965"/>
+                <TextEquiv>
+                    <Unicode>verbleibenden Rückſtände durch den Amtsdiener auf ihre Koſten beigetrieben wer⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r10l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="93,1996 224,1994 224,1994 231,1995 289,2004 289,2026 231,2033 184,2033 93,2027"/>
+                <Baseline points="93,2027 142,2027 289,2025"/>
+                <TextEquiv>
+                    <Unicode>den müßten.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r10l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="385,2029 1032,2023 1032,2023 1140,2023 1140,2068 1114,2076 1110,2076 385,2079"/>
+                <Baseline points="385,2075 449,2074 543,2074 847,2071 1140,2068"/>
+                <TextEquiv>
+                    <Unicode>K. K. Steueramt Innsbruck</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="24.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r10l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="176,2100 242,2091 420,2089 420,2089 492,2089 502,2111 502,2120 339,2127 314,2127 176,2124"/>
+                <Baseline points="176,2124 223,2124 292,2123 391,2122 502,2120"/>
+                <TextEquiv>
+                    <Unicode>am 23. Juni 1864.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r10l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="656,2129 824,2127 824,2127 873,2135 873,2159 780,2167 684,2168 656,2168"/>
+                <Baseline points="655,2161 873,2159"/>
+                <TextEquiv>
+                    <Unicode>Pfaundler.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="r10l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="1316,2121 1408,2120 1408,2120 1433,2130 1433,2153 1408,2154 1316,2154"/>
+                <Baseline points="1316,2154 1433,2153"/>
+                <TextEquiv>
+                    <Unicode>Diem.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r11" custom="readingOrder {index:10;} structure {type:reference;}">
+            <Coords points="1361,2052 1458,2048 1459,2117 1377,2117"/>
+            <TextLine id="r11l1" primaryLanguage="German" custom="readingOrder {index:0;} structure {type:reference;}">
+                <Coords points="1392,2074 1433,2075 1449,2071 1445,2115 1419,2114 1391,2115"/>
+                <Baseline points="1399,2112 1440,2112"/>
+                <TextEquiv>
+                    <Unicode>3³</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0" italic="true"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:11;}">
+            <Coords points="95,743 1432,734 1432,740 95,749"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:12;}">
+            <Coords points="94,1119 1431,1111 1432,1117 93,1123"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:13;}">
+            <Coords points="101,1716 1428,1703 1429,1707 101,1720"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

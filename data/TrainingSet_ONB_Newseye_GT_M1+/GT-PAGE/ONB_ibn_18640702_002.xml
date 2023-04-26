@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>University of Innsbruck</Creator>
+        <Created>2018-11-29T10:47:48.342+01:00</Created>
+        <LastChange>2023-04-25T10:52:40.400+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+        <TranskribusMetadata docId="1394947" pageId="53863156" pageNr="20" tsid="119418358" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=GAMRODNMGKVFKLPVYBAZNAKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPCXDVFHNNXRXZSWOXOVIFAN" imageId="38488770"/>
+    </Metadata>
+    <Page imageFilename="ONB_ibn_18640702_002.tif" imageWidth="1536" imageHeight="2326">
+        <PrintSpace>
+            <Coords points="0,0 1538,0 1538,2327 2,2325"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1682495881147" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="725,27 847,28 849,87 727,86"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="738,39 759,36 759,36 835,37 835,78 787,78 738,77"/>
+                <Baseline points="738,77 835,78"/>
+                <TextEquiv>
+                    <Unicode>1334</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="20.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="71,99 1492,100 1493,660 1490,962 1489,2171 72,2163 85,1243 73,594"/>
+            <TextLine id="r2l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="114,126 264,122 1281,117 1429,119 1458,128 1458,157 115,169"/>
+                <Baseline points="114,159 269,159 459,156 530,155 729,151 900,152 1004,153 1178,153 1251,153 1458,153"/>
+                <TextEquiv>
+                    <Unicode>burgiſchen Anſprüche die plötzliche Umſtimmung der Anſichten des preußiſchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="112,169 1458,164 1460,210 114,214"/>
+                <Baseline points="110,207 259,204 383,204 497,203 627,201 765,200 844,199 897,198 1083,198 1180,198 1260,200 1458,196"/>
+                <TextEquiv>
+                    <Unicode>Premiers bewirkt hätten Was bedeutet alſo die Parteinahme für den Großherzog</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="115,231 189,221 280,220 1330,213 1330,213 1430,215 1459,216 1459,254 126,261 115,254"/>
+                <Baseline points="115,254 171,253 340,252 485,251 606,249 689,249 759,249 912,248 974,247 1073,248 1185,248 1236,248 1329,247 1463,246"/>
+                <TextEquiv>
+                    <Unicode>von Oldenburg? — Vielleicht liegt die Antwort auf dieſe Frage in einer kürzlich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="116,279 125,267 1350,261 1350,261 1439,263 1458,269 1458,301 116,308"/>
+                <Baseline points="116,300 298,300 426,299 497,298 607,298 654,296 794,296 845,295 957,294 1040,296 1243,296 1310,295 1458,293"/>
+                <TextEquiv>
+                    <Unicode>erſchienenen Schrift des Herrn v. Daniels in Berlin, des Kronjuriſten der feudalen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="115,316 1346,307 1346,307 1396,308 1440,309 1459,312 1459,347 115,355"/>
+                <Baseline points="111,348 226,349 368,347 592,344 721,344 783,344 897,344 1108,344 1270,342 1352,340 1459,339"/>
+                <TextEquiv>
+                    <Unicode>Partei. Dieſer Staatsmann kommt zu einem ſonderbaren Reſultate; er findet</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="116,365 137,364 169,363 1381,356 1459,357 1460,398 116,404"/>
+                <Baseline points="116,396 215,396 296,394 379,395 655,393 720,392 797,391 910,391 1114,389 1358,389 1459,388"/>
+                <TextEquiv>
+                    <Unicode>nämlich, daß die Rechtsanſprüche der drei Linien: Glücksburg, Auguſtenburg und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="116,410 1442,402 1459,407 1459,444 116,452"/>
+                <Baseline points="114,444 232,443 304,442 375,442 528,440 588,441 660,440 919,439 1078,439 1270,437 1357,437 1460,436"/>
+                <TextEquiv>
+                    <Unicode>Gottorp auf die Erbfolge in den Herzogthümern ſämmtlich zweifelhaft ſind. Bis</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="115,463 178,456 1351,451 1402,450 1460,453 1460,482 1375,493 115,500"/>
+                <Baseline points="115,492 150,492 257,491 437,490 637,486 821,487 873,485 1001,485 1044,486 1116,485 1182,485 1297,485 1354,484 1460,482"/>
+                <TextEquiv>
+                    <Unicode>daß dieſe verwickelte Rechtsfrage entſchieden iſt, ſchlägt er vor, es möchte der Bund</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="114,506 1084,502 1085,544 115,548"/>
+                <Baseline points="115,541 154,541 349,539 430,538 673,536 732,536 890,535 1085,532"/>
+                <TextEquiv>
+                    <Unicode>die Verwaltung der Herzogthümer an Preußen übertragen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="197,552 1460,546 1460,587 197,595"/>
+                <Baseline points="197,587 223,587 316,587 543,583 639,584 740,584 807,583 897,582 1059,583 1212,582 1293,580 1390,580 1460,579"/>
+                <TextEquiv>
+                    <Unicode>Aus Venedig, 26. Juni, wird der „Tr. Ztg.“ geſchrieben: Die Feier des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="115,601 1462,595 1462,635 135,644 116,640"/>
+                <Baseline points="114,636 308,633 382,633 535,632 617,631 788,630 871,631 1049,630 1132,629 1205,629 1306,629 1405,627 1462,627"/>
+                <TextEquiv>
+                    <Unicode>Jahrestages der Schlacht von Solferino (24 Juni) ging dieſes Jahr nicht ſo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="116,662 209,651 493,645 1380,642 1451,652 1460,667 1460,682 117,691"/>
+                <Baseline points="112,679 171,682 334,680 456,680 548,678 638,677 708,679 759,679 871,677 949,677 1078,677 1164,675 1287,675 1460,674"/>
+                <TextEquiv>
+                    <Unicode>ganz harmlos vorüber, als ſonſt, da in Udine und Padua arge Exzeſſe vorkamen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="116,697 1462,690 1462,690 1462,728 116,735"/>
+                <Baseline points="116,729 159,731 290,728 405,729 519,727 627,725 703,726 756,724 851,724 936,723 1072,724 1238,723 1316,723 1462,721"/>
+                <TextEquiv>
+                    <Unicode>In erſterer Stadt wurde ſogar, wie es heißt, auf einzelne Soldaten von Dächern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="116,747 240,744 296,741 1463,734 1463,777 117,784 116,783"/>
+                <Baseline points="112,776 339,775 418,774 504,774 687,772 765,772 868,770 944,771 1185,770 1355,768 1464,769"/>
+                <TextEquiv>
+                    <Unicode>herabgeſchoſſen und eine Patrouille mit einer Art Orſinibomben beworfen, doch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="117,803 136,791 1465,782 1463,823 117,831"/>
+                <Baseline points="113,823 215,824 272,824 345,823 477,823 543,820 736,821 791,819 986,819 1064,819 1120,818 1196,818 1313,817 1402,816 1463,815"/>
+                <TextEquiv>
+                    <Unicode>gelang es den meiſten der Schuldigen zu entkommen, da ſie ihre Flucht über die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="117,835 1230,829 1463,833 1463,863 1460,870 117,880"/>
+                <Baseline points="117,872 224,870 301,871 434,870 708,866 828,867 974,867 1095,866 1185,865 1303,863 1445,863 1464,862"/>
+                <TextEquiv>
+                    <Unicode>Dächer der Häuſer bewerkſtelligten. Vom Militär wurde zum Glück Niemand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="117,895 246,884 1421,878 1461,878 1462,921 117,925"/>
+                <Baseline points="116,917 274,917 408,916 600,916 688,914 877,914 919,912 1118,914 1282,911 1464,910"/>
+                <TextEquiv>
+                    <Unicode>verwundet, einige Individuen aber, welche, der begangenen Attentate verdächtig,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="116,940 129,930 1363,925 1455,928 1464,929 1464,966 116,973"/>
+                <Baseline points="116,965 249,966 389,964 510,963 600,960 720,962 918,961 1068,960 1228,960 1333,959 1464,958"/>
+                <TextEquiv>
+                    <Unicode>verhaftet werden ſollten und hierbei Widerſtand leiſteten, wurden leicht verletzt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="118,979 1463,970 1464,1015 118,1022"/>
+                <Baseline points="118,1017 147,1011 292,1011 377,1011 436,1009 499,1010 611,1009 722,1009 885,1007 986,1008 1140,1006 1330,1007 1463,1006"/>
+                <TextEquiv>
+                    <Unicode>In Padua kam es zu einem argen Skandal. Die dortigen Studenten gefielen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="119,1026 1462,1019 1463,1060 119,1071"/>
+                <Baseline points="117,1062 159,1061 287,1059 382,1059 480,1057 557,1057 811,1056 869,1057 1002,1055 1134,1055 1293,1053 1402,1054 1463,1052"/>
+                <TextEquiv>
+                    <Unicode>ſich nämlich zur Feier des Solferinotages in allerlei groben Exzeſſen. Auch in</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="117,1086 157,1078 260,1073 1392,1069 1463,1077 1464,1109 117,1116"/>
+                <Baseline points="117,1108 221,1108 368,1107 443,1105 875,1104 1075,1103 1154,1104 1264,1102 1314,1102 1463,1100"/>
+                <TextEquiv>
+                    <Unicode>andern Städten des lombardiſch⸗venetianiſchen Königreichs, ja ſogar in Verona,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="118,1120 1408,1113 1449,1117 1464,1125 1464,1148 1449,1155 1431,1156 118,1163"/>
+                <Baseline points="118,1156 213,1156 499,1153 574,1151 667,1152 874,1152 944,1152 1096,1151 1164,1149 1240,1149 1464,1148"/>
+                <TextEquiv>
+                    <Unicode>kamen Demonſtrationen vor, doch beſchränkten ſich dieſelben auf das landesübliche</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="116,1168 901,1164 945,1165 1026,1175 1037,1182 1037,1206 116,1212"/>
+                <Baseline points="114,1203 365,1202 444,1200 621,1199 722,1200 899,1199 1037,1198"/>
+                <TextEquiv>
+                    <Unicode>Petardenwerfen und Anzünden von bengaliſchen Feuern.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="201,1218 270,1214 1450,1211 1465,1221 1465,1252 201,1258"/>
+                <Baseline points="201,1250 444,1249 530,1248 621,1248 695,1248 1071,1245 1188,1245 1333,1244 1393,1243 1465,1244"/>
+                <TextEquiv>
+                    <Unicode>Leuchtthurm bei der Weſermündung, 28. Juni. Heute iſt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="121,1272 189,1265 238,1263 1167,1257 1466,1258 1465,1294 1360,1303 121,1307"/>
+                <Baseline points="119,1299 269,1297 420,1296 595,1295 683,1295 792,1295 1022,1295 1110,1294 1220,1293 1305,1293 1388,1291 1465,1291"/>
+                <TextEquiv>
+                    <Unicode>preußiſche Corvette „Gazelle“ aus Jeddo angekommen. Es zeigte ſich auch eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="121,1312 184,1310 349,1310 418,1320 418,1353 121,1353"/>
+                <Baseline points="121,1346 293,1344 418,1343"/>
+                <TextEquiv>
+                    <Unicode>franzöſiſche Flagge</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="203,1360 308,1357 801,1355 1265,1354 1438,1355 1466,1358 1468,1397 204,1400"/>
+                <Baseline points="203,1389 242,1391 499,1392 592,1389 725,1390 788,1389 858,1389 904,1389 1135,1389 1259,1388 1314,1387 1466,1386"/>
+                <TextEquiv>
+                    <Unicode>Frankfurt, 27. Juni Man hat hier in diplomatiſchen Kreiſen die Nachricht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="123,1409 222,1406 1159,1402 1445,1404 1466,1411 1466,1434 1401,1442 123,1448"/>
+                <Baseline points="123,1440 236,1439 319,1439 396,1439 510,1436 624,1436 712,1437 790,1437 942,1435 1011,1436 1147,1437 1247,1435 1378,1435 1466,1434"/>
+                <TextEquiv>
+                    <Unicode>erhalten, daß in Wien, gleich nach der Rückkehr des Kaiſers Franz Joſeph, ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="124,1456 143,1451 727,1451 906,1452 912,1460 912,1491 144,1495 124,1488"/>
+                <Baseline points="124,1488 190,1486 271,1487 411,1486 569,1484 706,1485 834,1484 912,1483"/>
+                <TextEquiv>
+                    <Unicode>Rath der höchſten Militärs berufen werden ſoll.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="205,1500 1468,1497 1470,1542 206,1542"/>
+                <Baseline points="206,1536 236,1536 390,1534 501,1534 607,1532 802,1533 1007,1531 1080,1532 1320,1531 1468,1529"/>
+                <TextEquiv>
+                    <Unicode>Bern, 29. Juni. Der Bundesrath ermächtigte den ſchweizeriſchen Miniſter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="125,1548 1133,1545 1416,1545 1469,1554 1469,1577 1448,1589 125,1593"/>
+                <Baseline points="125,1585 179,1583 281,1582 333,1583 439,1579 539,1581 716,1577 796,1579 1169,1579 1240,1579 1401,1578 1469,1577"/>
+                <TextEquiv>
+                    <Unicode>Dr. Kern in Paris, die Handels⸗ und Niederlaſſungsverträge mit Frankreich zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="124,1597 399,1598 401,1635 125,1638"/>
+                <Baseline points="125,1631 336,1631 399,1632"/>
+                <TextEquiv>
+                    <Unicode>unterzeichnen. —</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="209,1643 468,1640 1470,1639 1471,1684 216,1686 208,1678"/>
+                <Baseline points="207,1678 227,1678 466,1676 641,1677 808,1675 861,1675 937,1674 1040,1674 1100,1673 1183,1673 1367,1673 1470,1673"/>
+                <TextEquiv>
+                    <Unicode>London. Die „Morning Poſt“ vom 27. Juni iſt ſehr kriegeriſch. Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" primaryLanguage="German" custom="readingOrder {index:33;}">
+                <Coords points="127,1690 1468,1687 1470,1732 129,1734"/>
+                <Baseline points="129,1728 187,1725 289,1725 461,1722 662,1724 767,1722 857,1722 983,1723 1179,1719 1249,1720 1468,1717"/>
+                <TextEquiv>
+                    <Unicode>ſagt unter Anderem: „England könne ſeine paſſive Neutralität den Kriegführen⸗</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l35" primaryLanguage="German" custom="readingOrder {index:34;}">
+                <Coords points="127,1742 207,1739 1352,1734 1352,1734 1472,1735 1472,1775 127,1781"/>
+                <Baseline points="127,1773 177,1772 363,1773 461,1772 587,1771 736,1771 895,1771 1005,1770 1204,1769 1291,1769 1472,1767"/>
+                <TextEquiv>
+                    <Unicode>den gegenüber nicht länger aufrecht erhalten. Lord Palmerſton will Dänemark</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l36" primaryLanguage="German" custom="readingOrder {index:35;}">
+                <Coords points="129,1789 145,1787 291,1783 1306,1781 1306,1781 1473,1782 1473,1823 129,1826"/>
+                <Baseline points="129,1818 267,1817 364,1818 529,1818 657,1818 743,1815 819,1817 901,1816 1128,1816 1220,1816 1360,1816 1471,1815"/>
+                <TextEquiv>
+                    <Unicode>beiſtehen, ſeine Anſichten werden aber von dem Miniſterrathe nicht getheilt. Graf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l37" primaryLanguage="German" custom="readingOrder {index:36;}">
+                <Coords points="130,1833 140,1829 1354,1827 1354,1827 1443,1832 1472,1839 1472,1870 130,1872"/>
+                <Baseline points="130,1864 235,1865 366,1865 439,1866 490,1865 775,1864 1032,1862 1134,1863 1263,1862 1397,1866 1472,1862"/>
+                <TextEquiv>
+                    <Unicode>Ruſſell bekennt ſich zu entgegengeſetzten Anſchauungen. Die „Poſt“ glaubt, der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l38" primaryLanguage="German" custom="readingOrder {index:37;}">
+                <Coords points="129,1879 237,1880 893,1875 1242,1875 1363,1877 1471,1883 1473,1918 130,1920"/>
+                <Baseline points="129,1912 215,1912 272,1910 491,1911 580,1911 686,1911 765,1910 938,1910 1127,1908 1291,1908 1473,1910"/>
+                <TextEquiv>
+                    <Unicode>Krieg ſei unvermeidlich und könne eine ungeheure Entwicklung nehmen. Dagegen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l39" primaryLanguage="German" custom="readingOrder {index:38;}">
+                <Coords points="131,1937 159,1927 536,1923 1473,1921 1473,1921 1473,1965 131,1968"/>
+                <Baseline points="131,1960 212,1959 283,1958 436,1957 627,1959 726,1958 789,1958 881,1958 935,1958 1085,1958 1160,1959 1237,1957 1334,1958 1473,1957"/>
+                <TextEquiv>
+                    <Unicode>meint die „Times“, Englands Ehre ſei nicht ſo engagirt, daß es Krieg führen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l40" primaryLanguage="German" custom="readingOrder {index:39;}">
+                <Coords points="131,1984 152,1974 196,1971 1473,1969 1473,1969 1473,2012 131,2015"/>
+                <Baseline points="131,2007 230,2009 303,2006 432,2006 522,2006 641,2005 757,2004 865,2006 989,2004 1155,2004 1313,2004 1421,2005 1473,2004"/>
+                <TextEquiv>
+                    <Unicode>müſſe, die Nation will keinen Krieg. Der „Star“ wünſcht England Glück zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l41" primaryLanguage="German" custom="readingOrder {index:40;}">
+                <Coords points="132,2023 186,2021 774,2017 1404,2016 1404,2016 1474,2019 1474,2058 132,2060"/>
+                <Baseline points="132,2052 177,2054 301,2053 366,2053 532,2053 644,2053 772,2054 865,2053 1033,2053 1188,2052 1321,2052 1474,2050"/>
+                <TextEquiv>
+                    <Unicode>der Politik der Regierung. Es können zwar Umſtände eintreten, welche England</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l42" primaryLanguage="German" custom="readingOrder {index:41;}">
+                <Coords points="134,2069 276,2064 1150,2063 1150,2063 1459,2067 1475,2076 1475,2098 1460,2106 134,2108"/>
+                <Baseline points="134,2100 284,2100 378,2100 456,2101 572,2100 663,2100 753,2100 839,2100 925,2100 1017,2099 1201,2099 1366,2099 1475,2098"/>
+                <TextEquiv>
+                    <Unicode>beſtimmen, Krieg zu führen, jetzt ſeien dieſe aber nicht vorhanden. England werde</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r2l43" primaryLanguage="German" custom="readingOrder {index:42;}">
+                <Coords points="135,2124 176,2117 243,2116 328,2115 1192,2112 1260,2125 1261,2159 233,2156 135,2149"/>
+                <Baseline points="135,2149 220,2148 287,2149 360,2150 523,2148 671,2148 763,2148 839,2148 1015,2148 1172,2148 1258,2145"/>
+                <TextEquiv>
+                    <Unicode>weder für den Londoner Vertrag, noch für Schleswig Krieg führen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="505,2175 1118,2175 1118,2181 505,2181"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="505,2184 1118,2184 1118,2190 505,2190"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

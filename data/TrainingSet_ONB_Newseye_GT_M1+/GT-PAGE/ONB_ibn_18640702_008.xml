@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>University of Innsbruck</Creator>
+        <Created>2018-11-29T10:47:53.386+01:00</Created>
+        <LastChange>2023-04-25T10:53:30.220+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: https://transkribus.eu/Transkribus/</Comments>
+        <TranskribusMetadata docId="1394947" pageId="53863161" pageNr="25" tsid="119418529" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HZGJXLRNSKDUNZCPUATMMZPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XOJTDKBHIIPRHVVKVGQGHVSH" imageId="38488782"/>
+    </Metadata>
+    <Page imageFilename="ONB_ibn_18640702_008.tif" imageWidth="1536" imageHeight="2323">
+        <PrintSpace>
+            <Coords points="-4,-2 1535,0 1535,2322 -1,2322"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1682495881155" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r7"/>
+                <RegionRefIndexed index="7" regionRef="r8"/>
+                <RegionRefIndexed index="8" regionRef="r9"/>
+                <RegionRefIndexed index="9" regionRef="r10"/>
+                <RegionRefIndexed index="10" regionRef="r11"/>
+                <RegionRefIndexed index="11" regionRef="r12"/>
+                <RegionRefIndexed index="12" regionRef="r13"/>
+                <RegionRefIndexed index="13" regionRef="r14"/>
+                <RegionRefIndexed index="14" regionRef="r15"/>
+                <RegionRefIndexed index="15" regionRef="r16"/>
+                <RegionRefIndexed index="16" regionRef="r17"/>
+                <RegionRefIndexed index="17" regionRef="r18"/>
+                <RegionRefIndexed index="18" regionRef="r19"/>
+                <RegionRefIndexed index="19" regionRef="r20"/>
+                <RegionRefIndexed index="20" regionRef="r21"/>
+                <RegionRefIndexed index="21" regionRef="r22"/>
+                <RegionRefIndexed index="22" regionRef="r23"/>
+                <RegionRefIndexed index="23" regionRef="r24"/>
+                <RegionRefIndexed index="24" regionRef="r25"/>
+                <RegionRefIndexed index="25" regionRef="r26"/>
+                <RegionRefIndexed index="26" regionRef="r27"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="r1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="719,33 848,33 848,95 719,95"/>
+            <TextLine id="r1l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="735,40 835,41 836,83 808,83 753,84 736,84"/>
+                <Baseline points="736,84 836,82"/>
+                <TextEquiv>
+                    <Unicode>1340</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r2" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="482,172 1071,171 1071,315 482,316"/>
+            <TextLine id="r2l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="513,195 912,193 1052,200 1052,286 1032,310 511,314"/>
+                <Baseline points="510,288 718,285 1050,283"/>
+                <TextEquiv>
+                    <Unicode>Franz Hölzl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="45.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="257,319 1369,315 1385,668 1280,671 1276,741 256,749 257,388"/>
+            <TextLine id="r3l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="279,349 290,332 1156,328 1289,329 1289,367 1212,382 290,382 279,371"/>
+                <Baseline points="279,371 382,371 412,371 506,371 646,369 776,370 1064,368 1289,367"/>
+                <TextEquiv>
+                    <Unicode>offerirt in friſcher und ganz vorzüglicher Qualität</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="402,399 525,397 761,394 761,394 940,394 940,438 402,439"/>
+                <Baseline points="401,431 556,432 736,430 940,430"/>
+                <TextEquiv>
+                    <Unicode>Feinſte Veroneſer Salami,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="401,446 618,441 799,440 852,448 852,485 849,486 403,489"/>
+                <Baseline points="402,479 434,478 853,478"/>
+                <TextEquiv>
+                    <Unicode>Echten Parmeſan⸗Käs,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="402,495 526,490 735,488 752,504 752,535 401,540"/>
+                <Baseline points="403,526 432,525 625,527 752,527"/>
+                <TextEquiv>
+                    <Unicode>Feinſt Aixer Oel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="402,542 535,537 781,536 829,538 829,583 402,582"/>
+                <Baseline points="402,574 489,573 712,575 828,572"/>
+                <TextEquiv>
+                    <Unicode>Feinſt Genueſer Oel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="402,590 523,585 716,585 745,586 758,598 759,632 404,633"/>
+                <Baseline points="404,623 489,621 757,622"/>
+                <TextEquiv>
+                    <Unicode>Gutes Speis⸗Oel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="403,638 550,631 1016,631 1046,642 1046,674 1022,677 402,680"/>
+                <Baseline points="403,669 551,671 780,668 914,669 1043,669"/>
+                <TextEquiv>
+                    <Unicode>Feinſte Augsburger Kernſtärke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="402,682 873,678 877,691 877,721 823,725 425,725 403,718"/>
+                <Baseline points="403,719 500,718 677,719 875,718 877,718"/>
+                <TextEquiv>
+                    <Unicode>Echtes Cölner Waſſer.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r4" custom="readingOrder {index:3;} structure {type:reference;}">
+            <Coords points="1280,671 1385,668 1386,675 1386,741 1276,741"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;} structure {type:reference;}">
+                <Coords points="1330,677 1372,676 1372,721 1330,722"/>
+                <Baseline points="1330,710 1368,710"/>
+                <TextEquiv>
+                    <Unicode>3₄</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r5" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="91,809 457,808 460,910 91,908"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="107,818 453,815 451,906 105,909"/>
+                <Baseline points="105,894 451,891"/>
+                <TextEquiv>
+                    <Unicode>Verlaufen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="92,911 457,911 460,808 1468,803 1464,951 94,961"/>
+            <TextLine id="r6l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="470,823 517,819 1240,810 1360,813 1426,815 1444,816 1454,838 1454,845 1451,853 470,860"/>
+                <Baseline points="469,852 517,853 584,853 653,852 704,851 788,851 853,850 970,848 1134,845 1220,847 1454,845"/>
+                <TextEquiv>
+                    <Unicode>hat ſich am 1. Juli ein kleiner gelb⸗rother Hund (Pinſch).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="469,863 1455,854 1455,895 470,903"/>
+                <Baseline points="471,894 517,893 610,894 742,894 836,891 914,891 1038,888 1121,887 1288,887 1375,887 1453,886"/>
+                <TextEquiv>
+                    <Unicode>Auf der Kelper ſteht der Name und Hofgaſſe Nr. 37.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="r6l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="111,913 135,913 1453,902 1453,944 280,953 111,946"/>
+                <Baseline points="111,946 156,945 254,943 371,942 510,942 618,940 729,939 894,939 982,937 1200,934 1453,936"/>
+                <TextEquiv>
+                    <Unicode>Es wird erſucht, ſelben gegen gutes Trinkgeld dem Eigenthümer zurückzuſtellen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r7" custom="readingOrder {index:6;} structure {type:heading;}">
+            <Coords points="100,974 444,972 444,1057 98,1058"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="111,974 433,974 430,1048 110,1051"/>
+                <Baseline points="109,1053 430,1045"/>
+                <TextEquiv>
+                    <Unicode>Verloren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="95,1064 444,1058 448,970 1460,964 1459,1056 1390,1056 1388,1105 95,1120"/>
+            <TextLine id="r8l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="454,1022 455,978 608,975 1246,967 1425,972 1454,978 1455,1011"/>
+                <Baseline points="455,1007 526,1009 567,1008 998,1007 1301,1001 1383,1002 1454,1000"/>
+                <TextEquiv>
+                    <Unicode>Eine meſſingene Patentwagenachſenbüchſe iſt von hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="455,1028 496,1020 516,1017 1326,1011 1440,1012 1455,1020 1455,1051 452,1059"/>
+                <Baseline points="454,1049 509,1049 664,1047 725,1049 858,1046 1018,1044 1130,1043 1258,1043 1366,1044 1455,1041"/>
+                <TextEquiv>
+                    <Unicode>nach Bolders in Verluſt gerathen Der Finder wolle ſelbe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="r8l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="156,1068 1184,1058 1184,1100 110,1113 111,1081"/>
+                <Baseline points="112,1100 192,1100 297,1101 489,1099 539,1098 609,1097 796,1095 903,1092 1010,1094 1040,1091 1182,1091 1184,1090"/>
+                <TextEquiv>
+                    <Unicode>gegen guten Finderlohn in der Expedition dieſes Blattes abgeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r9" custom="readingOrder {index:8;} structure {type:reference;}">
+            <Coords points="1390,1056 1459,1056 1459,1105 1388,1105"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;} structure {type:reference;}">
+                <Coords points="1419,1057 1440,1056 1454,1056 1453,1094 1419,1094"/>
+                <Baseline points="1419,1089 1438,1089 1453,1089"/>
+                <TextEquiv>
+                    <Unicode>2²</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r10" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="100,1130 617,1124 618,1223 99,1229"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="106,1132 606,1127 607,1213 105,1225"/>
+                <Baseline points="109,1209 605,1198"/>
+                <TextEquiv>
+                    <Unicode>Zu vermiethen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="621,1124 1464,1117 1467,1167 1415,1163 1410,1216 623,1221"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="632,1132 732,1130 1409,1123 1454,1129 1454,1157 1412,1163 631,1172"/>
+                <Baseline points="630,1164 1453,1156"/>
+                <TextEquiv>
+                    <Unicode>ſind Margarethenplatz Nr. 606 ein Laden mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l2" custom="readingOrder {index:1;}">
+                <Coords points="630,1172 1407,1166 1407,1202 634,1211 631,1211"/>
+                <Baseline points="631,1203 1407,1198"/>
+                <TextEquiv>
+                    <Unicode>Zimmer, Küche Arbeitslokale und Keller auf Galli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r12" custom="readingOrder {index:11;} structure {type:reference;}">
+            <Coords points="1415,1163 1467,1167 1470,1216 1410,1216"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;} structure {type:reference;}">
+                <Coords points="1418,1166 1449,1166 1455,1166 1455,1209 1420,1207"/>
+                <Baseline points="1422,1198 1453,1196"/>
+                <TextEquiv>
+                    <Unicode>3₃</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r13" custom="readingOrder {index:12;} structure {type:heading;}">
+            <Coords points="95,1241 819,1230 821,1330 96,1340"/>
+            <TextLine id="r13l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="111,1244 805,1235 805,1327 111,1340"/>
+                <Baseline points="110,1321 242,1319 482,1315 807,1310"/>
+                <TextEquiv>
+                    <Unicode>Ein junger Menſch,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="41.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r14" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="822,1230 1466,1225 1466,1324 822,1330"/>
+            <TextLine id="r14l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="828,1249 852,1239 868,1236 1275,1234 1275,1234 1416,1235 1443,1236 1455,1237 1455,1266 1443,1274 1441,1274 828,1278"/>
+                <Baseline points="828,1270 877,1270 980,1269 1161,1267 1303,1266 1455,1266"/>
+                <TextEquiv>
+                    <Unicode>mit beſten Zeugniſſen verſehen, wünſcht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="r14l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="828,1278 1123,1277 1122,1318 828,1317"/>
+                <Baseline points="828,1312 883,1311 1123,1305"/>
+                <TextEquiv>
+                    <Unicode>eine Beſchäftigung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r15" custom="readingOrder {index:14;} structure {type:heading;}">
+            <Coords points="100,1353 1464,1334 1467,1437 99,1449"/>
+            <TextLine id="r15l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="110,1358 1453,1345 1453,1435 110,1448"/>
+                <Baseline points="111,1436 459,1431 848,1423 958,1425 1452,1419"/>
+                <TextEquiv>
+                    <Unicode>Deutſche Claſſiker, 300 Bändchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r16" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="196,1446 1372,1439 1374,1486 197,1498"/>
+            <TextLine id="r16l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="213,1462 241,1451 1261,1440 1340,1445 1351,1453 1352,1479 242,1491 213,1486"/>
+                <Baseline points="212,1484 328,1483 422,1483 475,1482 647,1478 772,1476 853,1476 912,1475 1094,1473 1200,1471 1351,1473"/>
+                <TextEquiv>
+                    <Unicode>complet, ſind zu verkaufen. Wo? ſagt die Expedition dieſes Blattes.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r17" custom="readingOrder {index:16;} structure {type:heading;}">
+            <Coords points="771,1643 102,1643 102,1520 771,1518"/>
+            <TextLine id="r17l1" custom="readingOrder {index:0;}">
+                <Coords points="378,1523 468,1522 484,1522 503,1527 503,1545 485,1547 389,1548 378,1547"/>
+                <Baseline points="375,1547 505,1545"/>
+                <TextEquiv>
+                    <Unicode>Cours der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l2" custom="readingOrder {index:1;}">
+                <Coords points="260,1562 339,1558 525,1558 622,1564 621,1588 281,1593 260,1591"/>
+                <Baseline points="259,1591 624,1585"/>
+                <TextEquiv>
+                    <Unicode>Geld⸗Sorten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l3" custom="readingOrder {index:2;}">
+                <Coords points="294,1601 593,1597 595,1632 295,1632"/>
+                <Baseline points="295,1629 594,1625"/>
+                <TextEquiv>
+                    <Unicode>Am 30. Juni 1864.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r18" custom="readingOrder {index:17;} structure {type:paragraph;}">
+            <Coords points="482,2028 102,2028 102,1643 482,1643"/>
+            <TextLine id="r18l1" custom="readingOrder {index:0;}">
+                <Coords points="116,1665 259,1667 259,1694 116,1695"/>
+                <Baseline points="116,1692 256,1691"/>
+                <TextEquiv>
+                    <Unicode>K. Kronen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l2" custom="readingOrder {index:1;}">
+                <Coords points="114,1712 356,1711 355,1744 115,1747"/>
+                <Baseline points="115,1740 353,1736"/>
+                <TextEquiv>
+                    <Unicode>K. Münz⸗Dukaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l3" custom="readingOrder {index:2;}">
+                <Coords points="114,1761 348,1756 347,1787 114,1788"/>
+                <Baseline points="115,1786 345,1783"/>
+                <TextEquiv>
+                    <Unicode>K. Rend⸗Dukaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l4" custom="readingOrder {index:3;}">
+                <Coords points="112,1808 284,1808 284,1838 113,1840"/>
+                <Baseline points="114,1835 280,1833"/>
+                <TextEquiv>
+                    <Unicode>Napoleonsdor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l5" custom="readingOrder {index:4;}">
+                <Coords points="113,1856 368,1852 368,1888 112,1888"/>
+                <Baseline points="112,1881 366,1879"/>
+                <TextEquiv>
+                    <Unicode>Ruſſiſche Imperiale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l6" custom="readingOrder {index:5;}">
+                <Coords points="114,1901 273,1899 273,1935 114,1934"/>
+                <Baseline points="114,1927 271,1926"/>
+                <TextEquiv>
+                    <Unicode>Friedrichsdor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l7" custom="readingOrder {index:6;}">
+                <Coords points="113,1948 380,1945 380,1980 111,1980"/>
+                <Baseline points="113,1972 378,1971"/>
+                <TextEquiv>
+                    <Unicode>Engliſche Sovereings</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l8" custom="readingOrder {index:7;}">
+                <Coords points="114,1995 469,1993 470,2025 113,2026"/>
+                <Baseline points="113,2022 467,2018"/>
+                <TextEquiv>
+                    <Unicode>Preuß. Kaſſen⸗Anweiſungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r19" custom="readingOrder {index:18;} structure {type:paragraph;}">
+            <Coords points="771,2025 671,2024 671,1643 771,1643"/>
+            <TextLine id="r19l1" custom="readingOrder {index:0;}">
+                <Coords points="683,1660 757,1660 757,1686 683,1686"/>
+                <Baseline points="683,1687 757,1686"/>
+                <TextEquiv>
+                    <Unicode>15.90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l2" custom="readingOrder {index:1;}">
+                <Coords points="694,1706 756,1706 756,1737 695,1736"/>
+                <Baseline points="694,1733 755,1734"/>
+                <TextEquiv>
+                    <Unicode>5 47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l3" custom="readingOrder {index:2;}">
+                <Coords points="695,1755 755,1755 755,1782 695,1782"/>
+                <Baseline points="695,1782 755,1781"/>
+                <TextEquiv>
+                    <Unicode>5.47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l4" custom="readingOrder {index:3;}">
+                <Coords points="695,1803 758,1803 758,1829 696,1828"/>
+                <Baseline points="696,1828 758,1829"/>
+                <TextEquiv>
+                    <Unicode>9.23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l5" custom="readingOrder {index:4;}">
+                <Coords points="694,1850 757,1851 757,1877 696,1877"/>
+                <Baseline points="695,1877 756,1876"/>
+                <TextEquiv>
+                    <Unicode>9.45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l6" custom="readingOrder {index:5;}">
+                <Coords points="695,1898 758,1899 758,1924 696,1923"/>
+                <Baseline points="695,1921 757,1922"/>
+                <TextEquiv>
+                    <Unicode>9.70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l7" custom="readingOrder {index:6;}">
+                <Coords points="680,1946 756,1945 756,1969 681,1970"/>
+                <Baseline points="680,1968 756,1970"/>
+                <TextEquiv>
+                    <Unicode>11.55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l8" custom="readingOrder {index:7;}">
+                <Coords points="698,1993 757,1994 757,2017 698,2017"/>
+                <Baseline points="698,2017 757,2017"/>
+                <TextEquiv>
+                    <Unicode>1.72</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="heading" id="r20" custom="readingOrder {index:19;} structure {type:heading;}">
+            <Coords points="818,1509 1432,1503 1434,1579 818,1579"/>
+            <TextLine id="r20l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="829,1515 834,1512 1316,1507 1369,1508 1419,1515 1419,1535 1363,1538 833,1547 829,1542"/>
+                <Baseline points="829,1542 1032,1539 1263,1537 1311,1536 1419,1535"/>
+                <TextEquiv>
+                    <Unicode>Telegraphiſche Börſen⸗Courſe in Wien.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r20l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="999,1548 1200,1543 1262,1545 1261,1574 1008,1577 999,1572"/>
+                <Baseline points="999,1573 1046,1572 1090,1572 1168,1572 1260,1570"/>
+                <TextEquiv>
+                    <Unicode>Am 1. Juli 1864.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r21" custom="readingOrder {index:20;} structure {type:paragraph;}">
+            <Coords points="799,1579 1268,1578 1474,1617 1474,1660 1473,1700 1473,1820 800,1824 798,1660 798,1623"/>
+            <TextLine id="r21l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="814,1587 1215,1584 1247,1585 1247,1614 1144,1617 813,1619"/>
+                <Baseline points="814,1615 847,1614 937,1611 990,1613 1044,1612 1088,1614 1158,1611 1200,1609 1249,1609"/>
+                <TextEquiv>
+                    <Unicode>In öfterr. W. zu 5 % für 100 fl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l2" custom="readingOrder {index:1;}">
+                <Coords points="813,1627 958,1627 1457,1623 1457,1654 1073,1659 813,1657"/>
+                <Baseline points="815,1654 959,1651 1073,1656 1384,1651 1457,1651"/>
+                <TextEquiv>
+                    <Unicode>Metallignes „ „ 71 40</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="813,1671 1456,1666 1456,1691 1297,1698 813,1701"/>
+                <Baseline points="812,1695 1012,1695 1074,1694 1457,1690"/>
+                <TextEquiv>
+                    <Unicode>Nationaleslehen „ „ 79.70</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="r21l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="812,1710 985,1707 1157,1705 1297,1702 1391,1706 1407,1707 1407,1731 1362,1733 812,1738"/>
+                <Baseline points="811,1733 886,1734 947,1733 1130,1731 1187,1729 1409,1732"/>
+                <TextEquiv>
+                    <Unicode>Aktien der Nationalbank per Stück 781</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r21l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="813,1749 1353,1743 1353,1743 1353,1776 813,1778"/>
+                <Baseline points="813,1776 891,1774 942,1774 1133,1771 1187,1770 1292,1769 1351,1769"/>
+                <TextEquiv>
+                    <Unicode>Aktien der Credit⸗Anſtalt für Handel und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r21l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="830,1792 836,1790 937,1789 937,1818 832,1818 830,1817"/>
+                <Baseline points="829,1816 859,1815 927,1814 933,1814"/>
+                <TextEquiv>
+                    <Unicode>Gewerbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="1359,1788 1454,1787 1454,1812 1361,1814"/>
+                <Baseline points="1361,1812 1407,1811 1454,1811"/>
+                <TextEquiv>
+                    <Unicode>191 80</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r22" custom="readingOrder {index:21;} structure {type:paragraph;}">
+            <Coords points="798,1825 1156,1823 1157,1903 1157,1980 796,1981 794,1919 797,1888 798,1862"/>
+            <TextLine id="r22l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="811,1830 1074,1830 1116,1830 1116,1853 1078,1859 812,1861"/>
+                <Baseline points="812,1856 987,1853 1047,1854 1116,1852"/>
+                <TextEquiv>
+                    <Unicode>Staatsanlehen von 1860</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r22l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="812,1871 875,1871 892,1879 892,1894 889,1896 812,1897"/>
+                <Baseline points="812,1895 891,1894"/>
+                <TextEquiv>
+                    <Unicode>Silber</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="r22l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="814,1910 1125,1906 1138,1908 1151,1916 1151,1939 1149,1940 815,1939"/>
+                <Baseline points="813,1934 897,1936 940,1934 1033,1933 1150,1932"/>
+                <TextEquiv>
+                    <Unicode>London 10 Pfund Sterling</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r22l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="813,1948 1126,1946 1126,1978 813,1981"/>
+                <Baseline points="813,1975 963,1973 1124,1973"/>
+                <TextEquiv>
+                    <Unicode>Kaiſerliche Münzdukaten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r23" custom="readingOrder {index:22;} structure {type:paragraph;}">
+            <Coords points="1353,1821 1458,1821 1463,1867 1461,1902 1469,1980 1350,1980 1351,1902 1350,1897 1350,1866"/>
+            <TextLine id="r23l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1374,1824 1422,1825 1423,1851 1374,1852"/>
+                <Baseline points="1375,1850 1423,1850"/>
+                <TextEquiv>
+                    <Unicode>96.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r23l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1363,1867 1454,1867 1454,1892 1361,1894"/>
+                <Baseline points="1361,1891 1454,1891"/>
+                <TextEquiv>
+                    <Unicode>113 50</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="r23l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1364,1910 1420,1908 1421,1932 1364,1935"/>
+                <Baseline points="1364,1931 1420,1931"/>
+                <TextEquiv>
+                    <Unicode>115.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="r23l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="1397,1945 1457,1944 1456,1974 1397,1972"/>
+                <Baseline points="1397,1971 1456,1971"/>
+                <TextEquiv>
+                    <Unicode>5.49</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r24" custom="readingOrder {index:23;} structure {type:paragraph;}">
+            <Coords points="804,1982 1463,1982 1462,2022 804,2026"/>
+            <TextLine id="r24l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="814,1989 835,1989 1452,1986 1452,2018 814,2022"/>
+                <Baseline points="814,2015 946,2014 977,2014 1056,2014 1128,2014 1262,2012 1340,2013 1452,2015"/>
+                <TextEquiv>
+                    <Unicode>Frankfurt a. M., 30. Juni, Wien: 100 ⅞</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r25" custom="readingOrder {index:24;} structure {type:paragraph;}">
+            <Coords points="422,2046 1142,2041 1142,2090 420,2097"/>
+            <TextLine id="r25l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="428,2050 1132,2046 1132,2087 430,2093"/>
+                <Baseline points="429,2084 493,2083 590,2083 729,2081 808,2082 904,2080 1132,2080"/>
+                <TextEquiv>
+                    <Unicode>Mit einer Beilage und einer Extrabeilage.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="footnote" id="r26" custom="readingOrder {index:25;} structure {type:footnote;}">
+            <Coords points="368,2114 1199,2109 1200,2159 368,2159"/>
+            <TextLine id="r26l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="380,2116 1188,2110 1188,2155 382,2159"/>
+                <Baseline points="380,2154 654,2151 856,2151 945,2151 1188,2148"/>
+                <TextEquiv>
+                    <Unicode>Verantwortlicher Redakteur: G. Hauſchild.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0" bold="true"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion type="footnote" id="r27" custom="readingOrder {index:26;} structure {type:footnote;}">
+            <Coords points="110,2160 1456,2158 1456,2202 110,2211"/>
+            <TextLine id="r27l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="116,2169 1023,2162 1054,2162 1314,2161 1314,2161 1446,2161 1451,2180 1451,2185 1437,2193 249,2202 116,2202"/>
+                <Baseline points="115,2195 297,2195 349,2195 396,2194 570,2193 918,2190 983,2188 1042,2189 1091,2189 1266,2188 1451,2185"/>
+                <TextEquiv>
+                    <Unicode>Herausgegeben von der Wagner'ſchen Univerſitäts⸗Buchhandlung. — Druck der Wagner'ſchen Buchdruckerei.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:27;}">
+            <Coords points="115,964 917,959 1145,955 1453,955 1453,960 1106,961 114,970"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:28;}">
+            <Coords points="111,1122 764,1116 1453,1108 1453,1114 727,1121 111,1129"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:29;}">
+            <Coords points="122,1231 831,1222 1452,1218 1452,1222 853,1227 122,1237"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:30;}">
+            <Coords points="110,1343 662,1334 1177,1328 1454,1328 1454,1333 1134,1334 672,1341 110,1349"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:31;}">
+            <Coords points="111,1502 1035,1491 1455,1487 1456,1492 1019,1495 111,1508"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:32;}">
+            <Coords points="111,1512 983,1500 1285,1498 1454,1497 1454,1501 1273,1501 1001,1504 110,1517"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:33;}">
+            <Coords points="118,2035 642,2029 1453,2024 1453,2028 651,2033 118,2039"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:34;}">
+            <Coords points="117,2043 464,2039 1452,2032 1452,2037 656,2041 436,2044 117,2048"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:35;}">
+            <Coords points="116,2101 1454,2092 1454,2097 117,2106"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:36;}">
+            <Coords points="117,2110 1111,2103 1454,2101 1453,2105 1098,2107 117,2114"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:37;}">
+            <Coords points="133,323 154,323 154,754 133,754"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:38;}">
+            <Coords points="778,1517 785,1517 785,2023 778,2023"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

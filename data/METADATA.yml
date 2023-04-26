@@ -1,0 +1,117 @@
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: Austrian Newspapers
+url: https://github.com/UB-Mannheim/AustrianNewspapers
+authors:
+  - name: Kamlah
+    surname: Jan
+    roles:
+      - transcriber
+      - project-manager
+      - support
+  - name: Schmidt
+    surname: Thomas
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - support
+  - name: Kazimoglu
+    surname: Dilem
+  - name: Pister
+    surname: Selina
+    roles:
+      - transcriber
+      - aligner
+  - name: Milbich
+    surname: Marius
+    roles:
+      - transcriber
+      - aligner
+  - name: Pakieser
+    surname: Saskia
+    roles:
+      - transcriber
+      - aligner
+  - name: Beloussow
+    surname: Leo
+    roles:
+      - transcriber
+      - aligner
+  - name: Costa de Sousa
+    surname: André
+    roles:
+      - transcriber
+      - aligner
+  - name: Bartz
+    surname: Franziska
+    roles:
+      - transcriber
+      - aligner
+  - name: Öztürk
+    surname: Dilara
+    roles:
+      - transcriber
+      - aligner
+description: >-
+  Austrian Newspapers is a ground truth data set created with Transkribus from
+  Austrian newspapers by the Library Labs (https://labs.onb.ac.at/en/) of the 
+  Austrian National Library (Österreichische Nationalbibliothek). See this publication 
+  for details: Günter Mühlberger, & Günter Hackl. (2019). NewsEye / READ OCR training 
+  dataset from Austrian Newspapers (19th C.) [Data set]. Zenodo.
+  http://doi.org/10.5281/zenodo.3387369
+
+  A revision of the data set was carried out by University Library Mannheim 
+  (https://www.bib.uni-mannheim.de/en/) from November 2022 to April 2023 using
+  Transkribus. These steps included: 1. Layout correction of text regions, text lines 
+  and baselines. 1. Region labeling ("header", "headings", "paragraphs", "reference".) 
+  3. Correction and enhancement of transcriptions according to OCR-D Ground Truth 
+  Guidelines Level 2: https://tboenig.github.io/gt-guidelines/html/trans/level_2_2.html
+language:
+  - fra
+  - deu
+script:
+  - Latn
+  - Latf
+script-type: print
+time:
+  notBefore: '1864'
+  notAfter: '1911'
+hands:
+  count: more-than-3
+  level: levelmix
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+gtTyp: data_structure_and_text
+format: Page-XML
+volume:
+  - metric: lines
+    count: 59614
+  - metric: pages
+    count: 161
+transcription-guidelines: >-
+  The transcription rules are based on the OCR-D transcription guidelines Level
+  2 with some exceptions (see below No. 2):
+    1) Special characters:
+    - Long s (ſ)
+    - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
+    - R rotunda (ꝛ)
+    - Dagger (†)
+    - Black Right Pointing Index (☛)
+    - Black Left Pointing Index (☚)
+    - Superscript Numbers 0-9 (⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹)
+    - Subscript Numbers 0-9 (₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉)
+    - White square (□)
+    - White medium square (◻)
+    - Black square (■)
+    - White up-pointing triangle (△)
+    - Black up-pointing triangle (▲)
+    - Bullet (•)
+    - Black circle (●)
+    - Black large circle (⬤)
+    - Heavy four balloon-spoked asterisk (✤)
+    2) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+    - Double oblique hyphen (⸗)
+    - Em dash (—) instead of En dash (–)
