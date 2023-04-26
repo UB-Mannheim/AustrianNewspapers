@@ -15,7 +15,10 @@ The original data set was published under the Creative Commons Attribution 4.0 I
 
 ## Austrian Newspapers 2.0.0 (April 2023)
 
-A revision of the data set was carried out by [University Library Mannheim](https://www.bib.uni-mannheim.de/en/) from November 2022 to April 2023 using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). All transcriptions are provided as `PAGE XML` in the `data` Folder. The original separation of the data set into `TrainingSet_ONB_Newseye_GT_M1+` and `ValidationSet_ONB_Newseye_GT_M1+` was kept.
+A revision of the data set was carried out by [Mannheim University Library](https://www.bib.uni-mannheim.de/en/)
+from November 2022 to April 2023 using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus).
+All transcriptions are provided as `PAGE XML` in the `data` folder.
+The original separation of the data set into `TrainingSet_ONB_Newseye_GT_M1+` and `ValidationSet_ONB_Newseye_GT_M1+` was kept.
 
 The revision included: 
 1. Layout correction of text regions, text lines and baselines. 
