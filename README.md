@@ -20,7 +20,7 @@ from November 2022 to April 2023 using [Transkribus](https://readcoop.eu/transkr
 All transcriptions are provided as `PAGE XML` in the `data` folder.
 The original separation of the data set into `TrainingSet_ONB_Newseye_GT_M1+` and `ValidationSet_ONB_Newseye_GT_M1+` was kept.
 
-The revision included: 
+The revision includes: 
 1. Layout correction of text regions, text lines and baselines. 
 2. Region labeling ("header", "headings", "paragraphs", "reference".) 
 3. Correction and enhancement of transcriptions according to [OCR-D Ground Truth Guidelines Level 2](https://tboenig.github.io/gt-guidelines/html/trans/level_2_2.html)
