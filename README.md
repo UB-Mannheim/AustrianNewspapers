@@ -21,9 +21,9 @@ All transcriptions are provided as `PAGE XML` in the `data` folder.
 The original separation of the data set into `TrainingSet_ONB_Newseye_GT_M1+` and `ValidationSet_ONB_Newseye_GT_M1+` was kept.
 
 The revision includes: 
-1. Layout correction of text regions, text lines and baselines. 
-2. Region labeling ("header", "headings", "paragraphs", "reference".) 
-3. Correction and enhancement of transcriptions according to [OCR-D Ground Truth Guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html)
+1. Layout correction of text regions, text lines and baselines.
+2. Region labeling ("header", "headings", "paragraphs", "reference", "footer"). 
+3. Correction and enhancement of transcriptions according to [OCR-D Ground Truth Guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html).
 
 ### Statistics
 
@@ -35,6 +35,9 @@ The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2]
 1) **Special characters**:
     - Long s (ſ)
     - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
+    - Fraction slash (⁄) (U+2044), if
+        - can't be transcribed by a unicode fraction representation
+        - numerator and denominator are not on the same baseline height
     - R rotunda (ꝛ)
     - Dagger (†)
     - Black Right Pointing Index (☛)
