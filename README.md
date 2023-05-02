@@ -26,7 +26,7 @@ The revision includes:
 3. Correction and enhancement of transcriptions according to [OCR-D Ground Truth Guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html)
 
 ### Transcription guidelines:
-The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2](https://tboenig.github.io/gt-guidelines/html/trans/level_2_2.html) with some exceptions (see below):
+The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html) with some exceptions (see below):
 
 1) **Special characters**:
     - Long s (ſ)
