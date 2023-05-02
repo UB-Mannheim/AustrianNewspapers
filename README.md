@@ -25,6 +25,10 @@ The revision includes:
 2. Region labeling ("header", "headings", "paragraphs", "reference".) 
 3. Correction and enhancement of transcriptions according to [OCR-D Ground Truth Guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html)
 
+### Statistics
+
+Find more information about the revised dataset in our [wiki](https://github.com/UB-Mannheim/AustrianNewspapers/wiki#information-and-statistics).
+
 ### Transcription guidelines:
 The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/level_2_2.html) with some exceptions (see below):
 
