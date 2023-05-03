@@ -3,18 +3,18 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:11:20.147+01:00</Created>
-        <LastChange>2023-05-02T18:03:20.688+02:00</LastChange>
+        <LastChange>2023-05-03T10:41:40.857+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Language: EnglishUnitedStates
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863285" pageNr="140" tsid="120683720" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FGMBXIASWKCUYKRVIVARECNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TBQIBPTWLIQSCWFMITYVVPJN" imageId="38489004"/>
+        <TranskribusMetadata docId="1394947" pageId="53863285" pageNr="140" tsid="120728687" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=FGMBXIASWKCUYKRVIVARECNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMDVCFYJIALOSLNEZPVHHHGR" imageId="38489004"/>
     </Metadata>
     <Page imageFilename="ONB_nfp_19110701_030.tif" imageWidth="3488" imageHeight="5363">
         <ReadingOrder>
-            <OrderedGroup id="ro_1683043489127" caption="Regions reading order">
+            <OrderedGroup id="ro_1683103647235" caption="Regions reading order">
                 <RegionRefIndexed index="3" regionRef="r1"/>
                 <RegionRefIndexed index="4" regionRef="r2"/>
                 <RegionRefIndexed index="5" regionRef="r3"/>
@@ -4689,7 +4689,7 @@
                 <TextStyle fontFamily="Times New Roman" fontSize="4.5"/>
             </TextLine>
             <TextLine id="r95l7" primaryLanguage="German" custom="readingOrder {index:6;}">
-                <Coords points="2905,689 3345,686 3347,715 2907,717"/>
+                <Coords points="2905,689 3345,686 3359,715 2907,717"/>
                 <Baseline points="2907,709 3052,710 3132,711 3234,709 3292,710 3350,710"/>
                 <TextEquiv>
                     <Unicode>Schwarz vorm. Plöch, 7. B.,</Unicode>
@@ -4715,7 +4715,7 @@
         <TextRegion id="r96" custom="readingOrder {index:98;} structure {type:reference;}">
             <Coords points="3220,742 3378,739 3378,771 3218,771"/>
             <TextLine id="r96l1" custom="readingOrder {index:0;}">
-                <Coords points="3238,743 3351,740 3350,767 3238,765"/>
+                <Coords points="3238,743 3353,740 3352,767 3235,766"/>
                 <Baseline points="3238,762 3350,764"/>
                 <TextEquiv>
                     <Unicode>62320—2</Unicode>

@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:45:01.869+01:00</Created>
-        <LastChange>2023-05-02T17:52:13.844+02:00</LastChange>
+        <LastChange>2023-05-03T10:36:50.361+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863176" pageNr="40" tsid="120681468" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KSAYZKAHGWFBINKJYREZXGYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKBALDUOECXCWIUVWYHXBUUV" imageId="38488809"/>
+        <TranskribusMetadata docId="1394947" pageId="53863176" pageNr="40" tsid="120728410" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=KSAYZKAHGWFBINKJYREZXGYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UWAEQFEGEHWIEWVHRHDXORKI" imageId="38488809"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_19110701_013.tif" imageWidth="3200" imageHeight="4836">
         <PrintSpace>
             <Coords points="3,-2 3200,-2 3200,4834 3,4834"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1683043488159" caption="Regions reading order">
+            <OrderedGroup id="ro_1683103646852" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2458,7 +2458,7 @@
         <TextRegion id="r140" custom="readingOrder {index:139;} structure {type:reference;}">
             <Coords points="2848,875 3005,871 3005,918 2848,916"/>
             <TextLine id="r140l1" primaryLanguage="German" custom="readingOrder {index:0;} structure {type:reference;}">
-                <Coords points="2881,874 2983,871 2990,875 2990,906 2947,913 2882,912"/>
+                <Coords points="2878,874 2983,871 2990,875 2997,911 2947,913 2882,912"/>
                 <Baseline points="2884,905 2991,906"/>
                 <TextEquiv>
                     <Unicode>13421</Unicode>
