@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:47:56.08+01:00</Created>
-        <LastChange>2023-04-25T10:53:45.840+02:00</LastChange>
+        <LastChange>2023-05-02T17:51:15.929+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863165" pageNr="29" tsid="119418585" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OYXONMRAVSIFULQTDWEWXOOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZRJLPXTPLURCZONZNOYRYUL" imageId="38488790"/>
+        <TranskribusMetadata docId="1394947" pageId="53863165" pageNr="29" tsid="120681256" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OYXONMRAVSIFULQTDWEWXOOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YTHGVLYPXHHBRTRZIPSNEVQB" imageId="38488790"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_18640702_012.tif" imageWidth="1536" imageHeight="2323">
         <PrintSpace>
             <Coords points="0,0 1535,-1 1535,2320 0,2321"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495881161" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043488077" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -324,13 +324,21 @@
                     <Unicode>Lauben nächſt dem Rathshauſe.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r7l14" primaryLanguage="German" custom="readingOrder {index:13;}">
-                <Coords points="1391,1610 1435,1610"/>
-                <TextEquiv>
-                    <Unicode>Anna Oeffner.</Unicode>
-                </TextEquiv>
-                <TextStyle fontFamily="Times New Roman" fontSize="41.0" bold="true"/>
-            </TextLine>
+            <TextEquiv>
+                <Unicode>Anempfehlung.
+Die Unterzeichnete empfiehlt ſich einem
+hochgeehrten Publikum mit ihrer Methode,
+alte Bettfedern und Roßhaare mittelſt
+Anwendung einer Dampfmaſchine gleich neu herzuſtellen, ferners beſitzt ſelbe laut
+mehreren ärztlichen Zeugniſſen auch die Kunſt, jene bei verſchiedenen Kranken ge⸗
+brauchten Betten der Art zu reinigen, daß ſie als unſchädlich für die Geſundheit
+eines Andern benützt werden können; auch verfertigt dieſelbe neue und alte
+Matratzen, und verſpricht, ſich durch ſchnelle Bedienung ſowohl in Innsbruck als
+in deſſen Umgebung die vollſte Zufriedenheit der hochzuverehrenden Kundſchaften zu
+erwerben, bittet ſohin um geneigten zahlreichen Zuſpruch. — Die Beſtellungen
+ſind zu machen bei Katharina Schennach, Kammmacherswitwe unter den
+Lauben nächſt dem Rathshauſe.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion id="r8" custom="readingOrder {index:7;} structure {type:reference;}">
             <Coords points="1376,1573 1459,1573 1459,1610 1384,1610"/>

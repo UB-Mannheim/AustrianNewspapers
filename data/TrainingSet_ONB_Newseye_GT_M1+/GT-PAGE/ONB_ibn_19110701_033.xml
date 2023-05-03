@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:45:32.753+01:00</Created>
-        <LastChange>2023-04-25T10:53:34.118+02:00</LastChange>
+        <LastChange>2023-05-02T17:54:26.608+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863197" pageNr="59" tsid="119418545" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=YFVBDTVPMQUEFSRPUFWTJSEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBVRAIHZKOSJCFQEANMFMAXD" imageId="38488843"/>
+        <TranskribusMetadata docId="1394947" pageId="53863197" pageNr="59" tsid="120681945" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=YFVBDTVPMQUEFSRPUFWTJSEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VRIFSRUQRJWPAQJWBAYWUARM" imageId="38488843"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_19110701_033.tif" imageWidth="3072" imageHeight="4831">
         <PrintSpace>
             <Coords points="0,0 3072,0 3072,4831 0,4831"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495881253" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043488302" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2040,6 +2040,7 @@
             </TextLine>
             <TextLine id="r19l30" primaryLanguage="German" custom="readingOrder {index:29;}">
                 <Coords points="1920,1590 2044,1588 2044,1622 2028,1625 1936,1628 1920,1623"/>
+                <Baseline points="1924,1620 2038,1619"/>
                 <TextEquiv>
                     <Unicode>beliebt.</Unicode>
                 </TextEquiv>

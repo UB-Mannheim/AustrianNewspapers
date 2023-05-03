@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:45:16.982+01:00</Created>
-        <LastChange>2023-04-25T10:52:43.857+02:00</LastChange>
+        <LastChange>2023-05-02T17:53:10.879+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863187" pageNr="49" tsid="119418382" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=AAGBGOZORFFRLHYZZBODBHUA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JQJSFEHPSQHURUPEJKXQOCIY" imageId="38488825"/>
+        <TranskribusMetadata docId="1394947" pageId="53863187" pageNr="49" tsid="120681678" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=AAGBGOZORFFRLHYZZBODBHUA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKPMTNZWWFJSJEZXTWOBGXDO" imageId="38488825"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_19110701_022.tif" imageWidth="3168" imageHeight="4831">
         <PrintSpace>
             <Coords points="0,0 3168,0 3168,4831 0,4831"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495881230" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043488240" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -278,6 +278,32 @@
                     <Unicode>Telefon 2103/IV.</Unicode>
                 </TextEquiv>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Empfehlen uns zur Lieferung von Be-
+leuchtungs- u. Kraft-Anlagen
+für Innsbruck und Umgebung,
+Telefon-, Telegrafen- u. Blitzableiter-
+Anlagen, Lager von Strom-Spar-
+lampen, Beleuchtungskörpern,
+Elektromotoren, Dynamo-
+maschinen, elektr. Koch-
+apparaten u. s. w.
+Reparaturen
+werden raschest
+und billigst
+ausgeführt
+O. Settele &amp; L. Schmidt
+Ingenieur-
+Bureaux und
+Installations-
+Geschäft
+für Licht und Kraft
+im Anschluß an das
+städtische Elektrizitätswerk.
+Innsbruck
+Heilig Geiststrasse Nr. 2.
+Telefon 2103/IV.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion id="r5" custom="readingOrder {index:4;} structure {type:reference;}">
             <Coords points="445,1013 640,1021 638,1090 445,1090"/>
@@ -1025,13 +1051,6 @@
         <TextRegion type="paragraph" id="r30" custom="readingOrder {index:31;}">
             <Coords points="1500,2363 1595,2311 1858,2312 1951,2362 1978,2440 1983,2593 1984,2819 1826,2819 1825,2859 1984,2858 1985,2954 1340,2952 1339,2860 1489,2855 1486,2822 1478,2521"/>
             <TextLine id="r30l1" primaryLanguage="German" custom="readingOrder {index:0;}">
-                <Coords points="1836,2817 1964,2819 1836,2819"/>
-                <TextEquiv>
-                    <Unicode>62-12ʃ11</Unicode>
-                </TextEquiv>
-                <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
-            </TextLine>
-            <TextLine id="r30l2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="1597,2318 1627,2318 1748,2315 1818,2316 1858,2330 1858,2358 1597,2358"/>
                 <Baseline points="1604,2352 1854,2352"/>
                 <TextEquiv>
@@ -1039,7 +1058,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
             </TextLine>
-            <TextLine id="r30l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+            <TextLine id="r30l2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="1507,2367 1655,2368 1779,2368 1785,2372 1947,2386 1947,2433 1740,2437 1501,2431"/>
                 <Baseline points="1512,2427 1941,2430"/>
                 <TextEquiv>
@@ -1047,7 +1066,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true"/>
             </TextLine>
-            <TextLine id="r30l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+            <TextLine id="r30l3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="1601,2452 1648,2450 1788,2444 1831,2446 1857,2452 1858,2481 1602,2483"/>
                 <Baseline points="1607,2478 1710,2478 1849,2479"/>
                 <TextEquiv>
@@ -1055,7 +1074,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+            <TextLine id="r30l4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="1488,2485 1606,2488 1725,2487 1927,2489 1959,2485 1970,2504 1970,2517 1488,2518"/>
                 <Baseline points="1489,2513 1513,2514 1685,2514 1965,2512"/>
                 <TextEquiv>
@@ -1063,7 +1082,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+            <TextLine id="r30l5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="1491,2530 1562,2522 1562,2522 1861,2524 1915,2525 1964,2532 1964,2552 1914,2557 1542,2557 1491,2549"/>
                 <Baseline points="1491,2549 1599,2551 1789,2551 1845,2551 1964,2552"/>
                 <TextEquiv>
@@ -1071,7 +1090,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+            <TextLine id="r30l6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="1661,2559 1788,2558 1788,2558 1788,2592 1661,2592"/>
                 <Baseline points="1661,2586 1788,2585"/>
                 <TextEquiv>
@@ -1079,7 +1098,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
-            <TextLine id="r30l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+            <TextLine id="r30l7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="1490,2593 1522,2591 1522,2591 1963,2594 1963,2630 1500,2627 1490,2619"/>
                 <Baseline points="1490,2619 1650,2620 1703,2620 1850,2620 1962,2622"/>
                 <TextEquiv>
@@ -1087,7 +1106,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+            <TextLine id="r30l8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="1535,2627 1918,2628 1918,2659 1535,2659"/>
                 <Baseline points="1535,2655 1694,2655 1734,2656 1770,2655 1817,2657 1918,2656"/>
                 <TextEquiv>
@@ -1095,14 +1114,14 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+            <TextLine id="r30l9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="1527,2664 1637,2664 1839,2666 1887,2668 1939,2673 1939,2697 1527,2697"/>
                 <Baseline points="1527,2692 1677,2692 1751,2693 1929,2694"/>
                 <TextEquiv>
                     <Unicode>Rosanis &amp; Winter</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r30l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+            <TextLine id="r30l10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="1491,2702 1520,2701 1596,2700 1596,2700 1922,2701 1956,2703 1965,2721 1965,2728 1955,2736 1491,2734"/>
                 <Baseline points="1491,2726 1573,2727 1615,2727 1698,2728 1904,2729 1965,2728"/>
                 <TextEquiv>
@@ -1110,7 +1129,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+            <TextLine id="r30l11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="1493,2743 1925,2745 1965,2754 1965,2780 1493,2777"/>
                 <Baseline points="1493,2769 1624,2769 1681,2770 1872,2770 1967,2772"/>
                 <TextEquiv>
@@ -1118,7 +1137,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+            <TextLine id="r30l12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="1491,2788 1525,2779 1586,2777 1953,2779 1965,2781 1965,2814 1487,2813"/>
                 <Baseline points="1491,2803 1584,2806 1651,2806 1965,2806"/>
                 <TextEquiv>
@@ -1126,7 +1145,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+            <TextLine id="r30l13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="1666,2816 1781,2817 1781,2855 1735,2855 1686,2849 1666,2842"/>
                 <Baseline points="1666,2842 1737,2842 1770,2845"/>
                 <TextEquiv>
@@ -1134,7 +1153,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+            <TextLine id="r30l14" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="1351,2867 1452,2865 1606,2864 1633,2864 1883,2865 1903,2879 1905,2902 1849,2906 1385,2905 1351,2896"/>
                 <Baseline points="1351,2894 1535,2894 1584,2896 1773,2896 1900,2896"/>
                 <TextEquiv>
@@ -1142,7 +1161,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
-            <TextLine id="r30l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+            <TextLine id="r30l15" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="1461,2910 1743,2911 1774,2913 1771,2934 1771,2944 1485,2944 1461,2939"/>
                 <Baseline points="1464,2939 1767,2941"/>
                 <TextEquiv>
@@ -1150,6 +1169,23 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Salzschlirfer
+Bonifacius-Brunnen
+heilt Gicht
+u. verwandte Krankheitserschei-
+nungen. Unerreicht in seiner
+Wirkung.
+Verlangen Sie ausführl. Prosp.,
+Gutachten u. s. w. durch
+Rosanis &amp; Winter
+Wien, 2. Bez., Czerningasse 23.
+Vorrätig in Apotheken, Dro-
+gerien und Mineralwasserhand-
+lungen.
+Hauptdepot in Innsbruck: Martin
+Tschurtschenthaler.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion id="r31" custom="readingOrder {index:32;} structure {type:reference;}">
             <Coords points="1826,2819 1984,2819 1984,2858 1825,2859"/>
@@ -1589,7 +1625,7 @@
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
             <TextLine id="r47l5" primaryLanguage="German" custom="readingOrder {index:4;}">
-                <Coords points="2502,2897 2545,2890 2582,2894 2562,2893 2613,2893 2614,2931 2579,2932 2555,2935 2502,2933"/>
+                <Coords points="2502,2897 2545,2890 2582,2894 2601,2892 2613,2893 2614,2931 2579,2932 2555,2935 2502,2933"/>
                 <Baseline points="2502,2925 2561,2925 2607,2924"/>
                 <TextEquiv>
                     <Unicode>Adreſſe</Unicode>

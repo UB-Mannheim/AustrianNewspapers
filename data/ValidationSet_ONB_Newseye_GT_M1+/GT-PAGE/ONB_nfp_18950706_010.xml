@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:19:57.084+01:00</Created>
-        <LastChange>2023-04-24T14:59:03.126+02:00</LastChange>
+        <LastChange>2023-05-02T17:45:03.874+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1400815" pageId="53965420" pageNr="11" tsid="119173271" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=IAZUMQGQEXLCDUNJDEELILIN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSDVPKRCABFRIGQBILNLEZEY" imageId="38488757"/>
+        <TranskribusMetadata docId="1400815" pageId="53965420" pageNr="11" tsid="120680220" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=IAZUMQGQEXLCDUNJDEELILIN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBTGGVVNDGXHHIVBIKJZVFLP" imageId="38488757"/>
     </Metadata>
     <Page imageFilename="ONB_nfp_18950706_010.tif" imageWidth="3488" imageHeight="5348">
         <PrintSpace>
             <Coords points="0,0 3488,0 3488,5348 0,5348"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495778889" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043490533" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -5766,7 +5766,7 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r131l16" primaryLanguage="German" custom="readingOrder {index:15;}">
-                <Coords points="2389,4808 3415,4807 3415,4842 2389,4840 2389,4842"/>
+                <Coords points="2390,4803 3415,4806 3418,4841 2412,4840 2386,4840"/>
                 <Baseline points="2388,4836 2415,4836 2516,4837 2622,4836 2720,4837 2959,4835 3016,4838 3241,4836 3340,4837 3415,4836"/>
                 <TextEquiv>
                     <Unicode>fl. 20.50 G., fl. 20.75 W., waſſerhell fl. 21.— G., fl. 21.25 W.;</Unicode>
@@ -5858,6 +5858,35 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>Die amtlichen Waarencurſe der Wiener Börſe lauten: Zucker
+(per 100 Kilo), Rohzucker, 88 Grad R., prompt. Frachtbaſis
+Auſſig fl. 12.65 G., fl. 12.70 W.; ab Olmütz fl. 12.15 G.,
+fl. 12.25 W.; ab Brünn⸗Wien fl. 12.25 G., fl. 12.35 W.,
+per October⸗December, Frachtbaſis Auſſig fl. 13.30 G., fl. 13.40
+W.; Raffinade, Prima, fl. 28.25 G., fl. 28.75 W., detto Se⸗
+cunda fl. 28.— G., fl. 28.25 W.; Würfelzucker, Prima, fl. 29.— G.,
+fl. 29.50 W., detto Secunda fl. 28.50 G., fl. 29.— W., prompt ab
+Wien. Pilés Centrifugal, Prima, prompt fl. 14.— G., fl. 14.25
+W., per Juli⸗Auguſt fl. 14.— G., fl. 14.25 W., per November⸗
+März fl. 14.75 G., fl. 15.— W., ab Trieſt tranſito. — Spiritus
+(per 10,000 Liter⸗Percent) prompt fl. 17.20 G., fl. 17.40 W., contingentirt
+ab Wien.— Rüböl (per 100 Kilo) prompt fl. 28.50 G., fl. 29 W.,
+ab Wien. — Petroleum (per 100 Kilo), kaukaſiſches,
+fl. 5.10 G., fl. 5.20 W., tranſito ab Trieſt; inländiſches,
+fl. 20.50 G., fl. 20.75 W., waſſerhell fl. 21.— G., fl. 21.25 W.;
+Kaiſeröl fl. 22.50 G., fl. 23.— W.; amerikaniſches
+fl. 22.75 G., fl. 23.— W., ab Wien. — Colonial⸗
+waaren: Kaffee (per 100 Kilo), Santos Superior fl. 104 G.,
+fl. 106 W.; detto Good Average fl. 97 G., fl. 99 W.; detto
+Fair Average fl. 95 G., fl. 96 W.; detto Regular fl. 91 G.,
+fl. 93 W.; detto ordinär fl. 87 G., fl. 89 W.; Ceylon Highgrown
+je nach Sorte fl. 140 G., fl. 160 W.; detto Lowgrown je nach Sorte
+fl. 131 G., fl. 138 W.; detto Perl fl. 146 G., fl. 160 W.; Portorico
+je nach Sorte fl. 134 G., fl. 140 W.; Rio Lavé je nach Sorte fl. 116,
+G., fl. 120 W.; Java gelb, mittel fl. 130 G., fl. 140 W.; Menado je
+nach Sorte fl. 160 G., fl. 190 W., prompt ab Trieſt.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <SeparatorRegion id="r_38" custom="readingOrder {index:131;}">
             <Coords points="229,263 1136,264 1905,259 3401,249 3402,263 229,277"/>

@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:45:01.869+01:00</Created>
-        <LastChange>2023-04-25T10:52:31.090+02:00</LastChange>
+        <LastChange>2023-05-02T17:52:13.844+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863176" pageNr="40" tsid="119418272" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KSAYZKAHGWFBINKJYREZXGYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HEBBVRBYCFZDYYNFVHNFVYJJ" imageId="38488809"/>
+        <TranskribusMetadata docId="1394947" pageId="53863176" pageNr="40" tsid="120681468" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KSAYZKAHGWFBINKJYREZXGYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKBALDUOECXCWIUVWYHXBUUV" imageId="38488809"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_19110701_013.tif" imageWidth="3200" imageHeight="4836">
         <PrintSpace>
             <Coords points="3,-2 3200,-2 3200,4834 3,4834"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495881205" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043488159" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2464,13 +2464,9 @@
                     <Unicode>13421</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r140l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="2955,872 2993,871 2993,873"/>
-                <TextEquiv>
-                    <Unicode>Schweiz geſucht. Näh. aus Gefälligkeit bei</Unicode>
-                </TextEquiv>
-                <TextStyle fontFamily="Arial" fontSize="6.5"/>
-            </TextLine>
+            <TextEquiv>
+                <Unicode>13421</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r141" custom="readingOrder {index:140;} structure {type:heading;}">
             <Coords points="2288,923 2795,928 2796,973 2288,972"/>
@@ -2550,6 +2546,10 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="6.5"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>zum ſofortigen Eintritt geſucht. Näh. bei Dom.
+Zambra.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion id="r146" custom="readingOrder {index:145;} structure {type:reference;}">
             <Coords points="2878,1210 2999,1210 3000,1253 2879,1252"/>
@@ -3324,13 +3324,9 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="6.5"/>
             </TextLine>
-            <TextLine id="r193l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="2871,4366 2969,4365 2969,4367"/>
-                <TextEquiv>
-                    <Unicode>alle Hausarbeit zu zwei Perſonen geſucht. Lohn</Unicode>
-                </TextEquiv>
-                <TextStyle fontFamily="Arial" fontSize="6.5"/>
-            </TextLine>
+            <TextEquiv>
+                <Unicode>13380</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="heading" id="r194" custom="readingOrder {index:193;} structure {type:heading;}">
             <Coords points="2147,4422 2881,4423 2882,4469 2147,4464"/>

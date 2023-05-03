@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:44:44.402+01:00</Created>
-        <LastChange>2023-04-24T14:58:42.496+02:00</LastChange>
+        <LastChange>2023-05-02T17:39:51.068+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1400815" pageId="53965413" pageNr="4" tsid="119173186" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=BQBAWZJNUHSZFCBCURVCYJKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CDPWOXUGPRRDVLUVAUEVZCJS" imageId="38488729"/>
+        <TranskribusMetadata docId="1400815" pageId="53965413" pageNr="4" tsid="120678998" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=BQBAWZJNUHSZFCBCURVCYJKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLTXCOZDOMPYPPULQOSEVBVI" imageId="38488729"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_19110701_006.tif" imageWidth="3168" imageHeight="4829">
         <PrintSpace>
             <Coords points="0,0 3168,0 3168,4829 0,4829"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495778834" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043490427" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -703,17 +703,14 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-        </TextRegion>
-        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;}">
-            <Coords points="179,3751 1100,3750 1097,4385 183,4384"/>
-            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
+            <TextLine id="r8l6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="195,3656 967,3658 1093,3654 1091,3699 193,3701"/>
                 <Baseline points="193,3695 410,3691 509,3692 697,3692 857,3692 1091,3693"/>
                 <TextEquiv>
                     <Unicode>haben. Bei dem Burſchen wurden verſchiedene</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r9l2" primaryLanguage="German" custom="readingOrder {index:1;}">
+            <TextLine id="r8l7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="191,3702 753,3703 753,3745 197,3743"/>
                 <Baseline points="195,3738 553,3736 753,3736"/>
                 <TextEquiv>
@@ -721,14 +718,26 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l3" primaryLanguage="German" custom="readingOrder {index:2;}">
+            <TextEquiv>
+                <Unicode>(Ein junger Einbrecher) namens Jakob
+Gobber wurde am Freitag früh von der Polizei
+in Meran feſtgenommen. Er hatte in der Nacht
+eine Obſtbude in der Andreas Hoferſtraße er⸗
+brochen, dürfte aber nur kleine Beute gemacht
+haben. Bei dem Burſchen wurden verſchiedene
+Einbrecherwerkzeuge gefunden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;}">
+            <Coords points="179,3751 1100,3750 1097,4385 183,4384"/>
+            <TextLine id="r9l1" primaryLanguage="German" custom="readingOrder {index:0;}">
                 <Coords points="226,3753 499,3750 1089,3757 1091,3799 228,3797"/>
                 <Baseline points="236,3790 361,3790 755,3790 900,3790 1000,3791 1089,3793"/>
                 <TextEquiv>
                     <Unicode>(Fleiſchdiebſtahl.) Aus Meran wird uns</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r9l4" primaryLanguage="German" custom="readingOrder {index:3;}">
+            <TextLine id="r9l2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="186,3819 191,3798 1101,3798 1099,3842 186,3845"/>
                 <Baseline points="187,3830 399,3833 559,3830 642,3833 860,3834 937,3835 1077,3835 1094,3835"/>
                 <TextEquiv>
@@ -736,7 +745,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l5" primaryLanguage="German" custom="readingOrder {index:4;}">
+            <TextLine id="r9l3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="186,3846 191,3842 191,3842 1091,3847 1091,3889 187,3884 186,3872"/>
                 <Baseline points="187,3876 366,3877 504,3877 602,3878 690,3879 1018,3879 1091,3881"/>
                 <TextEquiv>
@@ -744,7 +753,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l6" primaryLanguage="German" custom="readingOrder {index:5;}">
+            <TextLine id="r9l4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="192,3887 214,3884 1090,3887 1090,3933 193,3928"/>
                 <Baseline points="192,3922 318,3922 387,3923 506,3923 720,3924 956,3925 1014,3925 1090,3925"/>
                 <TextEquiv>
@@ -752,7 +761,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l7" primaryLanguage="German" custom="readingOrder {index:6;}">
+            <TextLine id="r9l5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="195,3934 1090,3934 1090,3978 192,3979"/>
                 <Baseline points="192,3968 407,3967 510,3967 774,3966 1004,3970 1090,3970"/>
                 <TextEquiv>
@@ -760,7 +769,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l8" primaryLanguage="German" custom="readingOrder {index:7;}">
+            <TextLine id="r9l6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="191,3978 1089,3978 1091,4018 193,4020"/>
                 <Baseline points="191,4012 242,4011 303,4012 430,4012 547,4014 624,4012 763,4014 962,4015 1090,4016"/>
                 <TextEquiv>
@@ -768,7 +777,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l9" primaryLanguage="German" custom="readingOrder {index:8;}">
+            <TextLine id="r9l7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="190,4021 1088,4022 1088,4067 190,4066"/>
                 <Baseline points="192,4058 298,4057 479,4057 626,4057 709,4058 839,4057 934,4058 1091,4059"/>
                 <TextEquiv>
@@ -776,7 +785,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l10" primaryLanguage="German" custom="readingOrder {index:9;}">
+            <TextLine id="r9l8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="191,4066 1087,4068 1087,4112 191,4110"/>
                 <Baseline points="191,4102 266,4101 430,4101 528,4102 638,4102 954,4104 1087,4104"/>
                 <TextEquiv>
@@ -784,7 +793,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l11" primaryLanguage="German" custom="readingOrder {index:10;}">
+            <TextLine id="r9l9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="190,4112 358,4108 358,4108 1088,4110 1088,4157 190,4155"/>
                 <Baseline points="186,4147 323,4146 522,4146 689,4147 795,4147 899,4148 1007,4149 1088,4149"/>
                 <TextEquiv>
@@ -792,7 +801,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l12" primaryLanguage="German" custom="readingOrder {index:11;}">
+            <TextLine id="r9l10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="190,4158 423,4158 758,4159 1050,4160 1064,4161 1088,4171 1088,4202 190,4197"/>
                 <Baseline points="189,4189 314,4190 434,4191 643,4192 881,4192 1037,4192 1088,4194"/>
                 <TextEquiv>
@@ -800,7 +809,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l13" primaryLanguage="German" custom="readingOrder {index:12;}">
+            <TextLine id="r9l11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="190,4203 211,4198 211,4198 1087,4202 1087,4247 190,4243"/>
                 <Baseline points="190,4235 282,4235 524,4236 701,4237 851,4236 954,4237 1087,4239"/>
                 <TextEquiv>
@@ -808,7 +817,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l14" primaryLanguage="German" custom="readingOrder {index:13;}">
+            <TextLine id="r9l12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="192,4245 1087,4247 1088,4290 191,4293"/>
                 <Baseline points="189,4282 485,4280 631,4281 821,4282 981,4284 1088,4286"/>
                 <TextEquiv>
@@ -816,7 +825,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l15" primaryLanguage="German" custom="readingOrder {index:14;}">
+            <TextLine id="r9l13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="192,4291 1086,4293 1086,4335 191,4334"/>
                 <Baseline points="191,4326 306,4326 443,4325 525,4325 773,4328 859,4328 1086,4327"/>
                 <TextEquiv>
@@ -824,7 +833,7 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
-            <TextLine id="r9l16" primaryLanguage="German" custom="readingOrder {index:15;}">
+            <TextLine id="r9l14" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="190,4337 319,4337 624,4338 673,4340 706,4348 715,4365 715,4371 712,4379 190,4378"/>
                 <Baseline points="191,4370 346,4370 441,4371 522,4371 715,4371"/>
                 <TextEquiv>
@@ -832,6 +841,22 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
             </TextLine>
+            <TextEquiv>
+                <Unicode>(Fleiſchdiebſtahl.) Aus Meran wird uns
+geſchrieben: Wegen des Verdachtes des Fleiſch⸗
+diebſtahls wurde von der Sicherheitswache in
+Meran in einer heimlichen Auskocherei in der
+Laubengaſſe eine Hausſuchung abgehalten, wo⸗
+bei in einem Bette ein großes Quantum Rind⸗
+fleiſch gefunden wurde. Es ſtellte ſich heraus,
+daß dasſelbe von zwei Metzgerburſchen ihrem
+Meiſter geſtohlen worden war und daß die
+Beiden ſchon mehrmals entwendetes Fleiſch in
+obige Auskocherei gebracht hatten. Die beiden
+Metzgerburſchen, welche leugnen, wurden ver⸗
+haftet, ebenſo die Abnehmerin des geſtohlenen
+Fleiſches und ihr Zuhälter.</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r10" custom="readingOrder {index:9;}">
             <Coords points="180,4387 1095,4384 1095,4482 180,4483"/>

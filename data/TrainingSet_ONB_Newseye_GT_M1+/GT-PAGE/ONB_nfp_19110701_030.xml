@@ -3,18 +3,18 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:11:20.147+01:00</Created>
-        <LastChange>2023-04-25T10:52:47.628+02:00</LastChange>
+        <LastChange>2023-05-02T18:03:20.688+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Language: EnglishUnitedStates
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863285" pageNr="140" tsid="119418417" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FGMBXIASWKCUYKRVIVARECNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMLAGOMVJBSAAQYGPSRUGWNF" imageId="38489004"/>
+        <TranskribusMetadata docId="1394947" pageId="53863285" pageNr="140" tsid="120683720" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FGMBXIASWKCUYKRVIVARECNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TBQIBPTWLIQSCWFMITYVVPJN" imageId="38489004"/>
     </Metadata>
     <Page imageFilename="ONB_nfp_19110701_030.tif" imageWidth="3488" imageHeight="5363">
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495881622" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043489127" caption="Regions reading order">
                 <RegionRefIndexed index="3" regionRef="r1"/>
                 <RegionRefIndexed index="4" regionRef="r2"/>
                 <RegionRefIndexed index="5" regionRef="r3"/>
@@ -2835,13 +2835,9 @@
                     <Unicode>14693</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r50l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="2348,2727 2398,2727 2417,2727 2417,2729"/>
-                <TextEquiv>
-                    <Unicode>Wien, I., Gluckgasse 3</Unicode>
-                </TextEquiv>
-                <TextStyle fontFamily="Times New Roman" fontSize="4.5" bold="true"/>
-            </TextLine>
+            <TextEquiv>
+                <Unicode>14693</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r51" custom="readingOrder {index:53;}">
             <Coords points="2004,2811 2451,2809 2451,2851 2452,2935 2367,2935 2367,2958 2452,2958 2453,3010 2452,3168 2006,3171 2005,2935 2004,2847"/>
@@ -4541,6 +4537,7 @@
             </TextLine>
             <TextLine id="r91l5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="2483,4774 2800,4771 2800,4798 2481,4799"/>
+                <Baseline points="2487,4795 2795,4792"/>
                 <TextEquiv>
                     <Unicode>a. d. Ank.⸗Bur. d. Bl.</Unicode>
                 </TextEquiv>
@@ -4724,13 +4721,9 @@
                     <Unicode>62320—2</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r96l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="3267,741 3346,739 3346,741"/>
-                <TextEquiv>
-                    <Unicode>Mariahilferſtraße 70 (Ecke Neubau⸗</Unicode>
-                </TextEquiv>
-                <TextStyle fontFamily="Times New Roman" fontSize="4.5"/>
-            </TextLine>
+            <TextEquiv>
+                <Unicode>62320—2</Unicode>
+            </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r97" custom="readingOrder {index:99;}">
             <Coords points="2905,780 3379,781 3379,997 3234,1000 3235,1029 2907,1028"/>
@@ -4793,6 +4786,7 @@
             </TextLine>
             <TextLine id="r97l9" custom="readingOrder {index:8;}">
                 <Coords points="2910,999 3170,999 3188,997 3220,1000 3221,1026 3184,1026 2909,1025"/>
+                <Baseline points="2913,1020 3216,1022"/>
                 <TextEquiv>
                     <Unicode>kehr 3—6 Uhr nachm.</Unicode>
                 </TextEquiv>
@@ -5493,6 +5487,7 @@
             </TextLine>
             <TextLine id="r115l9" custom="readingOrder {index:8;}">
                 <Coords points="2925,3674 3240,3664 3242,3688 3224,3692 2926,3695"/>
+                <Baseline points="2930,3690 3233,3686"/>
                 <TextEquiv>
                     <Unicode>a., d. Ank.-Bur. d. Bl.</Unicode>
                 </TextEquiv>

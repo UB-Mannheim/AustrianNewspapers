@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>University of Innsbruck</Creator>
         <Created>2018-11-29T10:45:21.43+01:00</Created>
-        <LastChange>2023-04-25T10:54:25.656+02:00</LastChange>
+        <LastChange>2023-05-02T17:53:38.300+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: German
                 Language: GermanStandard
                 Producer: https://transkribus.eu/Transkribus/</Comments>
-        <TranskribusMetadata docId="1394947" pageId="53863190" pageNr="52" tsid="119418704" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=SSCVEFBXCNPMHZBOLYZTMSIB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SCWENAISVEEYPVUEGWMWIZHK" imageId="38488831"/>
+        <TranskribusMetadata docId="1394947" pageId="53863190" pageNr="52" tsid="120681795" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=SSCVEFBXCNPMHZBOLYZTMSIB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVUKCMEGJNSUNEHJAEOXOZGM" imageId="38488831"/>
     </Metadata>
     <Page imageFilename="ONB_ibn_19110701_026.tif" imageWidth="3168" imageHeight="4834">
         <PrintSpace>
             <Coords points="0,0 3168,0 3168,4834 0,4834"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1682495881238" caption="Regions reading order">
+            <OrderedGroup id="ro_1683043488259" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -464,12 +464,9 @@
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
-            <TextLine id="r13l2" primaryLanguage="German" custom="readingOrder {index:1;}">
-                <Coords points="1000,2546 1075,2549 1074,2549"/>
-                <TextEquiv>
-                    <Unicode>Triest-Venedig</Unicode>
-                </TextEquiv>
-            </TextLine>
+            <TextEquiv>
+                <Unicode>238—0-7</Unicode>
+            </TextEquiv>
         </TextRegion>
         <ImageRegion id="Image_1682072939368_654" custom="readingOrder {index:14;}">
             <Coords points="158,3426 344,3426 344,3587 158,3587"/>
