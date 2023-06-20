@@ -11,7 +11,7 @@ Günter Mühlberger, & Günter Hackl. (2019).
 NewsEye / READ OCR training dataset from Austrian Newspapers (19th C.) [Data set].
 Zenodo. http://doi.org/10.5281/zenodo.3387369
 
-The original data set was published under the Creative Commons Attribution 4.0 International license.
+The original data set was published under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Austrian Newspapers 2.0.0 (April 2023)
 
