@@ -53,11 +53,14 @@ The transcription rules are based on the [OCR-D Ground Truth Guidelines Level 2]
     - Black circle (●)
     - Black large circle (⬤)
     - Heavy four balloon-spoked asterisk (✤)
-    
+
 2) **Additional characters** transcribed true to original (contrary to OCR-D Level 2):
     - Double oblique hyphen (⸗)
     - Em dash (—) instead of En dash (–)
-    
+
+### Funding
+This revision is part of the [OCR-D project](https://ocr-d.de/en/) and predominantly funded by the [German Research Foundation (DFG)](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_15/index.html).
+
 # Links
 - [[Original data set] NewsEye / READ OCR training dataset from Austrian Newspapers (19th C.)](http://doi.org/10.5281/zenodo.3387369) 
 - [Library Labs @ Austrian Nation Library](https://labs.onb.ac.at/)
